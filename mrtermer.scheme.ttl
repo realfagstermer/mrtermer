@@ -1,0 +1,61 @@
+@base <http://data.ub.uio.no/> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix mads: <http://www.loc.gov/mads/rdf/v1#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix lexvo: <http://lexvo.org/id/iso639-3/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix sd: <http://www.w3.org/ns/sparql-service-description#> .
+@prefix ubo: <http://data.ub.uio.no/onto#> .
+
+<mrtermer> a skos:ConceptScheme, void:Dataset, sd:Graph ;
+    rdfs:label "Human Rights Terms"@en ;
+    rdfs:label "Menneskerettighetstermer"@nb ;
+    dcterms:title "Human Rights Terms"@en ;
+    dcterms:title "Menneskerettighetstermer"@nb ;
+    dcterms:description "Human Rights Terms is a controlled subject headings vocabulary covering mainly human rights literature, and is maintained by the Human Rights Library, part of the UiO Law Library."@en,
+        "Menneskerettighetstermer er et kontrollert, pre-koordinert emneordsvokabular som forvaltes og videreutvikles av Norsk senter for menneskerettigheters (SMR) bibliotek."@nb ;
+    dcterms:publisher <library/k> ;
+    dcterms:creator <library/k> ;
+    dcterms:language lexvo:eng ;
+    cc:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:type <http://purl.org/dc/dcmitype/Dataset>,
+        <http://purl.org/nkos/nkostype/subject_heading_scheme> ;
+    void:sparqlEndpoint <sparql> ;
+    void:dataDump <dumps/mrtermer.rdf>,
+        <dumps/mrtermer.ttl> ;
+    void:uriSpace "http://data.ub.uio.no/mrtermer/" ;
+    void:exampleResource <mrtermer/c012676> ;
+    void:vocabulary skos: , mads: .
+
+<library/k> a foaf:Organization ;
+    rdfs:label "University of Oslo Library"@en,
+        "Universitetsbiblioteket i Oslo"@nb ;
+    owl:sameAs <http://dbpedia.org/resource/University_Library_of_Oslo>,
+        <http://viaf.org/viaf/155670338/>,
+        <http://www.wikidata.org/entity/Q3354774> .
+
+<sparql> a sd:Service ;
+    sd:url <sparql> ;
+    sd:supportedLanguage sd:SPARQL11Query ;
+    sd:feature sd:UnionDefaultGraph ;
+    sd:defaultDataset <sparql/dataset> .
+
+<sparql/dataset> a sd:Dataset ;
+    dcterms:title "data.ub.uio.no" ;
+    dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
+    sd:defaultGraph <sparql/graphs/default> ;
+    sd:namedGraph <sparql/graphs/mrtermer> .
+
+<sparql/graphs/default> a sd:Graph .
+
+<sparql/graphs/mrtermer> a sd:NamedGraph ;
+    sd:name <mrtermer> ;
+    sd:graph <mrtermer> .

@@ -1,0 +1,8464 @@
+id= SMR00001
+te= America
+
+id= SMR00002
+te= Americas
+
+id= SMR00003
+te= Amharic
+
+id= SMR00004
+te= Amicus Curiae
+
+id= SMR00005
+te= Arabic
+
+id= SMR00006
+te= Arabs
+
+id= SMR00007
+te= Baha'i
+
+id= SMR00008
+te= Bahrain
+
+id= SMR00009
+te= Boundaries
+
+id= SMR00010
+te= Buddhism
+
+id= SMR00011
+te= Career development
+
+id= SMR00012
+te= Catholicism
+
+id= SMR00013
+te= Chinese
+
+id= SMR00014
+te= Christians
+
+id= SMR00015
+te= Civilian population
+
+id= SMR00016
+te= Cluster munitions
+
+id= SMR00017
+te= Comfort women
+
+id= SMR00018
+te= Commonwealth of Independent States
+
+id= SMR00019
+te= Comparative law
+
+id= SMR00020
+te= Conflict prevention
+
+id= SMR00021
+te= Confucianism
+
+id= SMR00022
+te= Consumer protection
+
+id= SMR00023
+te= Contractual obligations
+
+id= SMR00024
+te= Control of natural resources
+
+id= SMR00025
+te= Cooperation
+
+id= SMR00026
+te= Coptic Orthodox Church
+
+id= SMR00027
+te= Cross-cultural relations
+
+id= SMR00028
+te= Customs and traditions
+
+id= SMR00029
+te= Danish
+
+id= SMR00030
+te= Databases
+
+id= SMR00031
+te= Democratization
+
+id= SMR00032
+te= Development cooperation
+
+id= SMR00033
+te= Dialogues
+
+id= SMR00034
+te= Diplomats
+
+id= SMR00035
+te= Documentation
+
+id= SMR00036
+te= Domestic workers
+
+id= SMR00037
+te= Duties
+
+id= SMR00038
+te= Economic systems
+
+id= SMR00039
+te= Economic, social and cultural rights
+
+id= SMR00040
+te= Economics
+
+id= SMR00041
+te= Economy
+
+id= SMR00042
+te= Electoral fraud and intimidation
+
+id= SMR00043
+te= English
+
+id= SMR00044
+te= Ethnology
+
+id= SMR00045
+te= EU
+
+id= SMR00046
+te= Evaluation
+
+id= SMR00047
+te= Falun Gong
+
+id= SMR00048
+te= Family law
+
+id= SMR00049
+te= Fiction
+
+id= SMR00050
+te= Forced relocation
+
+id= SMR00051
+te= Forensic psychiatry
+
+id= SMR00052
+te= French
+
+id= SMR00053
+te= German
+
+id= SMR00054
+te= Globalization
+
+id= SMR00055
+te= Health services
+
+id= SMR00056
+te= Helsinki Accords
+
+id= SMR00057
+te= Hinduism
+
+id= SMR00058
+te= History
+
+id= SMR00059
+te= History of human rights
+
+id= SMR00060
+te= HIV/AIDS
+
+id= SMR00061
+te= Human rights
+
+id= SMR00062
+te= Human rights defenders
+
+id= SMR00063
+te= Immigration law
+
+id= SMR00064
+te= Impartial judiciary
+
+id= SMR00065
+te= Indigenous women
+
+id= SMR00066
+te= Industrial workers
+
+id= SMR00067
+te= Information handling
+
+id= SMR00068
+te= Information retrieval
+
+id= SMR00069
+te= Information systems
+
+id= SMR00070
+te= Information technology
+
+id= SMR00071
+te= International criminal law
+
+id= SMR00072
+te= International organizations
+
+id= SMR00073
+te= Interviews
+
+id= SMR00074
+te= Islamic law
+
+id= SMR00075
+te= Jews
+
+id= SMR00076
+te= Journals
+
+id= SMR00077
+te= Kurdish
+
+id= SMR00078
+te= Kurds
+
+id= SMR00079
+te= Labour law
+
+id= SMR00080
+te= Labour standards
+
+id= SMR00081
+te= Law and literature
+
+id= SMR00082
+te= Legal research
+
+id= SMR00083
+te= Legal rhetoric
+
+id= SMR00084
+te= Libraries
+
+id= SMR00085
+te= Limburg Principles
+
+id= SMR00086
+te= Living conditions
+
+id= SMR00087
+te= Maastricht Guidelines
+
+id= SMR00088
+te= Maghrib
+
+id= SMR00089
+te= Mainstreaming human rights
+
+id= SMR00090
+te= Margin of appreciation
+
+id= SMR00091
+te= Men
+
+id= SMR00092
+te= Military operations
+
+id= SMR00093
+te= Modernization
+
+id= SMR00094
+te= Monitoring
+
+id= SMR00095
+te= Muslims
+
+id= SMR00096
+te= Neo-conservatism
+
+id= SMR00097
+te= Non-wage benefits
+
+id= SMR00098
+te= Norwegian
+
+id= SMR00099
+te= Nyalali Commission
+
+id= SMR00100
+te= Optional protocols
+
+id= SMR00101
+te= Orthodox Church
+
+id= SMR00102
+te= Palestinians
+
+id= SMR00103
+te= Peacekeeping
+
+id= SMR00104
+te= Peacekeeping forces
+
+id= SMR00105
+te= Peacekeeping missions
+
+id= SMR00106
+te= Persecution
+
+id= SMR00107
+te= Philosophy
+
+id= SMR00108
+te= Policy
+
+id= SMR00109
+te= Political institutions
+
+id= SMR00110
+te= Political philosophy
+
+id= SMR00111
+te= Political science
+
+id= SMR00112
+te= Politics
+
+id= SMR00113
+te= Portuguese
+
+id= SMR00114
+te= Pre-trial procedure
+
+id= SMR00115
+te= Primary schools
+
+id= SMR00116
+te= Privacy
+
+id= SMR00117
+te= Private law
+
+id= SMR00118
+te= Protection
+
+id= SMR00119
+te= Protection of human rights
+
+id= SMR00120
+te= Protestantism
+
+id= SMR00121
+te= Public administration
+
+id= SMR00122
+te= Punishment
+
+id= SMR00123
+te= Quality control
+
+id= SMR00124
+te= Reconciliation
+
+id= SMR00125
+te= Refugee law
+
+id= SMR00126
+te= Refugee status determination process
+
+id= SMR00127
+te= Regional cooperation
+
+id= SMR00128
+te= Regional human rights instruments
+
+id= SMR00129
+te= Religious institutions
+
+id= SMR00130
+te= Religious theories
+
+id= SMR00131
+te= Research
+
+id= SMR00132
+te= Right to reply
+
+id= SMR00133
+te= Roma
+
+id= SMR00134
+te= Russian
+
+id= SMR00135
+te= Sami
+
+id= SMR00136
+te= School prayers
+
+id= SMR00137
+te= Search strategies
+
+id= SMR00138
+te= Security policy
+
+id= SMR00139
+te= Sexism
+
+id= SMR00140
+te= Sexual rights
+
+id= SMR00141
+te= Sharia
+
+id= SMR00142
+te= Sikhism
+
+id= SMR00143
+te= Social law
+
+id= SMR00144
+te= Social sciences
+
+id= SMR00145
+te= Socialization
+
+id= SMR00146
+te= Sociology
+
+id= SMR00147
+te= Spanish
+
+id= SMR00148
+te= Special rapporteurs
+
+id= SMR00149
+te= Sports and human rights
+
+id= SMR00150
+te= State
+
+id= SMR00151
+te= Statistics
+
+id= SMR00152
+te= Swedish
+
+id= SMR00153
+te= Taliban
+
+id= SMR00154
+te= Third World
+
+id= SMR00155
+te= Tigrinya
+
+id= SMR00156
+te= United Nations charter-based bodies
+
+id= SMR00157
+te= United Nations treaty-based bodies
+
+id= SMR00158
+te= Universal
+
+id= SMR00159
+te= Universalism
+
+id= SMR00160
+te= Valuation
+
+id= SMR00161
+te= Vietnamese
+
+id= SMR00162
+te= Visas
+
+id= SMR00163
+te= Voting
+
+id= SMR00164
+te= Wales
+
+id= SMR00165
+te= Whistleblowing
+
+id= SMR00166
+te= White papers
+
+id= SMR00167
+te= Women's rights
+
+id= SMR00168
+te= World War II
+
+id= SMR00169
+te= Abortion
+so= SMR00214
+so= SMR00436
+so= SMR00743
+so= SMR00744
+so= SMR00811
+
+id= SMR00170
+te= Abuse
+bf= Exploitation
+so= SMR00171
+so= SMR00539
+so= SMR01049
+so= SMR00332
+so= SMR00768
+so= SMR00714
+
+id= SMR00171
+te= Abused women
+
+id= SMR00172
+te= Academic freedom
+so= SMR00225
+so= SMR00379
+so= SMR00455
+so= SMR00456
+so= SMR00463
+so= SMR00534
+so= SMR00541
+so= SMR00867
+so= SMR00955
+so= SMR00954
+
+id= SMR00173
+te= Accomplices
+so= SMR01004
+
+id= SMR00174
+te= Accountability
+so= SMR00279
+so= SMR00531
+so= SMR01074
+
+id= SMR00175
+te= Acquittal
+so= SMR00276
+so= SMR01004
+
+id= SMR00176
+te= Administration of justice
+so= SMR01002
+so= SMR00285
+so= SMR00290
+so= SMR00527
+so= SMR00581
+so= SMR01042
+so= SMR00606
+so= SMR00762
+
+id= SMR00177
+te= Administrative agencies
+so= SMR00179
+so= SMR00797
+
+id= SMR00178
+te= Administrative detention
+bf= Administrative internment
+bf= Detention without charge or trial
+bf= Ministerial detention
+bf= Preventive detention
+so= SMR00191
+so= SMR01019
+so= SMR00538
+so= SMR00720
+so= SMR00786
+so= SMR00793
+
+id= SMR00179
+te= Administrative law
+
+id= SMR00180
+te= Advertising
+so= SMR00258
+
+id= SMR00181
+te= Agrarian reform
+bf= Land reform
+so= SMR00183
+so= SMR00592
+so= SMR00593
+so= SMR00707
+so= SMR00706
+so= SMR00859
+so= SMR00861
+
+id= SMR00182
+te= Agricultural workers
+bf= Farmworkers
+so= SMR00183
+so= SMR00430
+so= SMR00706
+so= SMR00859
+so= SMR00861
+so= SMR00862
+
+id= SMR00183
+te= Agriculture
+so= SMR00181
+so= SMR00182
+so= SMR00439
+so= SMR00592
+so= SMR00706
+so= SMR00965
+
+id= SMR00184
+te= AIDS
+bf= Acquired Immune Deficiency Syndrome
+so= SMR00340
+so= SMR00493
+so= SMR00708
+
+id= SMR00185
+te= Amnesties
+so= SMR00524
+so= SMR00695
+
+id= SMR00186
+te= Amparo
+so= SMR00987
+so= SMR00579
+
+id= SMR00187
+te= Anti-apartheid movements
+so= SMR00189
+so= SMR00217
+so= SMR00375
+so= SMR00661
+
+id= SMR00188
+te= Anti-semitism
+so= SMR01029
+so= SMR01030
+so= SMR00494
+so= SMR00576
+so= SMR00745
+so= SMR00781
+so= SMR00801
+so= SMR00806
+
+id= SMR00189
+te= Apartheid
+so= SMR00187
+so= SMR00406
+so= SMR00782
+so= SMR00873
+
+id= SMR00190
+te= Arbitrary arrest
+so= SMR00191
+so= SMR00198
+so= SMR00481
+so= SMR00719
+so= SMR00721
+so= SMR00838
+
+id= SMR00191
+te= Arbitrary detention
+so= SMR00178
+so= SMR00190
+so= SMR01019
+so= SMR00481
+so= SMR00719
+so= SMR00720
+so= SMR00721
+so= SMR00838
+
+id= SMR00192
+te= Arbitration
+so= SMR00253
+so= SMR00269
+so= SMR00588
+so= SMR00628
+
+id= SMR00193
+te= Armed forces
+so= SMR01115
+so= SMR00238
+so= SMR00257
+so= SMR00637
+so= SMR00641
+so= SMR00642
+so= SMR00644
+so= SMR00645
+so= SMR00646
+so= SMR00647
+so= SMR00650
+
+id= SMR00194
+te= Armed resistance movements
+so= SMR01115
+so= SMR01012
+so= SMR00480
+so= SMR00637
+so= SMR00661
+so= SMR00678
+so= SMR00692
+so= SMR00819
+so= SMR00848
+so= SMR00956
+
+id= SMR00195
+te= Armistice
+so= SMR01115
+so= SMR00224
+so= SMR00705
+so= SMR00842
+
+id= SMR00196
+te= Arms race
+so= SMR00197
+so= SMR00334
+so= SMR00369
+so= SMR01040
+so= SMR00564
+so= SMR00683
+so= SMR00966
+
+id= SMR00197
+te= Arms trade
+so= SMR00196
+so= SMR00642
+so= SMR00966
+
+id= SMR00198
+te= Arrested persons
+so= SMR00190
+so= SMR00293
+so= SMR01019
+so= SMR00481
+so= SMR00719
+so= SMR00720
+so= SMR01069
+
+id= SMR00199
+te= Artists
+so= SMR01038
+
+id= SMR00200
+te= Asylum
+so= SMR00283
+so= SMR00415
+so= SMR00989
+so= SMR00497
+so= SMR00520
+so= SMR01062
+so= SMR01065
+so= SMR01075
+so= SMR00126
+
+id= SMR00201
+te= Asylum seekers
+so= SMR01062
+
+id= SMR00202
+te= Ballot papers
+so= SMR01024
+so= SMR00856
+
+id= SMR00203
+te= Banks
+so= SMR00447
+
+id= SMR00204
+te= Bar associations
+so= SMR00600
+
+id= SMR00205
+te= Barrier-free access
+
+id= SMR00206
+te= Basic needs
+so= SMR00362
+so= SMR01025
+so= SMR00501
+so= SMR00510
+so= SMR00526
+so= SMR00741
+so= SMR00779
+so= SMR00826
+so= SMR00827
+so= SMR00831
+so= SMR00834
+so= SMR00841
+so= SMR00850
+so= SMR00852
+so= SMR00861
+so= SMR00887
+so= SMR00896
+so= SMR00958
+so= SMR00968
+
+id= SMR00207
+te= Best interest of the child
+so= SMR00231
+so= SMR00232
+so= SMR00240
+so= SMR00993
+
+id= SMR00208
+te= Bilateral aid
+so= SMR00327
+so= SMR00642
+so= SMR00656
+so= SMR00921
+
+id= SMR00209
+te= Bilingual education
+so= SMR00294
+so= SMR00595
+so= SMR00596
+so= SMR00653
+so= SMR00652
+so= SMR00688
+
+id= SMR00210
+te= Bilingualism
+so= SMR00595
+so= SMR00688
+
+id= SMR00211
+te= Bioethics
+so= SMR00213
+so= SMR00759
+so= SMR00812
+
+id= SMR00212
+te= Biological weapons
+so= SMR00226
+
+id= SMR00213
+te= Biotechnology
+so= SMR00211
+so= SMR00629
+
+id= SMR00214
+te= Birth control
+so= SMR00743
+so= SMR00811
+
+id= SMR00215
+te= Birth rate
+so= SMR00736
+
+id= SMR00216
+te= Bonded labour
+so= SMR00440
+so= SMR00838
+so= SMR01072
+so= SMR00886
+
+id= SMR00217
+te= Boycotts
+so= SMR00187
+so= SMR00279
+so= SMR00280
+so= SMR00375
+so= SMR00400
+so= SMR00447
+so= SMR00450
+so= SMR00565
+
+id= SMR00218
+te= Broadcasting
+so= SMR00452
+so= SMR00462
+so= SMR00711
+
+id= SMR00219
+te= Burden of proof
+bf= Onus of proof
+
+id= SMR00220
+te= Capitalism
+so= SMR01013
+so= SMR00522
+
+id= SMR00221
+te= Catholic Church
+so= SMR00246
+so= SMR00245
+so= SMR00803
+
+id= SMR00222
+te= Castes
+so= SMR00252
+so= SMR00349
+so= SMR00891
+
+id= SMR00223
+te= Causes of migration
+so= SMR01000
+so= SMR00368
+so= SMR00374
+so= SMR00442
+so= SMR00560
+so= SMR01062
+
+id= SMR00224
+te= Ceasefire
+so= SMR00195
+so= SMR00705
+so= SMR00842
+
+id= SMR00225
+te= Censorship
+so= SMR00172
+so= SMR00452
+so= SMR00456
+so= SMR00459
+so= SMR00462
+so= SMR00738
+so= SMR00764
+
+id= SMR00226
+te= Chemical weapons
+so= SMR00212
+so= SMR00619
+
+id= SMR00227
+te= Child abduction
+so= SMR00231
+so= SMR00993
+so= SMR01105
+so= SMR00498
+so= SMR00697
+
+id= SMR00228
+te= Child abuse
+so= SMR00232
+so= SMR00233
+so= SMR00240
+so= SMR00993
+so= SMR00278
+so= SMR01016
+so= SMR00360
+so= SMR00697
+so= SMR00768
+so= SMR00882
+
+id= SMR00229
+te= Child adoption
+so= SMR00298
+so= SMR00232
+so= SMR00993
+so= SMR00451
+so= SMR00697
+so= SMR00821
+
+id= SMR00230
+te= Child care
+so= SMR00231
+so= SMR00239
+so= SMR00993
+so= SMR00451
+so= SMR00627
+so= SMR00697
+
+id= SMR00231
+te= Child custody
+so= SMR00207
+so= SMR00227
+so= SMR00230
+so= SMR00239
+so= SMR00993
+so= SMR00357
+so= SMR00696
+so= SMR00697
+so= SMR00906
+so= SMR01082
+
+id= SMR00232
+te= Child in need of protection
+so= SMR00298
+so= SMR00207
+so= SMR00228
+so= SMR00229
+so= SMR00233
+so= SMR00240
+so= SMR00451
+so= SMR00697
+so= SMR00846
+so= SMR01076
+
+id= SMR00233
+te= Child labour
+so= SMR00228
+so= SMR00232
+so= SMR00993
+
+id= SMR00234
+te= Child nutrition
+so= SMR00993
+so= SMR00362
+so= SMR00439
+so= SMR00512
+so= SMR00535
+so= SMR00618
+so= SMR00673
+so= SMR00741
+so= SMR00834
+so= SMR00836
+
+id= SMR00235
+te= Child pornography
+so= SMR00237
+so= SMR00993
+
+id= SMR00236
+te= Infant mortality
+bf= Child mortality
+
+id= SMR00237
+te= Child prostitution
+so= SMR00235
+so= SMR00993
+so= SMR00880
+so= SMR01076
+
+id= SMR00238
+te= Child soldiers
+so= SMR00193
+so= SMR00257
+
+id= SMR00239
+te= Child support
+so= SMR00230
+so= SMR00357
+so= SMR00526
+so= SMR00697
+
+id= SMR00240
+te= Child welfare
+so= SMR00298
+so= SMR00207
+so= SMR00228
+so= SMR00232
+so= SMR00993
+so= SMR00451
+so= SMR00846
+
+id= SMR00241
+te= Childbirth
+so= SMR00236
+so= SMR00627
+so= SMR00673
+so= SMR00743
+so= SMR00744
+so= SMR00811
+
+id= SMR00242
+te= Children with disabilities
+so= SMR00338
+so= SMR00892
+so= SMR00905
+
+id= SMR00243
+te= Children's rights
+
+id= SMR00244
+te= Christianity
+so= SMR00221
+so= SMR00101
+
+id= SMR00245
+te= Church organizations
+so= SMR00221
+so= SMR00246
+so= SMR00320
+so= SMR00553
+so= SMR00562
+so= SMR00710
+so= SMR00802
+so= SMR00804
+so= SMR00803
+
+id= SMR00246
+te= Churches and human rights
+so= SMR00221
+so= SMR00245
+so= SMR00612
+so= SMR00802
+
+id= SMR00247
+te= Citizenship
+so= SMR01017
+so= SMR00336
+so= SMR00989
+so= SMR00663
+so= SMR00667
+so= SMR00823
+so= SMR00824
+so= SMR01075
+
+id= SMR00248
+te= Civil disobedience
+bf= Non-violence
+bf= Passive resistance
+so= SMR00999
+so= SMR00455
+so= SMR01053
+so= SMR01058
+
+id= SMR00249
+te= Civil law
+so= SMR00259
+
+id= SMR00250
+te= Civil persons
+so= SMR01115
+so= SMR00510
+so= SMR00509
+so= SMR00649
+so= SMR00963
+
+id= SMR00251
+te= Civil and political rights
+so= SMR00370
+so= SMR00491
+so= SMR00505
+so= SMR00533
+so= SMR00543
+so= SMR00555
+so= SMR00532
+
+id= SMR00252
+te= Class society
+so= SMR00222
+so= SMR00891
+
+id= SMR00253
+te= Collective bargaining
+so= SMR00192
+so= SMR00269
+so= SMR00422
+so= SMR00558
+so= SMR00588
+so= SMR00851
+so= SMR00590
+so= SMR00979
+so= SMR00980
+
+id= SMR00254
+te= Collective punishment
+so= SMR00323
+so= SMR00443
+so= SMR01029
+so= SMR00626
+so= SMR00649
+so= SMR00912
+
+id= SMR00255
+te= Collective rights
+so= SMR00262
+so= SMR00491
+so= SMR00532
+so= SMR00533
+so= SMR00543
+so= SMR00651
+so= SMR00874
+
+id= SMR00256
+te= Colonization
+so= SMR01013
+so= SMR00314
+so= SMR00522
+so= SMR01043
+so= SMR00593
+so= SMR00647
+so= SMR00879
+
+id= SMR00257
+te= Combatants
+so= SMR01115
+so= SMR00193
+so= SMR00238
+so= SMR00322
+
+id= SMR00258
+te= Commercial free speech
+bf= Corporate free speech
+so= SMR00180
+so= SMR00280
+
+id= SMR00259
+te= Common law
+so= SMR00249
+so= SMR00308
+
+id= SMR00260
+te= Communicable diseases
+bf= Contagious diseases
+bf= Infectuous diseases
+so= SMR00394
+so= SMR00493
+so= SMR00631
+so= SMR00708
+so= SMR00769
+
+id= SMR00261
+te= Communism
+so= SMR00623
+so= SMR00902
+
+id= SMR00262
+te= Communitarianism
+so= SMR00255
+
+id= SMR00263
+te= Community development
+so= SMR00264
+so= SMR00617
+so= SMR00859
+so= SMR00957
+
+id= SMR00264
+te= Community services
+so= SMR00263
+so= SMR00487
+
+id= SMR00265
+te= Compensation
+bf= Damages
+so= SMR01003
+so= SMR00817
+so= SMR00930
+so= SMR01079
+
+id= SMR00266
+te= Complaints procedure
+so= SMR00265
+so= SMR00502
+so= SMR00570
+so= SMR00689
+so= SMR00712
+so= SMR00817
+
+id= SMR00267
+te= Compulsion to testify
+bf= Right not to be compelled to testify
+so= SMR00988
+so= SMR01006
+so= SMR00411
+so= SMR00746
+so= SMR00847
+so= SMR00875
+so= SMR00971
+
+id= SMR00268
+te= Concentration camps
+so= SMR00321
+so= SMR00587
+so= SMR00753
+
+id= SMR00269
+te= Conciliation
+so= SMR00192
+so= SMR00253
+so= SMR00628
+
+id= SMR00270
+te= Conditionality
+so= SMR00328
+so= SMR00327
+so= SMR00449
+
+id= SMR00271
+te= Consent to marriage
+so= SMR00441
+so= SMR00620
+so= SMR00621
+so= SMR00840
+so= SMR00906
+so= SMR00972
+
+id= SMR00272
+te= Consent to treatment
+so= SMR00409
+so= SMR00538
+so= SMR00630
+so= SMR00631
+so= SMR00632
+so= SMR01049
+so= SMR00812
+so= SMR00832
+so= SMR00852
+
+id= SMR00273
+te= Constitutional courts
+so= SMR00274
+so= SMR00579
+so= SMR00578
+
+id= SMR00274
+te= Constitutional law
+so= SMR00273
+so= SMR00412
+so= SMR00432
+so= SMR00473
+so= SMR00580
+so= SMR00608
+so= SMR00878
+
+id= SMR00275
+te= Constitutions
+so= SMR00274
+
+id= SMR00276
+te= Conviction
+so= SMR00175
+so= SMR01004
+so= SMR00876
+
+id= SMR00277
+te= Copyright
+so= SMR01038
+
+id= SMR00278
+te= Corporal punishment
+so= SMR00228
+so= SMR00714
+so= SMR00852
+so= SMR00929
+
+id= SMR00279
+te= Corporate responsibility
+so= SMR00217
+so= SMR00280
+so= SMR01005
+so= SMR00400
+so= SMR00447
+so= SMR00483
+so= SMR00759
+so= SMR00942
+so= SMR00996
+
+id= SMR00280
+te= Corporations
+so= SMR00217
+so= SMR00258
+so= SMR00279
+so= SMR00400
+so= SMR00447
+so= SMR00756
+
+id= SMR00281
+te= Correctional services
+so= SMR00749
+
+id= SMR00282
+te= Corruption
+so= SMR00776
+
+id= SMR00283
+te= Country of first asylum
+so= SMR00200
+
+id= SMR00284
+te= Court challenges
+so= SMR00605
+so= SMR00987
+so= SMR00600
+so= SMR01057
+
+id= SMR00285
+te= Courts
+so= SMR00176
+so= SMR01002
+so= SMR00502
+so= SMR00577
+so= SMR00579
+so= SMR00581
+so= SMR00599
+
+id= SMR00286
+te= Courts-martial
+so= SMR00507
+so= SMR00645
+so= SMR00648
+
+id= SMR00287
+te= Crime
+so= SMR00288
+so= SMR01003
+so= SMR00289
+so= SMR00292
+so= SMR00724
+so= SMR01085
+
+id= SMR00288
+te= Crime prevention
+so= SMR00292
+so= SMR01004
+so= SMR00718
+so= SMR01058
+so= SMR00773
+
+id= SMR00289
+te= Crimes against humanity
+so= SMR00624
+so= SMR01085
+
+id= SMR00290
+te= Criminal justice
+so= SMR00176
+so= SMR00291
+so= SMR00292
+so= SMR01004
+
+id= SMR00291
+te= Criminal law
+so= SMR00290
+so= SMR00292
+so= SMR00293
+
+id= SMR00292
+te= Criminal offences
+so= SMR00288
+so= SMR01003
+so= SMR00290
+so= SMR00291
+so= SMR01004
+so= SMR00293
+so= SMR01005
+so= SMR01042
+
+id= SMR00293
+te= Criminal procedure
+so= SMR00988
+so= SMR00198
+so= SMR00291
+so= SMR00292
+so= SMR01004
+so= SMR00361
+so= SMR00411
+so= SMR00481
+so= SMR00746
+so= SMR01066
+so= SMR01069
+so= SMR00847
+so= SMR00875
+so= SMR00947
+
+id= SMR00294
+te= Cross-cultural communications
+so= SMR00302
+so= SMR00407
+so= SMR00655
+
+id= SMR00295
+te= Academic writing
+
+id= SMR00296
+te= Sociology of law
+
+id= SMR00297
+te= Climate change
+
+id= SMR00298
+te= Abandoned children
+bf= Orphans
+so= SMR00229
+so= SMR00232
+so= SMR00240
+so= SMR00821
+so= SMR01076
+
+id= SMR00299
+te= Cruel punishment
+so= SMR01016
+so= SMR00501
+so= SMR00714
+so= SMR00852
+so= SMR00876
+
+id= SMR00300
+te= Cultural assimilation
+so= SMR00301
+so= SMR00407
+so= SMR00651
+so= SMR00655
+
+id= SMR00301
+te= Cultural identity
+so= SMR00300
+so= SMR01015
+so= SMR00302
+so= SMR00306
+so= SMR00407
+so= SMR00408
+so= SMR00528
+so= SMR00530
+so= SMR00595
+so= SMR00651
+so= SMR00653
+so= SMR00662
+
+id= SMR00302
+te= Cultural integration
+so= SMR00294
+so= SMR00301
+so= SMR00407
+so= SMR00596
+so= SMR00614
+so= SMR00651
+so= SMR00655
+
+id= SMR00303
+te= Cultural pluralism
+so= SMR00302
+so= SMR00655
+
+id= SMR00304
+te= Cultural property
+so= SMR00306
+
+id= SMR00305
+te= Cultural relativism
+so= SMR00306
+so= SMR01023
+so= SMR00953
+
+id= SMR00306
+te= Cultural rights
+so= SMR01015
+so= SMR00301
+so= SMR00304
+so= SMR00305
+so= SMR00407
+so= SMR00460
+so= SMR00516
+so= SMR00528
+so= SMR00530
+so= SMR00614
+so= SMR00651
+so= SMR00653
+so= SMR00655
+so= SMR00804
+so= SMR00863
+
+id= SMR00307
+te= Culture
+so= SMR00199
+so= SMR01015
+so= SMR00301
+so= SMR00302
+so= SMR00304
+so= SMR00305
+so= SMR00306
+so= SMR00376
+so= SMR01038
+so= SMR00541
+so= SMR00615
+so= SMR00711
+so= SMR00982
+
+id= SMR00308
+te= Customary law
+so= SMR00259
+so= SMR00530
+so= SMR00604
+so= SMR00934
+so= SMR00949
+
+id= SMR00309
+te= Data collection
+so= SMR01008
+so= SMR00997
+so= SMR00310
+so= SMR00504
+
+id= SMR00310
+te= Data protection
+so= SMR01008
+so= SMR00309
+so= SMR00477
+so= SMR00490
+so= SMR01038
+so= SMR00759
+so= SMR00829
+so= SMR00830
+so= SMR00843
+
+id= SMR00311
+te= De facto marriage
+bf= Common-law relationship
+so= SMR00342
+
+id= SMR00312
+te= Death penalty
+bf= Capital punishment
+so= SMR00839
+
+id= SMR00313
+te= Death squads
+so= SMR00418
+so= SMR00586
+so= SMR00626
+so= SMR00694
+
+id= SMR00314
+te= Decolonization
+so= SMR01013
+so= SMR00256
+so= SMR00522
+so= SMR01035
+so= SMR00661
+so= SMR00669
+so= SMR00680
+so= SMR01050
+so= SMR00848
+so= SMR01071
+
+id= SMR00315
+te= Defamation
+so= SMR00354
+so= SMR00456
+so= SMR00462
+so= SMR01030
+so= SMR00783
+
+id= SMR00316
+te= Deforestation
+so= SMR01026
+so= SMR00619
+so= SMR00665
+so= SMR01060
+so= SMR00970
+
+id= SMR00317
+te= Democracy
+bf= Democratic society
+so= SMR00318
+so= SMR01017
+so= SMR00858
+
+id= SMR00318
+te= Democratic development
+so= SMR00251
+so= SMR00994
+so= SMR00317
+so= SMR01017
+so= SMR01024
+so= SMR00717
+so= SMR00874
+so= SMR00890
+
+id= SMR00319
+te= Demonstrations
+so= SMR01017
+so= SMR00458
+so= SMR00734
+so= SMR00765
+so= SMR00771
+so= SMR01058
+so= SMR00899
+
+id= SMR00320
+te= Denominational schools
+so= SMR00245
+so= SMR00802
+so= SMR00804
+
+id= SMR00321
+te= Deportation
+so= SMR00268
+so= SMR00403
+so= SMR00416
+so= SMR00417
+so= SMR00443
+so= SMR00515
+so= SMR00547
+so= SMR00679
+so= SMR00808
+
+id= SMR00322
+te= Deserters
+so= SMR00193
+so= SMR00257
+so= SMR00999
+so= SMR00650
+
+id= SMR00323
+te= Destruction of dwellings
+so= SMR00254
+so= SMR00410
+so= SMR01027
+so= SMR00443
+so= SMR00461
+so= SMR00495
+so= SMR00826
+so= SMR01085
+
+id= SMR00324
+te= Detained juveniles
+bf= Juveniles deprived of their liberty
+so= SMR00992
+so= SMR01019
+so= SMR01020
+so= SMR01042
+so= SMR00585
+so= SMR00752
+
+id= SMR00325
+te= Developing countries
+bf= The South
+so= SMR00327
+so= SMR00328
+so= SMR00371
+so= SMR00445
+so= SMR00681
+so= SMR00831
+so= SMR00914
+
+id= SMR00326
+te= Development
+so= SMR00318
+so= SMR00325
+so= SMR00328
+so= SMR00327
+so= SMR00329
+so= SMR00330
+so= SMR00372
+so= SMR00601
+so= SMR00687
+so= SMR00831
+so= SMR00890
+so= SMR00917
+so= SMR00973
+
+id= SMR00327
+te= Development aid
+bf= Development assistance
+so= SMR00270
+so= SMR00325
+so= SMR00328
+so= SMR00330
+so= SMR00372
+so= SMR00553
+so= SMR00601
+so= SMR00687
+so= SMR00831
+
+id= SMR00328
+te= Development and human rights
+so= SMR00270
+so= SMR00325
+so= SMR00327
+so= SMR00444
+so= SMR00449
+so= SMR00533
+so= SMR00543
+so= SMR00681
+so= SMR00687
+so= SMR00831
+so= SMR00914
+
+id= SMR00329
+te= Development education
+so= SMR00377
+so= SMR00378
+
+id= SMR00330
+te= Development projects
+so= SMR00327
+so= SMR00372
+so= SMR00554
+so= SMR00921
+
+id= SMR00331
+te= Dictatorship
+so= SMR01046
+so= SMR00933
+
+id= SMR00332
+te= People with disabilities
+bf= Disabled persons
+bf= Handicapped persons
+so= SMR00170
+so= SMR00338
+so= SMR00340
+so= SMR00343
+so= SMR00345
+so= SMR00395
+so= SMR00538
+so= SMR00633
+so= SMR01049
+so= SMR00892
+so= SMR00981
+
+id= SMR00333
+te= Disadvantaged groups
+so= SMR00739
+so= SMR00391
+so= SMR00399
+so= SMR00846
+so= SMR00891
+so= SMR00892
+so= SMR00893
+so= SMR00918
+
+id= SMR00334
+te= Disarmament
+so= SMR00196
+so= SMR00564
+so= SMR00659
+so= SMR00683
+so= SMR00693
+so= SMR00704
+so= SMR00842
+so= SMR00966
+so= SMR00967
+
+id= SMR00335
+te= Discrimination
+bf= Discriminatory practices
+bf= Differential treatment
+bf= Disparate treatment
+so= SMR00353
+so= SMR00399
+so= SMR00482
+so= SMR00572
+so= SMR00745
+
+id= SMR00336
+te= Discrimination based on citizenship
+so= SMR00247
+so= SMR00339
+so= SMR00344
+so= SMR00663
+
+id= SMR00337
+te= Discrimination based on criminal records
+bf= Discrimination based on record of offences
+so= SMR01004
+so= SMR00399
+so= SMR00892
+
+id= SMR00338
+te= Discrimination based on disabilities
+bf= Discrimination based on handicap
+so= SMR00242
+so= SMR00332
+so= SMR00709
+
+id= SMR00339
+te= Discrimination based on ethnic origin
+bf= Discrimination based on association with a national minority
+so= SMR00344
+so= SMR00407
+so= SMR00781
+
+id= SMR00340
+te= Discrimination based on health
+so= SMR00708
+
+id= SMR00341
+te= Discrimination based on language
+so= SMR00595
+so= SMR00614
+so= SMR00688
+
+id= SMR00342
+te= Discrimination based on marital status
+so= SMR00311
+so= SMR00357
+so= SMR00425
+so= SMR00621
+so= SMR00697
+
+id= SMR00343
+te= Discrimination based on mental disabilities
+so= SMR00345
+so= SMR00633
+so= SMR00634
+so= SMR00635
+so= SMR00709
+
+id= SMR00344
+te= Discrimination based on national origin
+so= SMR00336
+so= SMR00339
+so= SMR00407
+so= SMR00781
+
+id= SMR00345
+te= Discrimination based on physical disabilities
+so= SMR00343
+so= SMR00332
+
+id= SMR00346
+te= Discrimination based on sexual orientation
+so= SMR00467
+so= SMR00496
+so= SMR00610
+so= SMR00347
+
+id= SMR00347
+te= Transsexuals
+so= SMR00346
+
+id= SMR00348
+te= Discrimination based on social condition
+so= SMR00968
+
+id= SMR00349
+te= Discrimination based on social origin
+so= SMR00222
+so= SMR00348
+
+id= SMR00350
+te= Discrimination in education
+so= SMR00399
+so= SMR00833
+so= SMR00892
+so= SMR00905
+so= SMR00976
+
+id= SMR00351
+te= Discrimination in employment
+so= SMR00389
+so= SMR00395
+so= SMR00397
+so= SMR00482
+so= SMR00492
+so= SMR00702
+so= SMR00918
+so= SMR00977
+
+id= SMR00352
+te= Discrimination in media
+so= SMR00456
+so= SMR00462
+so= SMR01030
+so= SMR00913
+
+id= SMR00353
+te= Discrimination remedies
+so= SMR00998
+so= SMR00378
+
+id= SMR00354
+te= Disinformation
+so= SMR01008
+so= SMR00315
+so= SMR00534
+
+id= SMR00355
+te= Displaced persons
+so= SMR00403
+so= SMR00442
+so= SMR00443
+so= SMR01029
+so= SMR00510
+so= SMR00547
+so= SMR00548
+so= SMR00737
+so= SMR01062
+so= SMR00808
+so= SMR00963
+
+id= SMR00356
+te= Dissidents
+so= SMR00459
+
+id= SMR00357
+te= Divorce
+bf= Dissolution of marriage
+so= SMR00231
+so= SMR00239
+so= SMR00342
+so= SMR00428
+so= SMR00620
+so= SMR01045
+so= SMR00906
+
+id= SMR00358
+te= Domestic remedies
+so= SMR00413
+so= SMR00475
+so= SMR00502
+so= SMR00563
+so= SMR00689
+
+id= SMR00359
+te= Domestic jurisdiction
+so= SMR01023
+so= SMR00607
+so= SMR00660
+
+id= SMR00360
+te= Domestic violence
+bf= Family violence
+so= SMR00171
+so= SMR00228
+so= SMR01081
+
+id= SMR00361
+te= Double jeopardy
+bf= Double incrimination
+bf= Res judicata
+so= SMR00988
+
+id= SMR00362
+te= Drinking water
+so= SMR00234
+so= SMR00618
+so= SMR00731
+so= SMR00834
+so= SMR00836
+so= SMR00864
+so= SMR00965
+
+id= SMR00363
+te= Drittwirkung
+so= SMR00280
+so= SMR00756
+
+id= SMR00364
+te= Drug abuse
+so= SMR00365
+so= SMR00366
+
+id= SMR00365
+te= Drug possession
+so= SMR00364
+so= SMR00366
+
+id= SMR00366
+te= Drug trafficking
+so= SMR00365
+so= SMR00657
+so= SMR01078
+
+id= SMR00367
+te= Due process of law
+so= SMR01066
+
+id= SMR00368
+te= Early warning systems
+so= SMR00223
+so= SMR00560
+
+id= SMR00369
+te= East-West relations
+so= SMR00196
+so= SMR00552
+so= SMR00564
+
+id= SMR00370
+te= Economic and social rights
+so= SMR00206
+so= SMR00251
+so= SMR00376
+so= SMR00389
+so= SMR00395
+so= SMR00397
+so= SMR00487
+so= SMR00500
+so= SMR00501
+so= SMR00512
+so= SMR00526
+so= SMR00097
+so= SMR00686
+so= SMR00702
+so= SMR00741
+so= SMR00887
+so= SMR00893
+so= SMR00896
+so= SMR00968
+
+id= SMR00371
+te= Economic conditions
+so= SMR00374
+so= SMR00445
+so= SMR00728
+
+id= SMR00372
+te= Economic development
+so= SMR00327
+so= SMR00330
+so= SMR00831
+so= SMR00890
+so= SMR00914
+so= SMR00917
+
+id= SMR00373
+te= Economic integration
+so= SMR00565
+
+id= SMR00374
+te= Economic refugees
+so= SMR00223
+so= SMR00371
+so= SMR00638
+
+id= SMR00375
+te= Economic sanctions
+so= SMR00187
+so= SMR00447
+so= SMR00449
+so= SMR00450
+so= SMR00565
+
+id= SMR00376
+te= Education
+so= SMR00172
+so= SMR00209
+so= SMR00320
+so= SMR00329
+so= SMR00350
+so= SMR00377
+so= SMR00379
+so= SMR00380
+so= SMR00488
+so= SMR00378
+so= SMR00516
+so= SMR00534
+so= SMR00596
+so= SMR00652
+so= SMR00654
+so= SMR00740
+so= SMR00748
+so= SMR00755
+so= SMR00774
+so= SMR00802
+so= SMR00833
+so= SMR00865
+so= SMR00869
+so= SMR00905
+so= SMR01077
+so= SMR00920
+so= SMR00954
+so= SMR01083
+so= SMR00976
+
+id= SMR00377
+te= Education for peace
+so= SMR00329
+so= SMR00378
+so= SMR00693
+so= SMR00704
+so= SMR00760
+so= SMR00802
+so= SMR00842
+
+id= SMR00378
+te= Human rights education
+bf= Education for human rights
+bf= Teaching of human rights
+so= SMR00329
+so= SMR00353
+so= SMR00377
+so= SMR00508
+so= SMR00722
+so= SMR00760
+so= SMR00802
+so= SMR00919
+
+id= SMR00379
+te= Educational institutions
+so= SMR00172
+so= SMR00380
+so= SMR00833
+so= SMR01077
+
+id= SMR00380
+te= Educational material
+so= SMR00379
+so= SMR00865
+so= SMR00920
+
+id= SMR00381
+te= Elderly
+bf= Aged
+bf= Aging persons
+bf= Senior citizens
+bf= Seniors
+so= SMR00170
+so= SMR01009
+so= SMR00539
+so= SMR00685
+
+id= SMR00382
+te= Election frauds
+so= SMR01024
+so= SMR00854
+
+id= SMR00383
+te= Election material
+so= SMR01024
+
+id= SMR00384
+te= Election observer missions
+so= SMR01024
+so= SMR00504
+
+id= SMR00385
+te= Electronic media
+bf= Digital documents
+
+id= SMR00386
+te= Electronic surveillance
+bf= Eavesdropping
+bf= Wiretapping
+so= SMR01008
+so= SMR00411
+so= SMR00542
+so= SMR01048
+so= SMR00721
+so= SMR00754
+so= SMR00843
+
+id= SMR00387
+te= Emigration
+so= SMR01000
+so= SMR00415
+so= SMR00457
+so= SMR00520
+so= SMR00638
+so= SMR00824
+so= SMR00849
+
+id= SMR00388
+te= Employment
+so= SMR00739
+so= SMR00233
+so= SMR00351
+so= SMR00389
+so= SMR00390
+so= SMR00397
+so= SMR00440
+so= SMR00492
+so= SMR00589
+so= SMR00591
+so= SMR00097
+so= SMR00686
+so= SMR00702
+so= SMR00857
+so= SMR00938
+so= SMR00952
+so= SMR01083
+so= SMR01087
+so= SMR00977
+so= SMR00979
+so= SMR00980
+
+id= SMR00389
+te= Employment equity
+so= SMR00351
+so= SMR00395
+so= SMR00397
+so= SMR00492
+so= SMR00702
+so= SMR00918
+so= SMR00977
+
+id= SMR00390
+te= Employment security
+so= SMR00835
+so= SMR00857
+so= SMR00979
+
+id= SMR00391
+te= Empowerment
+so= SMR00333
+so= SMR00734
+so= SMR00890
+so= SMR00973
+so= SMR00974
+
+id= SMR00392
+te= Environment
+so= SMR01026
+so= SMR00393
+so= SMR01067
+so= SMR00917
+so= SMR00970
+
+id= SMR00393
+te= Environmental information
+so= SMR01008
+so= SMR01026
+so= SMR00686
+so= SMR01067
+so= SMR00829
+
+id= SMR00394
+te= Epidemics
+so= SMR00260
+so= SMR00769
+
+id= SMR00395
+te= Equal employment opportunities
+so= SMR00739
+so= SMR00351
+so= SMR00389
+so= SMR00492
+so= SMR00589
+so= SMR00857
+so= SMR00892
+so= SMR00918
+so= SMR01083
+so= SMR00977
+
+id= SMR00396
+te= Equal opportunities
+so= SMR00395
+so= SMR00399
+
+id= SMR00397
+te= Equal remuneration
+bf= Equal pay
+bf= Wage gap
+so= SMR00351
+so= SMR00389
+so= SMR00702
+so= SMR00977
+
+id= SMR00398
+te= Equality before the law
+so= SMR00335
+so= SMR00399
+
+id= SMR00399
+te= Equality rights
+bf= Equal benefit of the law
+bf= Equal protection of the law
+bf= Equal rights
+so= SMR00333
+so= SMR00335
+so= SMR00501
+so= SMR00891
+
+id= SMR00400
+te= Ethical investments
+so= SMR00217
+so= SMR00279
+so= SMR00375
+so= SMR00447
+
+id= SMR00401
+te= Ethics
+so= SMR00211
+so= SMR00629
+so= SMR00759
+so= SMR00961
+
+id= SMR00402
+te= Ethnic and national groups
+bf= Ethnic gourps
+so= SMR00407
+
+id= SMR00403
+te= Ethnic cleansing
+so= SMR00355
+so= SMR00404
+so= SMR00406
+so= SMR00407
+so= SMR00442
+so= SMR01029
+so= SMR00735
+so= SMR00782
+so= SMR00783
+
+id= SMR00404
+te= Ethnic conflicts
+so= SMR01012
+so= SMR00403
+so= SMR00407
+so= SMR00572
+so= SMR00662
+so= SMR00678
+so= SMR00780
+so= SMR00782
+so= SMR00783
+so= SMR00800
+
+id= SMR00405
+te= Ethnic discrimination
+so= SMR00339
+so= SMR00407
+so= SMR00781
+
+id= SMR00406
+te= Ethnic enclaves
+so= SMR00189
+so= SMR00403
+so= SMR00407
+so= SMR00471
+so= SMR00737
+so= SMR00873
+
+id= SMR00407
+te= Ethnic minorities
+bf= Cultural groups
+so= SMR00294
+so= SMR00300
+so= SMR00301
+so= SMR00302
+so= SMR00306
+so= SMR00339
+so= SMR00402
+so= SMR00403
+so= SMR00404
+so= SMR00406
+so= SMR00408
+so= SMR00614
+so= SMR00653
+so= SMR00655
+so= SMR00781
+so= SMR00804
+
+id= SMR00408
+te= Ethnicity
+so= SMR00407
+
+id= SMR00409
+te= Euthanasia
+so= SMR00272
+so= SMR00629
+so= SMR00832
+so= SMR00916
+
+id= SMR00410
+te= Evictions
+so= SMR00323
+so= SMR01027
+so= SMR00461
+so= SMR00495
+
+id= SMR00411
+te= Evidence
+so= SMR00219
+so= SMR00267
+so= SMR01006
+so= SMR00386
+so= SMR01041
+so= SMR00721
+so= SMR00746
+so= SMR00847
+so= SMR00875
+so= SMR00971
+
+id= SMR00412
+te= Executive power
+so= SMR00274
+so= SMR00878
+
+id= SMR00413
+te= Exhaustion of domestic remedies
+bf= Exhaustion of local remedies
+so= SMR01023
+so= SMR00359
+so= SMR00557
+so= SMR00712
+so= SMR00563
+
+id= SMR00414
+te= Exhumation
+so= SMR00573
+so= SMR00624
+
+id= SMR00415
+te= Exile
+so= SMR00200
+so= SMR00387
+so= SMR00416
+so= SMR00442
+so= SMR00443
+so= SMR00560
+so= SMR01062
+so= SMR01075
+
+id= SMR00416
+te= Expulsion
+so= SMR00321
+so= SMR00415
+so= SMR00679
+so= SMR00808
+
+id= SMR00417
+te= Extradition
+so= SMR01004
+so= SMR00321
+
+id= SMR00418
+te= Extrajudicial executions
+bf= Arbitrary executions
+bf= Extra-legal executions
+so= SMR00313
+so= SMR01105
+so= SMR00586
+so= SMR00624
+so= SMR00626
+
+id= SMR00419
+te= Extraterritorial jurisdiction
+so= SMR01002
+so= SMR00359
+so= SMR00942
+
+id= SMR00420
+te= Fact-finding
+so= SMR00997
+so= SMR00421
+so= SMR00809
+
+id= SMR00421
+te= Fact-finding missions
+so= SMR00420
+so= SMR00504
+so= SMR00573
+so= SMR00925
+
+id= SMR00422
+te= Fair representation
+so= SMR00253
+so= SMR00454
+so= SMR00591
+so= SMR00590
+
+id= SMR00423
+te= Fair trial
+so= SMR00987
+so= SMR00361
+so= SMR00367
+so= SMR00293
+so= SMR00267
+so= SMR00481
+so= SMR00602
+so= SMR01057
+so= SMR00778
+so= SMR01066
+so= SMR00828
+so= SMR01069
+so= SMR00847
+so= SMR00875
+so= SMR00876
+so= SMR00947
+so= SMR00971
+
+id= SMR00424
+te= Family
+so= SMR00342
+so= SMR00360
+so= SMR00426
+so= SMR00427
+so= SMR00428
+so= SMR00821
+so= SMR00840
+so= SMR00906
+
+id= SMR00425
+te= Family members
+bf= Kinship
+so= SMR00342
+so= SMR00427
+so= SMR00428
+so= SMR00821
+so= SMR00825
+
+id= SMR00426
+te= Family planning
+so= SMR00735
+so= SMR00811
+
+id= SMR00427
+te= Family reunification
+bf= Family reunion
+so= SMR00425
+so= SMR00520
+so= SMR00697
+so= SMR00790
+so= SMR00821
+
+id= SMR00428
+te= Family support
+so= SMR00357
+so= SMR00425
+so= SMR00526
+
+id= SMR00429
+te= Famine
+so= SMR00439
+
+id= SMR00430
+te= Farmers
+so= SMR00182
+so= SMR00183
+so= SMR00706
+so= SMR00859
+so= SMR00862
+
+id= SMR00431
+te= Fascism
+so= SMR00331
+so= SMR00668
+so= SMR00933
+
+id= SMR00432
+te= Federalism
+so= SMR00274
+so= SMR00877
+
+id= SMR00433
+te= Female soldiers
+so= SMR00257
+so= SMR00648
+so= SMR00972
+
+id= SMR00434
+te= Feminism
+so= SMR00391
+so= SMR00435
+so= SMR00701
+so= SMR00972
+
+id= SMR00435
+te= Feminist movement
+so= SMR00434
+so= SMR00972
+so= SMR00978
+
+id= SMR00436
+te= Fetus
+so= SMR00169
+so= SMR00743
+so= SMR00744
+so= SMR00811
+so= SMR00812
+so= SMR00839
+
+id= SMR00437
+te= Firearms
+so= SMR00818
+so= SMR00960
+
+id= SMR00438
+te= Food aid
+so= SMR00439
+so= SMR00512
+so= SMR00562
+so= SMR00834
+
+id= SMR00439
+te= Food shortage
+so= SMR00183
+so= SMR00234
+so= SMR01025
+so= SMR00438
+so= SMR00512
+so= SMR00618
+so= SMR00741
+so= SMR00834
+
+id= SMR00440
+te= Forced labour
+so= SMR00216
+so= SMR00587
+so= SMR00838
+so= SMR01072
+so= SMR00886
+
+id= SMR00441
+te= Forced marriage
+so= SMR00271
+so= SMR00621
+so= SMR00696
+so= SMR00906
+so= SMR01118
+
+id= SMR00442
+te= Forced migration
+so= SMR00223
+so= SMR00355
+so= SMR00403
+so= SMR00415
+so= SMR00443
+so= SMR00457
+so= SMR00461
+so= SMR00510
+so= SMR00548
+so= SMR00560
+so= SMR00737
+
+id= SMR00443
+te= Forced removals
+so= SMR00254
+so= SMR00321
+so= SMR00323
+so= SMR00355
+so= SMR00415
+so= SMR01027
+so= SMR00442
+so= SMR00461
+so= SMR00547
+so= SMR00679
+so= SMR00737
+so= SMR01085
+
+id= SMR00444
+te= Foreign aid
+so= SMR00328
+so= SMR00449
+so= SMR00552
+so= SMR00553
+so= SMR00562
+so= SMR00921
+
+id= SMR00445
+te= Foreign debt
+so= SMR00325
+so= SMR00371
+so= SMR00450
+so= SMR00554
+so= SMR00681
+so= SMR00914
+
+id= SMR00446
+te= Foreign intervention
+so= SMR00910
+so= SMR00923
+
+id= SMR00447
+te= Foreign investments
+so= SMR00203
+so= SMR00217
+so= SMR00279
+so= SMR00375
+so= SMR00400
+so= SMR00450
+so= SMR00554
+so= SMR00565
+so= SMR00669
+so= SMR00942
+
+id= SMR00448
+te= Foreign policy
+bf= External affairs
+bf= Foreign relations
+so= SMR00375
+so= SMR00450
+so= SMR00542
+so= SMR00552
+so= SMR01040
+so= SMR00643
+so= SMR00646
+so= SMR00659
+so= SMR01048
+
+id= SMR00449
+te= Foreign policy and human rights
+so= SMR00270
+so= SMR00328
+so= SMR00375
+so= SMR00444
+so= SMR00509
+so= SMR00687
+
+id= SMR00450
+te= Foreign trade
+so= SMR00217
+so= SMR00375
+so= SMR00448
+so= SMR00447
+so= SMR00565
+so= SMR00942
+
+id= SMR00451
+te= Foster home care
+so= SMR00229
+so= SMR00230
+so= SMR00232
+so= SMR00240
+so= SMR00821
+
+id= SMR00452
+te= Free flow of information
+so= SMR00218
+so= SMR00225
+so= SMR00456
+so= SMR00462
+so= SMR00536
+so= SMR00674
+
+id= SMR00453
+te= Freedom from fear
+so= SMR00846
+so= SMR00852
+
+id= SMR00454
+te= Freedom of association
+so= SMR00458
+so= SMR00478
+so= SMR00558
+so= SMR00591
+so= SMR00710
+so= SMR01055
+so= SMR00758
+so= SMR00851
+so= SMR00590
+
+id= SMR00455
+te= Freedom of conscience
+so= SMR00172
+so= SMR00248
+so= SMR00459
+so= SMR00460
+so= SMR00463
+so= SMR00750
+
+id= SMR00456
+te= Freedom of expression
+so= SMR01008
+so= SMR00225
+so= SMR00315
+so= SMR00352
+so= SMR00452
+so= SMR00463
+so= SMR00458
+so= SMR01030
+so= SMR00738
+
+id= SMR00457
+te= Freedom of movement
+bf= Liberty of movement
+bf= Mobility rights
+so= SMR00387
+so= SMR00461
+so= SMR00548
+so= SMR00560
+so= SMR00676
+so= SMR00824
+so= SMR00849
+so= SMR00943
+
+id= SMR00458
+te= Freedom of peaceful assembly
+so= SMR00319
+so= SMR00454
+so= SMR00456
+so= SMR00765
+
+id= SMR00459
+te= Freedom of political opinion
+so= SMR00225
+so= SMR01017
+so= SMR00356
+so= SMR00455
+so= SMR00534
+so= SMR00724
+so= SMR01053
+so= SMR00725
+so= SMR00726
+so= SMR00730
+so= SMR00786
+
+id= SMR00460
+te= Freedom of religion
+so= SMR00306
+so= SMR00455
+so= SMR00465
+so= SMR00572
+so= SMR00799
+so= SMR00800
+so= SMR00804
+so= SMR00806
+so= SMR00807
+so= SMR00863
+
+id= SMR00461
+te= Freedom of residence
+bf= Freedom to choose one's residence
+bf= Right to choose a residence
+so= SMR00323
+so= SMR00410
+so= SMR00442
+so= SMR00443
+so= SMR00457
+so= SMR00547
+so= SMR00548
+so= SMR00814
+
+id= SMR00462
+te= Freedom of the press
+so= SMR01008
+so= SMR00218
+so= SMR00225
+so= SMR00315
+so= SMR00352
+so= SMR00452
+so= SMR00536
+so= SMR00575
+so= SMR00625
+so= SMR00674
+so= SMR00675
+so= SMR00778
+
+id= SMR00463
+te= Freedom of thought
+bf= Freedom of mind
+so= SMR00172
+so= SMR00455
+so= SMR00456
+so= SMR00534
+so= SMR00541
+so= SMR00786
+so= SMR00867
+
+id= SMR00464
+te= Fundamental rights and freedoms
+so= SMR00532
+
+id= SMR00465
+te= Fundamentalism
+so= SMR00460
+so= SMR00800
+so= SMR00805
+
+id= SMR00466
+te= Fundraising
+so= SMR00710
+
+id= SMR00467
+te= Gay rights
+so= SMR00346
+so= SMR00496
+so= SMR00610
+
+id= SMR00468
+te= Gender discrimination
+bf= Sex discrimination
+bf= Discrimination against women
+bf= Discrimination based on sex
+so= SMR00139
+so= SMR00936
+so= SMR00972
+
+id= SMR00469
+te= Female genital mutilation
+bf= Female circumcision
+so= SMR00972
+so= SMR00714
+
+id= SMR00470
+te= Genital mutilation
+so= SMR00714
+
+id= SMR00471
+te= Ghettos
+so= SMR00406
+so= SMR00873
+so= SMR00958
+
+id= SMR00472
+te= Good governance
+so= SMR00282
+so= SMR00318
+so= SMR00476
+so= SMR00858
+so= SMR01074
+
+id= SMR00473
+te= Government
+so= SMR00274
+so= SMR00412
+so= SMR00472
+so= SMR00476
+so= SMR00477
+so= SMR00608
+so= SMR00776
+so= SMR00874
+so= SMR00878
+
+id= SMR00474
+te= Government departments
+so= SMR00475
+so= SMR00776
+so= SMR00777
+
+id= SMR00475
+te= Government human rights agencies
+so= SMR00997
+so= SMR00358
+so= SMR00474
+so= SMR00502
+so= SMR00573
+so= SMR00689
+so= SMR00760
+
+id= SMR00476
+te= Government policy
+so= SMR00472
+so= SMR00473
+
+id= SMR00477
+te= Government secrecy
+bf= Official secret
+so= SMR00310
+so= SMR00542
+so= SMR01048
+
+id= SMR00478
+te= Grassroot organizations
+bf= Consumer groups
+so= SMR00994
+so= SMR00264
+so= SMR00454
+so= SMR00529
+so= SMR00707
+so= SMR00734
+so= SMR00978
+
+id= SMR00479
+te= Gross human rights violations
+so= SMR00189
+so= SMR00191
+so= SMR00289
+so= SMR01105
+so= SMR00335
+so= SMR00418
+so= SMR01029
+so= SMR00886
+so= SMR00929
+
+id= SMR00480
+te= Guerilla warfare
+so= SMR00194
+so= SMR01012
+so= SMR00661
+so= SMR00819
+so= SMR00956
+
+id= SMR00481
+te= Habeas corpus
+so= SMR00190
+so= SMR00191
+so= SMR00198
+so= SMR01019
+so= SMR00579
+
+id= SMR00482
+te= Harassment
+so= SMR00335
+so= SMR00499
+so= SMR00768
+so= SMR00784
+
+id= SMR00483
+te= Hazardous wastes
+so= SMR00279
+so= SMR01026
+so= SMR00619
+so= SMR00682
+
+id= SMR00484
+te= Heads of Government
+bf= Prime Ministers
+so= SMR00412
+so= SMR00485
+
+id= SMR00485
+te= Heads of State
+bf= Presidents
+so= SMR00412
+so= SMR00484
+
+id= SMR00486
+te= Health
+so= SMR00234
+so= SMR00260
+so= SMR00340
+so= SMR00487
+so= SMR00488
+so= SMR00489
+so= SMR00490
+so= SMR00618
+so= SMR00632
+so= SMR00635
+so= SMR00686
+so= SMR01049
+so= SMR00747
+so= SMR00769
+so= SMR00836
+so= SMR00841
+so= SMR00852
+so= SMR00864
+
+id= SMR00487
+te= Health care services
+so= SMR00264
+so= SMR00489
+so= SMR00490
+so= SMR00684
+so= SMR01049
+so= SMR00715
+so= SMR00769
+so= SMR00836
+
+id= SMR00488
+te= Health education
+so= SMR00747
+so= SMR00769
+so= SMR00836
+so= SMR00864
+
+id= SMR00489
+te= Health personnel
+bf= Health care workers
+so= SMR00487
+so= SMR00629
+so= SMR00636
+
+id= SMR00490
+te= Health records
+so= SMR00310
+so= SMR00487
+so= SMR00629
+so= SMR00631
+so= SMR00632
+so= SMR01049
+so= SMR00830
+so= SMR00843
+
+id= SMR00491
+te= Hierarchy of human rights
+so= SMR00251
+so= SMR00255
+so= SMR00370
+so= SMR00532
+so= SMR00533
+so= SMR00543
+so= SMR00927
+
+id= SMR00492
+te= Hiring practices
+so= SMR00739
+so= SMR00351
+so= SMR00389
+so= SMR00395
+so= SMR00918
+
+id= SMR00493
+te= HIV-infected persons
+so= SMR00184
+so= SMR00340
+so= SMR00708
+
+id= SMR00494
+te= Holocaust
+so= SMR00188
+
+id= SMR00495
+te= Homeless persons
+so= SMR00323
+so= SMR00410
+so= SMR00500
+so= SMR00741
+so= SMR00826
+so= SMR01076
+
+id= SMR00496
+te= Homosexuals
+so= SMR00346
+so= SMR00467
+
+id= SMR00497
+te= Host country
+so= SMR00200
+so= SMR00520
+so= SMR00638
+so= SMR00789
+so= SMR01062
+so= SMR01064
+so= SMR00814
+so= SMR01075
+so= SMR00126
+
+id= SMR00498
+te= Hostage-taking
+so= SMR00227
+
+id= SMR00499
+te= Hostile working environment
+so= SMR00482
+so= SMR00884
+
+id= SMR00500
+te= Housing
+so= SMR00323
+so= SMR00495
+so= SMR00826
+so= SMR00957
+
+id= SMR00501
+te= Human dignity
+so= SMR00206
+so= SMR00251
+so= SMR00370
+so= SMR00399
+so= SMR00779
+so= SMR00826
+so= SMR00827
+so= SMR00834
+so= SMR00838
+so= SMR00839
+so= SMR00852
+
+id= SMR00502
+te= Human rights commissions
+so= SMR00266
+so= SMR00358
+so= SMR00475
+so= SMR00504
+so= SMR00563
+so= SMR00573
+so= SMR00700
+so= SMR00760
+
+id= SMR00503
+te= Human rights legislation
+bf= Anti-discrimination legislation
+so= SMR00358
+so= SMR00475
+so= SMR00760
+
+id= SMR00504
+te= Human rights monitoring
+so= SMR00309
+so= SMR01023
+so= SMR00573
+so= SMR00502
+so= SMR01031
+so= SMR00809
+
+id= SMR00505
+te= Human rights theories
+so= SMR00305
+so= SMR00713
+so= SMR00953
+so= SMR00514
+so= SMR00961
+
+id= SMR00506
+te= Human rights violations
+so= SMR00479
+so= SMR00504
+so= SMR00507
+so= SMR00809
+
+id= SMR00507
+te= Human rights violators
+so= SMR01005
+so= SMR00524
+so= SMR00531
+
+id= SMR00508
+te= Human rights workers
+so= SMR00062
+so= SMR00378
+so= SMR00504
+so= SMR00760
+so= SMR00809
+
+id= SMR00509
+te= Humanitarian intervention
+so= SMR00995
+so= SMR00449
+so= SMR00510
+so= SMR00551
+so= SMR00552
+so= SMR00511
+so= SMR01040
+
+id= SMR00510
+te= Humanitarian assistance
+so= SMR01115
+so= SMR00206
+so= SMR00995
+so= SMR00355
+so= SMR00444
+so= SMR00442
+so= SMR00509
+so= SMR00512
+so= SMR00511
+so= SMR00562
+so= SMR00789
+so= SMR01062
+so= SMR00963
+
+id= SMR00511
+te= International humanitarian law
+so= SMR01115
+so= SMR00995
+so= SMR00510
+so= SMR00509
+so= SMR00622
+so= SMR00751
+so= SMR01062
+so= SMR00963
+so= SMR00981
+
+id= SMR00512
+te= Hunger
+bf= Starvation
+so= SMR00234
+so= SMR01025
+so= SMR00438
+so= SMR00439
+so= SMR00510
+so= SMR00618
+so= SMR00741
+so= SMR00834
+
+id= SMR00513
+te= Identity
+so= SMR00301
+
+id= SMR00514
+te= Ideologies
+so= SMR00505
+so= SMR00729
+
+id= SMR00515
+te= Illegal immigration
+so= SMR00321
+so= SMR00638
+so= SMR00814
+
+id= SMR00516
+te= Illiteracy
+so= SMR00306
+so= SMR00829
+so= SMR00833
+
+id= SMR00517
+te= Immigrant children
+so= SMR00638
+so= SMR00790
+
+id= SMR00518
+te= Immigrants
+so= SMR01000
+so= SMR00387
+so= SMR00457
+so= SMR00515
+so= SMR00560
+so= SMR00814
+so= SMR00849
+
+id= SMR00519
+te= Immigration
+so= SMR00457
+so= SMR00520
+so= SMR00849
+
+id= SMR00520
+te= Immigration policy
+so= SMR00200
+so= SMR00387
+so= SMR00427
+so= SMR00457
+so= SMR00497
+so= SMR00515
+so= SMR00517
+so= SMR00560
+so= SMR01061
+so= SMR01062
+so= SMR00793
+so= SMR00849
+
+id= SMR00521
+te= Immunity
+so= SMR00524
+
+id= SMR00522
+te= Imperialism
+so= SMR00220
+so= SMR01013
+so= SMR00256
+so= SMR00314
+so= SMR00669
+
+id= SMR00523
+te= Implementation
+so= SMR01023
+
+id= SMR00524
+te= Impunity
+so= SMR00988
+so= SMR00185
+so= SMR00507
+so= SMR00531
+so= SMR00573
+so= SMR00695
+so= SMR01074
+
+id= SMR00525
+te= Income distribution
+so= SMR00038
+so= SMR00741
+so= SMR00893
+
+id= SMR00526
+te= Income security
+so= SMR00206
+so= SMR00428
+so= SMR00887
+so= SMR00896
+
+id= SMR00527
+te= Independence of the Judiciary
+bf= Judicial independence
+so= SMR00176
+so= SMR00577
+so= SMR00580
+
+id= SMR00528
+te= Indigenous languages
+so= SMR01015
+so= SMR00301
+so= SMR00306
+so= SMR00595
+so= SMR00653
+
+id= SMR00529
+te= Indigenous organizations
+so= SMR00478
+so= SMR00530
+
+id= SMR00530
+te= Indigenous peoples
+bf= Aboriginal peoples
+bf= Indigenous populations
+so= SMR00256
+so= SMR01015
+so= SMR00301
+so= SMR00304
+so= SMR00306
+so= SMR00308
+so= SMR01028
+so= SMR00528
+so= SMR00529
+so= SMR01043
+so= SMR00593
+so= SMR00874
+so= SMR00934
+so= SMR00935
+so= SMR01068
+
+id= SMR00531
+te= Individual responsibility
+so= SMR01005
+so= SMR00507
+so= SMR00524
+so= SMR01036
+so= SMR00532
+so= SMR01074
+
+id= SMR00532
+te= Individual rights
+so= SMR00251
+so= SMR00255
+so= SMR01036
+so= SMR00531
+so= SMR00611
+so= SMR01050
+
+id= SMR00533
+te= Indivisibility of human rights
+so= SMR00251
+so= SMR00255
+so= SMR00328
+so= SMR00370
+so= SMR00491
+so= SMR00532
+so= SMR00543
+so= SMR00555
+so= SMR00927
+
+id= SMR00534
+te= Indoctrination
+so= SMR00172
+so= SMR00354
+so= SMR00459
+so= SMR00786
+so= SMR00802
+
+id= SMR00535
+te= Infants
+so= SMR00234
+so= SMR00673
+
+id= SMR00536
+te= Information agencies
+bf= News agencies
+so= SMR00452
+so= SMR00462
+so= SMR00575
+so= SMR00625
+so= SMR00674
+
+id= SMR00537
+te= Informed consent
+so= SMR00629
+so= SMR00632
+so= SMR01049
+
+id= SMR00538
+te= Institutionalization
+bf= Civil commitment
+bf= Commital to an institution
+so= SMR00178
+so= SMR00272
+so= SMR00539
+so= SMR00634
+so= SMR00636
+so= SMR00709
+so= SMR00766
+
+id= SMR00539
+te= Institutionalized persons
+so= SMR00170
+so= SMR01019
+so= SMR00538
+so= SMR00636
+so= SMR00634
+so= SMR00685
+so= SMR01049
+so= SMR00709
+so= SMR00766
+
+id= SMR00540
+te= Integration
+so= SMR00302
+so= SMR00892
+
+id= SMR00541
+te= Intellectuals
+so= SMR00172
+so= SMR00456
+so= SMR00463
+so= SMR00867
+
+id= SMR00542
+te= Intelligence services
+bf= Secret service
+so= SMR00386
+so= SMR01048
+
+id= SMR00543
+te= Interdependency of human rights
+so= SMR00251
+so= SMR00255
+so= SMR00328
+so= SMR00370
+so= SMR00491
+so= SMR00532
+so= SMR00533
+so= SMR00927
+
+id= SMR00544
+te= Interest groups
+so= SMR00616
+so= SMR00710
+
+id= SMR00545
+te= Inter-governmental organizations
+so= SMR01063
+
+id= SMR00546
+te= Internal conflicts
+bf= Internal strife
+so= SMR00649
+so= SMR00727
+so= SMR00780
+so= SMR00848
+so= SMR00877
+
+id= SMR00547
+te= Internal exile
+bf= Banishment
+so= SMR00321
+so= SMR00355
+so= SMR00443
+so= SMR00548
+
+id= SMR00548
+te= Internal migration
+so= SMR00355
+so= SMR00442
+so= SMR00457
+so= SMR00461
+so= SMR00547
+so= SMR00676
+so= SMR00736
+so= SMR00737
+so= SMR00835
+so= SMR00879
+so= SMR00959
+
+id= SMR00549
+te= Internally displaced persons
+so= SMR00355
+so= SMR00403
+so= SMR00442
+so= SMR00443
+so= SMR00547
+so= SMR00548
+so= SMR00737
+so= SMR01062
+so= SMR00808
+so= SMR00963
+
+id= SMR00550
+te= International agreements
+so= SMR01018
+so= SMR00559
+so= SMR00785
+so= SMR00813
+
+id= SMR00551
+te= International assistance
+so= SMR00509
+so= SMR00553
+so= SMR00562
+
+id= SMR00552
+te= International cooperation
+so= SMR00369
+so= SMR00448
+so= SMR00509
+so= SMR00564
+so= SMR00672
+so= SMR01063
+so= SMR00842
+
+id= SMR00553
+te= International development agencies
+bf= Aid institutions
+bf= International voluntary agencies
+so= SMR00245
+so= SMR00327
+so= SMR00330
+so= SMR00444
+so= SMR00551
+so= SMR00562
+so= SMR00561
+so= SMR00687
+
+id= SMR00554
+te= International financial institutions
+so= SMR00330
+so= SMR00445
+so= SMR00447
+
+id= SMR00555
+te= International human rights
+so= SMR00491
+so= SMR00505
+so= SMR00533
+so= SMR00543
+so= SMR01023
+so= SMR00557
+so= SMR00795
+so= SMR00953
+
+id= SMR00556
+te= International human rights instruments
+so= SMR01018
+so= SMR01023
+so= SMR00555
+so= SMR00613
+so= SMR00785
+so= SMR00813
+
+id= SMR00557
+te= International human rights protection mechanisms
+so= SMR00413
+so= SMR00566
+
+id= SMR00558
+te= International labour standards
+so= SMR00253
+so= SMR00351
+so= SMR00388
+so= SMR00454
+so= SMR00555
+so= SMR00591
+so= SMR00686
+so= SMR00590
+so= SMR01087
+so= SMR00979
+so= SMR00980
+
+id= SMR00559
+te= International law
+so= SMR00566
+so= SMR00555
+so= SMR01040
+
+id= SMR00560
+te= International migration
+so= SMR00200
+so= SMR00223
+so= SMR00368
+so= SMR00442
+so= SMR00457
+so= SMR00520
+so= SMR00638
+so= SMR01061
+so= SMR01062
+so= SMR00808
+so= SMR01064
+so= SMR00849
+so= SMR01065
+
+id= SMR00561
+te= International NGOs
+bf= INGOs
+bf= International non-governmental organizations
+so= SMR00671
+
+id= SMR00562
+te= International relief agencies
+so= SMR01025
+so= SMR00438
+so= SMR00444
+so= SMR00510
+so= SMR00551
+so= SMR00552
+so= SMR00553
+
+id= SMR00563
+te= International remedies
+so= SMR00358
+so= SMR00502
+so= SMR00566
+so= SMR00557
+so= SMR00795
+
+id= SMR00564
+te= International security
+so= SMR01115
+so= SMR00196
+so= SMR00334
+so= SMR00369
+so= SMR00552
+so= SMR01040
+so= SMR00643
+so= SMR01048
+so= SMR00842
+
+id= SMR00565
+te= International trade
+so= SMR00217
+so= SMR00373
+so= SMR00375
+so= SMR00445
+so= SMR00447
+so= SMR00450
+so= SMR00669
+so= SMR00942
+
+id= SMR00566
+te= International courts
+so= SMR00563
+so= SMR00557
+so= SMR00795
+so= SMR00567
+
+id= SMR00567
+te= International tribunals
+so= SMR00566
+
+id= SMR00568
+te= Internet
+so= SMR00385
+
+id= SMR00569
+te= Cross examination
+so= SMR00267
+so= SMR00411
+so= SMR01041
+so= SMR00847
+
+id= SMR00570
+te= Inter-State complaints
+so= SMR00266
+so= SMR00712
+so= SMR00911
+
+id= SMR00571
+te= Intervention
+so= SMR00446
+so= SMR00509
+so= SMR00646
+
+id= SMR00572
+te= Intolerance
+so= SMR00335
+so= SMR00404
+so= SMR00460
+so= SMR00465
+so= SMR00745
+so= SMR01059
+so= SMR00800
+so= SMR00806
+so= SMR00983
+
+id= SMR00573
+te= Investigation into human rights abuses
+so= SMR00997
+so= SMR00286
+so= SMR00309
+so= SMR00358
+so= SMR00414
+so= SMR00411
+so= SMR00421
+so= SMR00475
+so= SMR00502
+so= SMR00507
+so= SMR00524
+so= SMR00700
+so= SMR00809
+so= SMR00925
+so= SMR00971
+
+id= SMR00574
+te= Islam
+so= SMR00465
+
+id= SMR00575
+te= Journalists
+so= SMR00462
+so= SMR00536
+so= SMR00625
+so= SMR00674
+
+id= SMR00576
+te= Judaism
+so= SMR00188
+so= SMR00984
+
+id= SMR00577
+te= Judges
+so= SMR00285
+so= SMR00527
+
+id= SMR00578
+te= Judicial law-making
+so= SMR00273
+so= SMR00579
+so= SMR00581
+so= SMR00607
+so= SMR01052
+so= SMR00878
+
+id= SMR00579
+te= Judicial review
+so= SMR00186
+so= SMR00273
+so= SMR00358
+so= SMR00481
+so= SMR00578
+
+id= SMR00580
+te= Judicial systems
+so= SMR00527
+
+id= SMR00581
+te= Judiciary
+so= SMR00176
+so= SMR00578
+so= SMR00878
+
+id= SMR00582
+te= Case law
+bf= Jurisprudence
+
+id= SMR00583
+te= Jurisdiction
+so= SMR01002
+so= SMR00359
+so= SMR00419
+
+id= SMR00584
+te= Justice
+so= SMR00987
+so= SMR00290
+so= SMR01042
+so= SMR00858
+so= SMR00893
+
+id= SMR00585
+te= Juvenile offenders
+bf= Juvenile delinquents
+so= SMR01005
+so= SMR00324
+so= SMR01042
+
+id= SMR00586
+te= Killings
+so= SMR00313
+so= SMR01105
+so= SMR00418
+so= SMR01029
+so= SMR00626
+so= SMR01056
+so= SMR00784
+so= SMR00924
+so= SMR01085
+
+id= SMR00587
+te= Labour camps
+so= SMR00268
+so= SMR00440
+so= SMR00786
+
+id= SMR00588
+te= Labour disputes
+bf= Labour conflicts
+so= SMR00192
+so= SMR00253
+so= SMR00851
+so= SMR00590
+
+id= SMR00589
+te= Labour market
+so= SMR00395
+so= SMR00390
+so= SMR00638
+so= SMR00835
+so= SMR00857
+so= SMR00952
+so= SMR00918
+so= SMR00977
+
+id= SMR00590
+te= Trade unions
+bf= Labour movement
+bf= Workers' organizations
+so= SMR00253
+so= SMR00422
+so= SMR00454
+so= SMR00558
+so= SMR00588
+so= SMR00591
+so= SMR00758
+so= SMR00851
+
+id= SMR00591
+te= Labour relations
+so= SMR00422
+so= SMR00454
+so= SMR00558
+so= SMR00079
+so= SMR00851
+so= SMR00590
+so= SMR00979
+so= SMR00980
+
+id= SMR00592
+te= Land ownership
+so= SMR00181
+so= SMR01043
+so= SMR00706
+so= SMR00845
+
+id= SMR00593
+te= Land rights
+so= SMR00256
+so= SMR00530
+so= SMR00879
+so= SMR00923
+so= SMR01068
+so= SMR00845
+
+id= SMR00594
+te= Land tenure
+so= SMR00593
+
+id= SMR00595
+te= Language rights
+bf= Linguistic rights
+so= SMR00209
+so= SMR00210
+so= SMR00301
+so= SMR00341
+so= SMR00653
+so= SMR00528
+so= SMR00599
+so= SMR00614
+so= SMR00688
+
+id= SMR00596
+te= Language training
+bf= Language education
+so= SMR00209
+so= SMR00302
+
+id= SMR00597
+te= Law
+so= SMR00179
+so= SMR00249
+so= SMR00259
+so= SMR00274
+so= SMR00291
+so= SMR00308
+so= SMR01023
+so= SMR00511
+so= SMR00559
+so= SMR00074
+so= SMR00583
+so= SMR00598
+so= SMR00606
+so= SMR00607
+so= SMR00613
+so= SMR00622
+so= SMR00858
+
+id= SMR00598
+te= Law reform
+so= SMR00606
+so= SMR00607
+
+id= SMR00599
+te= Language of court proceedings
+bf= Language used in court
+so= SMR00614
+so= SMR00688
+so= SMR00828
+
+id= SMR00600
+te= Lawyers
+bf= Advocates
+bf= Attorneys
+bf= Defence lawyers
+bf= Legal counsellors
+so= SMR00204
+so= SMR00284
+so= SMR00285
+so= SMR00602
+so= SMR00762
+so= SMR01069
+
+id= SMR00601
+te= Least-developed countries
+so= SMR00551
+so= SMR00672
+so= SMR00681
+so= SMR00831
+
+id= SMR00602
+te= Legal aid
+so= SMR00987
+so= SMR00600
+so= SMR01069
+so= SMR00887
+
+id= SMR00603
+te= Philosophy of law
+bf= Legal philosophy
+
+id= SMR00604
+te= Legal pluralism
+so= SMR00249
+so= SMR00259
+so= SMR00308
+so= SMR00935
+
+id= SMR00605
+te= Legal proceedings
+so= SMR00284
+so= SMR01011
+so= SMR00293
+
+id= SMR00606
+te= Legal systems
+so= SMR00176
+so= SMR00604
+
+id= SMR00607
+te= Legislation
+bf= Laws
+bf= Statutes
+so= SMR00359
+so= SMR00578
+so= SMR00598
+so= SMR00608
+so= SMR00797
+
+id= SMR00608
+te= Legislative power
+so= SMR00274
+so= SMR00412
+so= SMR00578
+so= SMR00581
+so= SMR00609
+so= SMR00878
+
+id= SMR00609
+te= Legislatures
+bf= Legislative branch
+so= SMR00473
+so= SMR00608
+so= SMR00698
+
+id= SMR00610
+te= Lesbians
+so= SMR00346
+so= SMR00467
+
+id= SMR00611
+te= Liberalism
+so= SMR00317
+so= SMR00532
+
+id= SMR00612
+te= Liberation theology
+so= SMR00246
+so= SMR00893
+
+id= SMR00613
+te= Limitations prescribed by law
+so= SMR01018
+so= SMR01058
+
+id= SMR00614
+te= Linguistic minorities
+so= SMR00306
+so= SMR00341
+so= SMR00407
+so= SMR00653
+so= SMR00595
+so= SMR00652
+so= SMR00688
+
+id= SMR00615
+te= Literature
+so= SMR00456
+so= SMR00982
+
+id= SMR00616
+te= Lobbying
+so= SMR00544
+
+id= SMR00617
+te= Local government
+so= SMR00263
+so= SMR00874
+so= SMR00957
+
+id= SMR00618
+te= Malnutrition
+so= SMR00234
+so= SMR00362
+so= SMR00439
+so= SMR00512
+so= SMR00741
+so= SMR00834
+so= SMR00836
+
+id= SMR00619
+te= Man-made disasters
+so= SMR00212
+so= SMR00226
+so= SMR00316
+so= SMR01026
+so= SMR00483
+so= SMR00665
+so= SMR00682
+so= SMR00731
+so= SMR01067
+so= SMR00967
+
+id= SMR00620
+te= Marriage
+so= SMR00271
+so= SMR00342
+so= SMR00357
+so= SMR00621
+so= SMR01045
+so= SMR00732
+so= SMR00840
+so= SMR00906
+
+id= SMR00621
+te= Married women
+so= SMR00271
+so= SMR00342
+so= SMR00441
+so= SMR00620
+so= SMR01045
+
+id= SMR00622
+te= Martial law
+so= SMR00645
+so= SMR00647
+so= SMR00649
+so= SMR01048
+so= SMR01058
+
+id= SMR00623
+te= Marxism
+so= SMR00261
+so= SMR00902
+
+id= SMR00624
+te= Mass graves
+so= SMR00289
+so= SMR00414
+so= SMR00418
+so= SMR01029
+so= SMR00626
+so= SMR01085
+
+id= SMR00625
+te= Mass media
+so= SMR01008
+so= SMR00352
+so= SMR00462
+so= SMR00536
+so= SMR00575
+so= SMR00674
+
+id= SMR00626
+te= Massacres
+so= SMR00313
+so= SMR00418
+so= SMR01029
+so= SMR00586
+so= SMR00624
+so= SMR00782
+so= SMR01085
+
+id= SMR00627
+te= Maternity leave
+so= SMR00230
+so= SMR00743
+so= SMR00977
+
+id= SMR00628
+te= Mediation
+so= SMR00192
+so= SMR00269
+
+id= SMR00629
+te= Medical ethics
+so= SMR00213
+so= SMR00272
+so= SMR00409
+so= SMR00489
+so= SMR00490
+so= SMR00537
+so= SMR00630
+so= SMR00631
+so= SMR00632
+so= SMR00684
+so= SMR01049
+so= SMR00715
+so= SMR00766
+
+id= SMR00630
+te= Medical experimentation
+so= SMR00272
+so= SMR00537
+so= SMR00629
+so= SMR01049
+so= SMR00714
+so= SMR00766
+so= SMR00768
+so= SMR00852
+so= SMR00929
+
+id= SMR00631
+te= Medical screening
+bf= Medical testing
+so= SMR00272
+so= SMR00260
+so= SMR00490
+so= SMR00843
+
+id= SMR00632
+te= Medical treatment
+so= SMR00272
+so= SMR00490
+so= SMR00537
+so= SMR00629
+so= SMR00630
+so= SMR01049
+so= SMR00766
+so= SMR00812
+so= SMR00841
+so= SMR00981
+
+id= SMR00633
+te= Mental disabilities
+so= SMR00343
+so= SMR00709
+
+id= SMR00634
+te= Mental disorder
+bf= Mental illness
+so= SMR00538
+so= SMR00539
+so= SMR00709
+so= SMR00766
+
+id= SMR00635
+te= Mental health
+so= SMR00636
+so= SMR00709
+so= SMR00766
+so= SMR00769
+
+id= SMR00636
+te= Mental health facilities
+so= SMR00538
+so= SMR00539
+so= SMR00634
+so= SMR00709
+so= SMR00766
+
+id= SMR00637
+te= Mercenaries
+so= SMR00193
+so= SMR00194
+so= SMR00694
+
+id= SMR00638
+te= Migrant workers
+so= SMR01000
+so= SMR00374
+so= SMR00387
+so= SMR00457
+so= SMR00497
+so= SMR00515
+so= SMR00548
+so= SMR00560
+so= SMR00814
+so= SMR00835
+so= SMR00849
+so= SMR00857
+
+id= SMR00639
+te= Migration
+so= SMR00223
+so= SMR00387
+so= SMR00442
+so= SMR00515
+so= SMR00548
+so= SMR00560
+so= SMR00737
+
+id= SMR00640
+te= Militarism
+so= SMR00641
+so= SMR00693
+
+id= SMR00641
+te= Militarization
+so= SMR00193
+so= SMR00640
+so= SMR00642
+so= SMR00643
+so= SMR00644
+so= SMR01046
+
+id= SMR00642
+te= Military aid
+so= SMR00193
+so= SMR00197
+so= SMR00208
+so= SMR00448
+so= SMR00643
+so= SMR00641
+so= SMR00659
+so= SMR00921
+
+id= SMR00643
+te= Military alliances
+so= SMR01040
+so= SMR00564
+so= SMR00641
+so= SMR00642
+so= SMR00644
+so= SMR00659
+so= SMR01048
+
+id= SMR00644
+te= Military bases
+so= SMR00193
+so= SMR00643
+so= SMR00647
+so= SMR00648
+
+id= SMR00645
+te= Military courts
+so= SMR00193
+so= SMR00286
+so= SMR00622
+so= SMR00648
+
+id= SMR00646
+te= Military intervention
+bf= Armed intervention
+so= SMR01115
+so= SMR00193
+so= SMR00448
+so= SMR00509
+so= SMR00647
+so= SMR00649
+so= SMR00960
+
+id= SMR00647
+te= Military occupation
+so= SMR01115
+so= SMR00193
+so= SMR00256
+so= SMR00622
+so= SMR01046
+so= SMR00646
+so= SMR00909
+
+id= SMR00648
+te= Military personnel
+so= SMR00286
+so= SMR00650
+
+id= SMR00649
+te= Military repression
+so= SMR00995
+so= SMR00254
+so= SMR01001
+so= SMR00546
+so= SMR00622
+so= SMR01046
+so= SMR00694
+so= SMR00810
+so= SMR00872
+so= SMR00912
+
+id= SMR00650
+te= Military service
+so= SMR00193
+so= SMR00999
+so= SMR00322
+so= SMR00648
+so= SMR00659
+
+id= SMR00651
+te= Minorities
+so= SMR00255
+so= SMR00300
+so= SMR00301
+so= SMR00302
+so= SMR00306
+so= SMR00402
+so= SMR00653
+so= SMR00530
+so= SMR00655
+so= SMR01050
+so= SMR00868
+so= SMR00877
+
+id= SMR00652
+te= Minority language education rights
+so= SMR00209
+so= SMR00376
+so= SMR00614
+so= SMR00653
+so= SMR00688
+so= SMR00833
+
+id= SMR00653
+te= Minority languages
+bf= Heritage languages
+so= SMR01015
+so= SMR00301
+so= SMR00306
+so= SMR00407
+so= SMR00595
+so= SMR00596
+so= SMR00614
+so= SMR00655
+
+id= SMR00654
+te= Multicultural education
+so= SMR00378
+so= SMR00655
+so= SMR00780
+
+id= SMR00655
+te= Multiculturalism
+so= SMR00300
+so= SMR00302
+so= SMR00303
+so= SMR00294
+so= SMR00407
+so= SMR00653
+so= SMR00614
+so= SMR00651
+so= SMR00654
+so= SMR00780
+so= SMR00804
+
+id= SMR00656
+te= Multilateral aid
+so= SMR00208
+
+id= SMR00657
+te= Narcoterrorism
+so= SMR00366
+so= SMR01056
+
+id= SMR00658
+te= National courts
+so= SMR00358
+
+id= SMR00659
+te= National defence
+so= SMR01115
+so= SMR00334
+so= SMR00448
+so= SMR00542
+so= SMR00642
+so= SMR00643
+so= SMR00644
+so= SMR00648
+so= SMR00650
+so= SMR01048
+
+id= SMR00660
+te= National law
+so= SMR01023
+so= SMR00359
+so= SMR00503
+so= SMR00607
+so= SMR00613
+so= SMR00797
+
+id= SMR00661
+te= National liberation movements
+so= SMR00314
+so= SMR00480
+so= SMR00662
+so= SMR00678
+so= SMR00647
+so= SMR00680
+so= SMR00692
+so= SMR01053
+so= SMR00819
+so= SMR00848
+so= SMR01071
+so= SMR00956
+
+id= SMR00662
+te= Nationalism
+so= SMR00301
+so= SMR00404
+so= SMR00661
+so= SMR00663
+so= SMR01059
+so= SMR01071
+so= SMR00868
+so= SMR00877
+so= SMR00983
+
+id= SMR00663
+te= Nationality
+so= SMR00247
+so= SMR00336
+so= SMR00339
+so= SMR00344
+so= SMR00408
+so= SMR00651
+so= SMR00662
+so= SMR00667
+so= SMR00823
+
+id= SMR00664
+te= Nationalization
+so= SMR01027
+so= SMR00757
+so= SMR00772
+so= SMR01068
+so= SMR00845
+
+id= SMR00665
+te= Natural disasters
+so= SMR01025
+so= SMR01026
+so= SMR00619
+so= SMR00731
+so= SMR01067
+so= SMR00970
+
+id= SMR00666
+te= Natural resources
+so= SMR01060
+so= SMR01068
+
+id= SMR00667
+te= Naturalization
+so= SMR00247
+so= SMR00663
+so= SMR00823
+
+id= SMR00668
+te= Nazism
+so= SMR00331
+so= SMR00431
+so= SMR00662
+so= SMR01059
+so= SMR00933
+
+id= SMR00669
+te= Neo-colonialism
+so= SMR00314
+so= SMR00447
+so= SMR00565
+so= SMR00642
+so= SMR00680
+so= SMR00942
+so= SMR00950
+
+id= SMR00670
+te= Neo-liberalism
+so= SMR00757
+so= SMR00914
+
+id= SMR00671
+te= Networking
+so= SMR00561
+so= SMR00710
+
+id= SMR00672
+te= New International Economic Order
+bf= NIEO
+so= SMR00325
+so= SMR00372
+so= SMR00552
+so= SMR00601
+so= SMR00681
+so= SMR00831
+
+id= SMR00673
+te= Newborn children
+so= SMR00535
+so= SMR00846
+
+id= SMR00674
+te= News
+so= SMR01008
+so= SMR00354
+so= SMR00452
+so= SMR00462
+so= SMR00536
+so= SMR00575
+so= SMR00625
+
+id= SMR00675
+te= Newspapers
+so= SMR00462
+so= SMR00536
+so= SMR00575
+
+id= SMR00676
+te= Nomadic peoples
+bf= Pastoral peoples
+so= SMR00457
+so= SMR00548
+
+id= SMR00677
+te= Non-citizens
+so= SMR00989
+
+id= SMR00678
+te= Non-international armed conflicts
+bf= Internal armed conflicts
+so= SMR00194
+so= SMR00404
+so= SMR00661
+so= SMR00848
+so= SMR01071
+
+id= SMR00679
+te= Non-refoulement
+so= SMR00321
+so= SMR00416
+so= SMR00443
+so= SMR01061
+so= SMR01062
+so= SMR01064
+
+id= SMR00680
+te= Non-self governing territories
+so= SMR01013
+so= SMR00314
+so= SMR01035
+so= SMR00669
+so= SMR01071
+so= SMR00874
+so= SMR00950
+
+id= SMR00681
+te= North-South dialogue
+so= SMR00328
+so= SMR00325
+so= SMR00445
+so= SMR00552
+so= SMR00565
+so= SMR00601
+so= SMR00672
+
+id= SMR00682
+te= Nuclear energy
+so= SMR00483
+so= SMR00619
+so= SMR00683
+so= SMR01067
+
+id= SMR00683
+te= Nuclear weapons
+so= SMR00196
+so= SMR00212
+so= SMR00226
+so= SMR00334
+
+id= SMR00684
+te= Nurses
+so= SMR00487
+so= SMR00636
+so= SMR00685
+so= SMR00715
+
+id= SMR00685
+te= Nursing homes
+so= SMR00539
+so= SMR01049
+
+id= SMR00686
+te= Occupational health and safety
+so= SMR00731
+so= SMR01067
+so= SMR00836
+so= SMR00864
+
+id= SMR00687
+te= Official development assistance
+bf= ODA
+so= SMR00327
+so= SMR00328
+so= SMR00448
+so= SMR00449
+so= SMR00552
+so= SMR00553
+
+id= SMR00688
+te= Official languages
+so= SMR00209
+so= SMR00210
+so= SMR00599
+so= SMR00595
+so= SMR00596
+so= SMR00614
+
+id= SMR00689
+te= Ombudsman
+so= SMR00266
+so= SMR00358
+so= SMR00502
+
+id= SMR00690
+te= One-party systems
+so= SMR00318
+so= SMR01053
+so= SMR01055
+so= SMR00717
+so= SMR00855
+
+id= SMR00691
+te= Opinion polls
+so= SMR00771
+
+id= SMR00692
+te= Opposition leaders
+so= SMR00194
+so= SMR00661
+so= SMR01055
+so= SMR00725
+
+id= SMR00693
+te= Pacifism
+bf= Antimilitarism
+so= SMR00999
+so= SMR00334
+so= SMR00377
+so= SMR00640
+so= SMR00704
+so= SMR00842
+
+id= SMR00694
+te= Paramilitary forces
+so= SMR00313
+so= SMR00637
+so= SMR00649
+so= SMR00718
+so= SMR00872
+so= SMR00912
+
+id= SMR00695
+te= Pardon
+so= SMR00337
+so= SMR01004
+so= SMR00524
+
+id= SMR00696
+te= Parental rights
+bf= Parental authority
+so= SMR00231
+so= SMR00993
+so= SMR00441
+so= SMR00697
+so= SMR00811
+
+id= SMR00697
+te= Parents and children
+so= SMR00227
+so= SMR00228
+so= SMR00229
+so= SMR00230
+so= SMR00231
+so= SMR00232
+so= SMR00239
+so= SMR00427
+so= SMR00428
+so= SMR00696
+so= SMR00821
+
+id= SMR00698
+te= Parliament
+so= SMR00609
+so= SMR00699
+so= SMR00700
+
+id= SMR00699
+te= Parliamentarians
+bf= Members of Parliament
+so= SMR00609
+so= SMR00855
+
+id= SMR00700
+te= Parliamentary committees
+so= SMR00997
+so= SMR00573
+
+id= SMR00701
+te= Patriarchism
+so= SMR00391
+so= SMR00434
+so= SMR00732
+so= SMR00936
+
+id= SMR00702
+te= Pay equity
+so= SMR00351
+so= SMR00389
+so= SMR00977
+
+id= SMR00703
+te= Peace
+so= SMR00195
+so= SMR00224
+so= SMR00377
+so= SMR00693
+so= SMR00704
+so= SMR00705
+so= SMR00842
+
+id= SMR00704
+te= Peace movements
+bf= Pacifist movements
+so= SMR00334
+so= SMR00377
+so= SMR00478
+so= SMR00710
+so= SMR00693
+so= SMR00842
+
+id= SMR00705
+te= Peace negotiations
+bf= Peace talks
+so= SMR01115
+so= SMR00195
+so= SMR00224
+so= SMR00842
+
+id= SMR00706
+te= Peasants
+so= SMR00181
+so= SMR00182
+so= SMR00183
+so= SMR00430
+so= SMR00592
+so= SMR00707
+so= SMR00859
+so= SMR00860
+so= SMR00861
+so= SMR00862
+
+id= SMR00707
+te= Peasant movements
+so= SMR00181
+so= SMR00478
+so= SMR00592
+so= SMR00706
+so= SMR00859
+so= SMR00861
+
+id= SMR00708
+te= People with AIDS
+so= SMR00184
+so= SMR00260
+so= SMR00340
+so= SMR00493
+so= SMR01049
+
+id= SMR00709
+te= People with mental disabilities
+bf= Mentally disabled persons
+bf= Mentally ill persons
+bf= Mentally retarded persons
+so= SMR00343
+so= SMR00538
+so= SMR00539
+so= SMR00634
+so= SMR00766
+
+id= SMR00710
+te= NGOs
+bf= Non-governmental organizations
+bf= Non-profit organizations
+so= SMR00994
+so= SMR00454
+so= SMR00466
+so= SMR00544
+so= SMR00616
+so= SMR00671
+so= SMR01073
+
+id= SMR00711
+te= Performing arts
+so= SMR00218
+
+id= SMR00712
+te= Petitions
+so= SMR00266
+so= SMR00570
+so= SMR00557
+so= SMR00563
+
+id= SMR00713
+te= Philosophy of human rights
+so= SMR00505
+
+id= SMR00714
+te= Physical harm
+bf= Bodily harm
+bf= Physical injuries
+so= SMR00170
+so= SMR00278
+so= SMR00292
+so= SMR01016
+so= SMR00470
+so= SMR00630
+so= SMR00852
+so= SMR00882
+so= SMR00929
+so= SMR00936
+
+id= SMR00715
+te= Physicians
+so= SMR00487
+so= SMR00629
+so= SMR00632
+so= SMR00636
+so= SMR00684
+
+id= SMR00716
+te= Pluralism
+so= SMR00303
+so= SMR00604
+so= SMR00655
+so= SMR00717
+
+id= SMR00717
+te= Political pluralism
+bf= Multi-party systems
+so= SMR00317
+so= SMR00690
+so= SMR00855
+
+id= SMR00718
+te= Police
+bf= Law enforcement officials
+so= SMR00288
+so= SMR00542
+so= SMR00694
+so= SMR00719
+so= SMR00720
+so= SMR00721
+so= SMR00722
+so= SMR01058
+so= SMR00773
+so= SMR00872
+
+id= SMR00719
+te= Police brutality
+so= SMR00190
+so= SMR00191
+so= SMR00198
+so= SMR01016
+so= SMR01019
+so= SMR00720
+so= SMR00721
+so= SMR00810
+so= SMR00818
+so= SMR00929
+so= SMR01078
+so= SMR00960
+so= SMR00912
+
+id= SMR00720
+te= Police custody
+so= SMR00178
+so= SMR00191
+so= SMR00198
+so= SMR01016
+so= SMR01019
+so= SMR00719
+so= SMR00721
+so= SMR00929
+so= SMR00960
+
+id= SMR00721
+te= Police investigation
+so= SMR00190
+so= SMR00191
+so= SMR01016
+so= SMR00411
+so= SMR00481
+so= SMR01041
+so= SMR00719
+so= SMR00720
+so= SMR01069
+so= SMR00925
+so= SMR00960
+so= SMR00971
+
+id= SMR00722
+te= Police training
+so= SMR00378
+so= SMR00718
+
+id= SMR00723
+te= Political movements
+so= SMR01053
+so= SMR00733
+so= SMR01073
+
+id= SMR00724
+te= Political offences
+so= SMR00356
+so= SMR00459
+so= SMR00726
+so= SMR00730
+so= SMR01056
+
+id= SMR00725
+te= Political persecution
+so= SMR00356
+so= SMR00459
+so= SMR00692
+so= SMR01053
+so= SMR00728
+so= SMR00730
+so= SMR01056
+
+id= SMR00726
+te= Political prisoners
+bf= Political detainees
+so= SMR00459
+so= SMR00724
+so= SMR00725
+so= SMR00730
+
+id= SMR00727
+te= Political repression
+so= SMR00546
+so= SMR01053
+so= SMR00730
+so= SMR01056
+so= SMR00810
+
+id= SMR00728
+te= Political situation
+so= SMR00371
+so= SMR01053
+so= SMR01055
+so= SMR00725
+so= SMR00727
+so= SMR00729
+so= SMR01056
+
+id= SMR00729
+te= Political systems
+so= SMR00514
+
+id= SMR00730
+te= Political trials
+so= SMR00459
+so= SMR00724
+so= SMR01053
+so= SMR00725
+so= SMR00726
+so= SMR00727
+so= SMR00750
+so= SMR00946
+
+id= SMR00731
+te= Pollution
+so= SMR01026
+so= SMR00483
+so= SMR00619
+so= SMR00665
+so= SMR00769
+so= SMR01067
+
+id= SMR00732
+te= Polygamy
+so= SMR01015
+so= SMR00620
+so= SMR00701
+so= SMR00936
+
+id= SMR00733
+te= Popular movements
+so= SMR00994
+so= SMR00478
+so= SMR00710
+so= SMR00704
+so= SMR00707
+so= SMR00734
+
+id= SMR00734
+te= Popular participation
+so= SMR00994
+so= SMR00319
+so= SMR00391
+so= SMR00478
+so= SMR01052
+so= SMR01054
+so= SMR00733
+so= SMR00890
+
+id= SMR00735
+te= Population control
+so= SMR00403
+so= SMR00426
+so= SMR00737
+
+id= SMR00736
+te= Population dynamics
+so= SMR00215
+so= SMR00589
+so= SMR00735
+
+id= SMR00737
+te= Population transfers
+so= SMR00355
+so= SMR00406
+so= SMR00442
+so= SMR00443
+so= SMR01029
+so= SMR00548
+so= SMR00651
+so= SMR00879
+
+id= SMR00738
+te= Pornography
+so= SMR00225
+so= SMR00456
+so= SMR01030
+so= SMR00764
+so= SMR00763
+
+id= SMR00739
+te= Affirmative action
+bf= Positive discrimination
+so= SMR00333
+so= SMR00389
+so= SMR00395
+so= SMR00492
+so= SMR00918
+so= SMR00977
+
+id= SMR00740
+te= Post-secondary education
+so= SMR00954
+
+id= SMR00741
+te= Poverty
+so= SMR00206
+so= SMR00234
+so= SMR00348
+so= SMR00370
+so= SMR00439
+so= SMR00495
+so= SMR00512
+so= SMR00526
+so= SMR00618
+so= SMR00826
+so= SMR00827
+so= SMR00834
+so= SMR00850
+so= SMR00887
+so= SMR00896
+so= SMR00897
+so= SMR00958
+so= SMR00968
+
+id= SMR00742
+te= Power
+so= SMR00391
+so= SMR01079
+
+id= SMR00743
+te= Pregnancy
+so= SMR00169
+so= SMR00241
+so= SMR00436
+so= SMR00744
+so= SMR00811
+so= SMR00812
+so= SMR00972
+
+id= SMR00744
+te= Pregnant women
+so= SMR00169
+so= SMR00241
+so= SMR00743
+so= SMR00811
+so= SMR00812
+so= SMR00846
+
+id= SMR00745
+te= Prejudice
+so= SMR00188
+so= SMR00335
+so= SMR00572
+so= SMR01059
+so= SMR00139
+so= SMR00913
+so= SMR00961
+so= SMR00983
+
+id= SMR00746
+te= Presumption of innocence
+so= SMR00988
+so= SMR00411
+
+id= SMR00747
+te= Preventive medicine
+so= SMR00487
+so= SMR00769
+so= SMR00836
+
+id= SMR00748
+te= Primary education
+so= SMR00869
+
+id= SMR00749
+te= Prison personnel
+so= SMR00281
+so= SMR00753
+
+id= SMR00750
+te= Prisoners of conscience
+so= SMR00455
+so= SMR00459
+so= SMR00730
+so= SMR00786
+
+id= SMR00751
+te= Prisoners of war
+so= SMR01115
+so= SMR00511
+so= SMR00963
+
+id= SMR00752
+te= Prison conditions
+so= SMR00992
+so= SMR01016
+so= SMR00324
+so= SMR01019
+so= SMR01020
+so= SMR01032
+so= SMR01033
+so= SMR01034
+so= SMR00818
+so= SMR00929
+so= SMR00975
+
+id= SMR00753
+te= Prisons
+bf= Penitentiaries
+so= SMR00268
+so= SMR01020
+so= SMR01032
+so= SMR01033
+so= SMR00720
+so= SMR00726
+so= SMR00749
+so= SMR00786
+
+id= SMR00754
+te= Private communications
+so= SMR00386
+so= SMR00830
+so= SMR00843
+
+id= SMR00755
+te= Private schools
+so= SMR00774
+
+id= SMR00756
+te= Private sector
+so= SMR00280
+so= SMR00775
+so= SMR00363
+
+id= SMR00757
+te= Privatization
+so= SMR01027
+so= SMR00664
+so= SMR00670
+so= SMR00756
+so= SMR00772
+so= SMR00817
+so= SMR00845
+
+id= SMR00758
+te= Professional associations
+so= SMR00454
+so= SMR00710
+so= SMR00590
+
+id= SMR00759
+te= Professional ethics
+so= SMR00211
+so= SMR00279
+so= SMR00310
+so= SMR00830
+so= SMR00867
+so= SMR00961
+
+id= SMR00760
+te= Promotion of human rights
+so= SMR00377
+so= SMR00378
+so= SMR00508
+
+id= SMR00761
+te= Property
+so= SMR01027
+so= SMR01038
+so= SMR00592
+so= SMR00593
+so= SMR01045
+so= SMR00664
+so= SMR00757
+so= SMR00772
+so= SMR00845
+
+id= SMR00762
+te= Prosecutors
+so= SMR00293
+so= SMR00600
+so= SMR01057
+
+id= SMR00763
+te= Prostitution
+so= SMR00738
+so= SMR01118
+
+id= SMR00764
+te= Protection of public morality
+bf= Community morality standards
+bf= Protection of public morals
+so= SMR00225
+so= SMR00738
+so= SMR00771
+so= SMR01058
+so= SMR00961
+
+id= SMR00765
+te= Protests
+so= SMR00319
+so= SMR00458
+so= SMR01056
+so= SMR00851
+so= SMR00899
+
+id= SMR00766
+te= Psychiatric abuse
+so= SMR01016
+so= SMR00539
+so= SMR00629
+so= SMR00630
+so= SMR00632
+so= SMR00634
+so= SMR00636
+so= SMR01049
+so= SMR00709
+so= SMR00768
+so= SMR00852
+so= SMR00929
+
+id= SMR00767
+te= Psychiatry
+so= SMR00632
+so= SMR00634
+so= SMR00636
+so= SMR01049
+so= SMR00709
+so= SMR00766
+
+id= SMR00768
+te= Psychological harm
+so= SMR00170
+so= SMR00228
+so= SMR01016
+so= SMR00482
+so= SMR00766
+so= SMR00852
+so= SMR00929
+
+id= SMR00769
+te= Public health
+so= SMR00260
+so= SMR00394
+so= SMR01026
+so= SMR00487
+so= SMR00635
+so= SMR00731
+so= SMR01067
+so= SMR00836
+so= SMR00841
+
+id= SMR00770
+te= Public interest
+so= SMR01018
+so= SMR01027
+so= SMR00613
+so= SMR00771
+so= SMR01058
+
+id= SMR00771
+te= Public opinion
+so= SMR00319
+so= SMR00691
+so= SMR00764
+so= SMR00770
+
+id= SMR00772
+te= Public property
+so= SMR01027
+so= SMR00664
+so= SMR00757
+so= SMR01068
+so= SMR00845
+
+id= SMR00773
+te= Public safety
+so= SMR00288
+so= SMR00718
+so= SMR01058
+
+id= SMR00774
+te= Public schools
+so= SMR00755
+
+id= SMR00775
+te= Public sector
+so= SMR00474
+so= SMR00756
+so= SMR00776
+so= SMR00777
+
+id= SMR00776
+te= Public servants
+bf= Civil servants
+so= SMR00474
+so= SMR00777
+
+id= SMR00777
+te= Public service
+so= SMR00474
+so= SMR00756
+so= SMR00776
+so= SMR00775
+
+id= SMR00778
+te= Publication ban
+bf= Banning
+so= SMR01008
+so= SMR00225
+so= SMR00462
+so= SMR00843
+
+id= SMR00779
+te= Quality of life
+so= SMR00206
+so= SMR00370
+so= SMR00501
+so= SMR00827
+so= SMR00839
+so= SMR00852
+
+id= SMR00780
+te= Race relations
+so= SMR00403
+so= SMR00471
+so= SMR00572
+so= SMR00654
+so= SMR00655
+so= SMR00745
+so= SMR00781
+so= SMR01059
+so= SMR00784
+so= SMR00873
+
+id= SMR00781
+te= Racial discrimination
+bf= Discrimination based on race
+bf= Race discrimination
+so= SMR00339
+so= SMR00344
+so= SMR00405
+so= SMR00407
+so= SMR00399
+so= SMR01030
+so= SMR00572
+so= SMR00651
+so= SMR00745
+so= SMR00780
+so= SMR01059
+so= SMR00783
+so= SMR00784
+so= SMR00873
+
+id= SMR00782
+te= Racial violence
+so= SMR00189
+so= SMR00403
+so= SMR00404
+so= SMR01029
+so= SMR00626
+so= SMR00781
+so= SMR01059
+so= SMR00783
+so= SMR00784
+so= SMR01078
+
+id= SMR00783
+te= Racist activities
+so= SMR00315
+so= SMR00403
+so= SMR00404
+so= SMR01029
+so= SMR01030
+so= SMR00737
+so= SMR00781
+so= SMR00782
+so= SMR01059
+so= SMR00784
+
+id= SMR00784
+te= Racist incidents
+so= SMR00482
+so= SMR01030
+so= SMR00586
+so= SMR00782
+so= SMR01078
+
+id= SMR00785
+te= Ratifications
+so= SMR00550
+so= SMR00556
+so= SMR00813
+
+id= SMR00786
+te= Reeducation camps
+so= SMR00178
+so= SMR00459
+so= SMR00463
+so= SMR00534
+so= SMR00587
+so= SMR00726
+so= SMR00750
+so= SMR00753
+
+id= SMR00787
+te= Referendums
+so= SMR01017
+so= SMR01024
+so= SMR01051
+so= SMR01054
+
+id= SMR00788
+te= Reform
+so= SMR00181
+so= SMR00598
+so= SMR00888
+
+id= SMR00789
+te= Refugee camps
+so= SMR01025
+so= SMR00497
+so= SMR00510
+so= SMR01061
+so= SMR01062
+so= SMR00793
+so= SMR01064
+
+id= SMR00790
+te= Refugee children
+so= SMR00427
+so= SMR00517
+
+id= SMR00791
+te= Refugee status
+so= SMR00126
+
+id= SMR00792
+te= Refugee women
+so= SMR00790
+
+id= SMR00793
+te= Refugees in detention
+so= SMR00178
+so= SMR00520
+so= SMR00789
+so= SMR00126
+
+id= SMR00794
+te= Regional autonomy
+so= SMR00617
+so= SMR01071
+so= SMR00874
+
+id= SMR00795
+te= Regional human rights protection mechanisms
+so= SMR00557
+so= SMR01063
+
+id= SMR00796
+te= Regional security
+so= SMR00564
+so= SMR01048
+
+id= SMR00797
+te= Regulations
+so= SMR00177
+so= SMR00607
+
+id= SMR00798
+te= Rehabilitation
+so= SMR00892
+so= SMR01083
+
+id= SMR00799
+te= Religions
+bf= Belief systems
+so= SMR00460
+so= SMR00800
+so= SMR00801
+so= SMR00802
+so= SMR00803
+so= SMR00805
+so= SMR00807
+
+id= SMR00800
+te= Religious conflicts
+so= SMR00404
+so= SMR00460
+so= SMR00465
+so= SMR00572
+so= SMR00804
+so= SMR00805
+so= SMR00806
+
+id= SMR00801
+te= Religious discrimination
+bf= Discrimination based on conviction
+bf= Discrimination based on creed
+bf= Discrimination based on religion
+bf= Discrimination based on religious activity
+bf= Discrimination based on religious belief
+so= SMR00188
+so= SMR00399
+so= SMR00460
+so= SMR00572
+so= SMR00804
+so= SMR00806
+
+id= SMR00802
+te= Religious education
+so= SMR00245
+so= SMR00246
+so= SMR00320
+so= SMR00377
+so= SMR00460
+so= SMR00378
+so= SMR00804
+so= SMR00807
+so= SMR00136
+
+id= SMR00803
+te= Religious leaders
+so= SMR00245
+so= SMR00804
+so= SMR00805
+so= SMR00934
+
+id= SMR00804
+te= Religious minorities
+bf= Religious groups
+so= SMR00245
+so= SMR00306
+so= SMR00320
+so= SMR00407
+so= SMR00460
+so= SMR00800
+so= SMR00801
+so= SMR00802
+so= SMR00803
+so= SMR00805
+so= SMR00806
+
+id= SMR00805
+te= Religious movements
+so= SMR00465
+so= SMR00800
+so= SMR00803
+so= SMR00804
+
+id= SMR00806
+te= Religious persecution
+so= SMR00460
+so= SMR00572
+so= SMR00783
+so= SMR00800
+so= SMR00801
+so= SMR00803
+so= SMR00804
+
+id= SMR00807
+te= Religious practices
+so= SMR00460
+so= SMR00802
+so= SMR00863
+so= SMR00136
+
+id= SMR00808
+te= Repatriation
+so= SMR01000
+so= SMR00321
+so= SMR00355
+so= SMR00416
+so= SMR00560
+so= SMR00679
+so= SMR01062
+so= SMR00849
+
+id= SMR00809
+te= Reports on human rights violations
+so= SMR00997
+so= SMR01023
+so= SMR00368
+so= SMR00420
+so= SMR00573
+so= SMR01031
+so= SMR00506
+so= SMR00925
+
+id= SMR00810
+te= Repression methods
+so= SMR00649
+so= SMR00727
+
+id= SMR00811
+te= Reproductive rights
+bf= Right to procreate
+so= SMR00169
+so= SMR00214
+so= SMR00426
+so= SMR00436
+so= SMR00696
+so= SMR00743
+so= SMR00744
+so= SMR00812
+so= SMR00972
+
+id= SMR00812
+te= Reproductive technologies
+so= SMR00211
+so= SMR00214
+so= SMR00272
+so= SMR00426
+so= SMR00436
+so= SMR00743
+so= SMR00744
+so= SMR00811
+
+id= SMR00813
+te= Reservations
+so= SMR01018
+so= SMR00550
+so= SMR00556
+so= SMR00613
+
+id= SMR00814
+te= Residence permit
+so= SMR00497
+so= SMR00515
+so= SMR00461
+so= SMR00638
+so= SMR00126
+so= SMR01062
+so= SMR01064
+so= SMR01075
+so= SMR00943
+
+id= SMR00815
+te= Resistance movements
+so= SMR00194
+so= SMR00661
+so= SMR00692
+so= SMR00848
+
+id= SMR00816
+te= Responsibility
+so= SMR00279
+so= SMR01005
+so= SMR00531
+so= SMR01074
+
+id= SMR00817
+te= Restitution
+so= SMR00265
+so= SMR00266
+so= SMR01003
+so= SMR01027
+so= SMR00507
+so= SMR00664
+so= SMR00757
+so= SMR01085
+so= SMR00963
+so= SMR01079
+
+id= SMR00818
+te= Restraint methods
+so= SMR01016
+so= SMR00437
+so= SMR00719
+so= SMR00752
+so= SMR00838
+
+id= SMR00819
+te= Revolutions
+so= SMR00194
+so= SMR01012
+so= SMR01001
+so= SMR00480
+so= SMR00661
+so= SMR00678
+so= SMR00848
+
+id= SMR00820
+te= Right of asylum
+so= SMR00200
+so= SMR00560
+so= SMR01065
+so= SMR01062
+
+id= SMR00821
+te= Right to a family
+so= SMR00298
+so= SMR00229
+so= SMR00993
+so= SMR00425
+so= SMR00427
+so= SMR00451
+so= SMR00697
+
+id= SMR00822
+te= Right to a name
+so= SMR00993
+
+id= SMR00823
+te= Right to a nationality
+so= SMR00247
+so= SMR00663
+so= SMR00667
+so= SMR01075
+
+id= SMR00824
+te= Right to a passport
+so= SMR00247
+so= SMR00387
+so= SMR00457
+so= SMR00849
+so= SMR00943
+
+id= SMR00825
+te= Right to access one's family
+so= SMR00425
+so= SMR01019
+so= SMR01032
+so= SMR01034
+so= SMR00539
+so= SMR00821
+
+id= SMR00826
+te= Right to adequate housing
+so= SMR00206
+so= SMR00323
+so= SMR00495
+so= SMR00500
+so= SMR00501
+so= SMR00741
+so= SMR00958
+
+id= SMR00827
+te= Right to an adequate standard of living
+bf= Right to adequate living standards
+so= SMR00206
+so= SMR00501
+so= SMR00779
+so= SMR00826
+so= SMR00834
+so= SMR00836
+so= SMR00850
+
+id= SMR00828
+te= Right to an interpreter
+so= SMR00599
+
+id= SMR00829
+te= Right to benefit from scientific advancements
+so= SMR01008
+so= SMR00310
+so= SMR01038
+so= SMR00867
+so= SMR00922
+
+id= SMR00830
+te= Right to confidentiality
+so= SMR01008
+so= SMR00310
+so= SMR00490
+so= SMR00754
+so= SMR00759
+so= SMR00844
+
+id= SMR00831
+te= Right to development
+so= SMR00206
+so= SMR00325
+so= SMR00327
+so= SMR00328
+so= SMR00372
+so= SMR00601
+so= SMR00672
+so= SMR00681
+so= SMR00741
+so= SMR01068
+so= SMR00890
+so= SMR00917
+so= SMR00973
+
+id= SMR00832
+te= Right to die
+so= SMR00272
+so= SMR00409
+so= SMR00839
+so= SMR00916
+
+id= SMR00833
+te= Right to education
+bf= Access to education
+so= SMR00350
+so= SMR00379
+so= SMR00516
+so= SMR00652
+so= SMR00905
+so= SMR01083
+so= SMR00976
+
+id= SMR00834
+te= Right to food
+so= SMR00206
+so= SMR00234
+so= SMR00362
+so= SMR00438
+so= SMR00439
+so= SMR00501
+so= SMR00512
+so= SMR00618
+so= SMR00741
+so= SMR00827
+so= SMR00836
+
+id= SMR00835
+te= Right to gain one's living
+bf= Right to gain one's livelihood
+bf= Right to earn one's living
+so= SMR00395
+so= SMR00390
+so= SMR00526
+so= SMR00589
+
+id= SMR00836
+te= Right to health
+so= SMR00234
+so= SMR00362
+so= SMR00394
+so= SMR00487
+so= SMR00488
+so= SMR00618
+so= SMR00686
+so= SMR01049
+so= SMR00747
+so= SMR00769
+so= SMR01067
+so= SMR00841
+so= SMR00852
+so= SMR00864
+
+id= SMR00837
+te= Right to housing
+so= SMR00206
+so= SMR00495
+so= SMR00500
+so= SMR00501
+so= SMR00741
+so= SMR00826
+so= SMR00958
+
+id= SMR00838
+te= Right to liberty
+bf= Right to personal liberty
+bf= Right to physical liberty
+so= SMR00190
+so= SMR00191
+so= SMR00216
+so= SMR01105
+so= SMR00440
+so= SMR00457
+so= SMR00501
+so= SMR00538
+so= SMR00818
+so= SMR01072
+so= SMR00885
+so= SMR00886
+
+id= SMR00839
+te= Right to life
+so= SMR00312
+so= SMR00409
+so= SMR00436
+so= SMR00501
+so= SMR00779
+so= SMR00832
+so= SMR00852
+
+id= SMR00840
+te= Right to marry
+bf= Right to enter into marriage
+bf= Right to marriage
+so= SMR00271
+so= SMR00620
+
+id= SMR00841
+te= Right to medical care
+bf= Right to health care
+bf= Right to medical assistance
+so= SMR00206
+so= SMR00487
+so= SMR00632
+so= SMR01049
+so= SMR00769
+so= SMR00836
+so= SMR00852
+so= SMR00981
+
+id= SMR00842
+te= Right to peace
+so= SMR01115
+so= SMR00195
+so= SMR00224
+so= SMR00334
+so= SMR00377
+so= SMR00552
+so= SMR00564
+so= SMR00693
+so= SMR00704
+so= SMR00705
+so= SMR00852
+
+id= SMR00843
+te= Right to privacy
+bf= Invasion of privacy
+so= SMR00310
+so= SMR00386
+so= SMR00490
+so= SMR00631
+so= SMR00754
+so= SMR00778
+so= SMR00852
+
+id= SMR00844
+te= Right to privacy of one's home
+bf= Inviolability of one's home
+so= SMR00386
+so= SMR00830
+
+id= SMR00845
+te= Right to property
+so= SMR01027
+so= SMR01038
+so= SMR00593
+so= SMR01045
+so= SMR00664
+so= SMR00757
+so= SMR00772
+so= SMR01068
+
+id= SMR00846
+te= Right to protection
+so= SMR00232
+so= SMR00240
+so= SMR00993
+so= SMR00333
+so= SMR00453
+so= SMR00744
+so= SMR01062
+so= SMR00850
+so= SMR00852
+so= SMR00896
+so= SMR00981
+
+id= SMR00847
+te= Right to remain silent
+so= SMR00988
+so= SMR00267
+so= SMR00293
+so= SMR01006
+so= SMR00411
+so= SMR00875
+
+id= SMR00848
+te= Right to resist oppression
+so= SMR01115
+so= SMR00194
+so= SMR00314
+so= SMR00480
+so= SMR00546
+so= SMR00661
+so= SMR00678
+so= SMR01050
+so= SMR00819
+so= SMR01071
+so= SMR00956
+
+id= SMR00849
+te= Right to leave and return
+bf= Right to leave
+bf= Right to return
+so= SMR01000
+so= SMR00387
+so= SMR00457
+so= SMR00520
+so= SMR00560
+so= SMR00638
+so= SMR00808
+so= SMR00824
+
+id= SMR00850
+te= Right to social security
+so= SMR00206
+so= SMR00526
+so= SMR00827
+so= SMR00846
+so= SMR00887
+so= SMR00896
+so= SMR00968
+
+id= SMR00851
+te= Right to strike
+so= SMR00253
+so= SMR00454
+so= SMR00588
+so= SMR00591
+so= SMR00765
+so= SMR00590
+so= SMR00979
+
+id= SMR00852
+te= Right to the security of the person
+so= SMR00206
+so= SMR00272
+so= SMR00278
+so= SMR01016
+so= SMR00453
+so= SMR00501
+so= SMR00630
+so= SMR00714
+so= SMR00766
+so= SMR00768
+so= SMR01067
+so= SMR00836
+so= SMR00839
+so= SMR00841
+so= SMR00842
+so= SMR00843
+so= SMR00846
+so= SMR00929
+
+id= SMR00853
+te= Eligibility
+bf= Right to be elected
+so= SMR01024
+so= SMR00854
+so= SMR00855
+so= SMR00856
+so= SMR00974
+
+id= SMR00854
+te= Electoral law
+bf= Election law
+so= SMR01017
+so= SMR00382
+so= SMR01024
+so= SMR00853
+so= SMR00856
+
+id= SMR00855
+te= Political representation
+so= SMR01024
+so= SMR00853
+so= SMR00609
+so= SMR00690
+so= SMR00699
+so= SMR01054
+so= SMR01055
+so= SMR00717
+
+id= SMR00856
+te= Right to vote
+so= SMR00202
+so= SMR01024
+so= SMR00854
+so= SMR00853
+so= SMR01054
+so= SMR00974
+
+id= SMR00857
+te= Right to work
+so= SMR00390
+so= SMR00395
+so= SMR00589
+so= SMR00638
+so= SMR00835
+so= SMR00952
+so= SMR00977
+
+id= SMR00858
+te= Rule of law
+so= SMR00317
+
+id= SMR00859
+te= Rural areas
+so= SMR00181
+so= SMR00182
+so= SMR00263
+so= SMR00430
+so= SMR00707
+so= SMR00706
+so= SMR00860
+so= SMR00861
+so= SMR00862
+so= SMR00959
+
+id= SMR00860
+te= Rural population
+so= SMR00859
+so= SMR00861
+
+id= SMR00861
+te= Rural poverty
+so= SMR00181
+so= SMR00206
+so= SMR00182
+so= SMR01026
+so= SMR00592
+so= SMR00706
+so= SMR00860
+so= SMR00859
+
+id= SMR00862
+te= Rural women
+so= SMR00182
+so= SMR00430
+so= SMR00706
+so= SMR00859
+so= SMR00973
+
+id= SMR00863
+te= Sacred grounds
+so= SMR01015
+so= SMR00306
+so= SMR00460
+so= SMR00807
+
+id= SMR00864
+te= Sanitation
+so= SMR00362
+so= SMR00488
+so= SMR00686
+so= SMR00836
+
+id= SMR00865
+te= Schools
+so= SMR00380
+so= SMR00748
+so= SMR00869
+so= SMR00905
+
+id= SMR00866
+te= Science and technology
+so= SMR00829
+so= SMR00867
+so= SMR00922
+
+id= SMR00867
+te= Scientific freedom
+so= SMR00172
+so= SMR00463
+so= SMR01038
+so= SMR00541
+so= SMR00759
+so= SMR00829
+so= SMR00954
+
+id= SMR00868
+te= Secession
+so= SMR01035
+so= SMR00651
+so= SMR00662
+so= SMR01050
+so= SMR01071
+so= SMR00877
+so= SMR00923
+
+id= SMR00869
+te= Secondary education
+so= SMR00740
+so= SMR00748
+
+id= SMR00870
+te= Secularism
+so= SMR00455
+so= SMR00460
+so= SMR00463
+
+id= SMR00871
+te= Security
+so= SMR00390
+so= SMR00526
+so= SMR00564
+so= SMR01048
+so= SMR00686
+so= SMR00796
+so= SMR00852
+
+id= SMR00872
+te= Security forces
+so= SMR00649
+so= SMR01048
+so= SMR00694
+so= SMR00718
+so= SMR00960
+
+id= SMR00873
+te= Segregation
+so= SMR00189
+so= SMR00406
+so= SMR00471
+so= SMR00780
+
+id= SMR00874
+te= Self-government
+bf= Internal autonomy
+so= SMR00318
+so= SMR00530
+so= SMR00617
+so= SMR00680
+so= SMR01071
+so= SMR00934
+
+id= SMR00875
+te= Self-incrimination
+so= SMR00988
+so= SMR00267
+so= SMR00411
+so= SMR01041
+so= SMR00847
+so= SMR00971
+
+id= SMR00876
+te= Sentencing
+so= SMR00299
+
+id= SMR00877
+te= Separatism
+so= SMR00432
+so= SMR00546
+so= SMR00651
+so= SMR00662
+so= SMR01050
+so= SMR01071
+so= SMR00868
+
+id= SMR00878
+te= Separation of powers
+so= SMR00412
+so= SMR00473
+so= SMR00527
+so= SMR00578
+so= SMR00608
+
+id= SMR00879
+te= Settlers
+so= SMR00256
+so= SMR00548
+so= SMR01043
+so= SMR00593
+so= SMR00737
+
+id= SMR00880
+te= Sex tourism
+so= SMR00763
+so= SMR00883
+
+id= SMR00881
+te= Sexual abuse
+so= SMR00228
+so= SMR00882
+so= SMR00883
+so= SMR00884
+
+id= SMR00882
+te= Sexual assault
+bf= Rape
+so= SMR00171
+so= SMR00228
+so= SMR00714
+so= SMR00883
+so= SMR00884
+
+id= SMR00883
+te= Sexual exploitation
+so= SMR00171
+so= SMR00017
+so= SMR00360
+so= SMR00880
+so= SMR00882
+so= SMR00884
+so= SMR01118
+so= SMR01081
+
+id= SMR00884
+te= Sexual harassment
+so= SMR00499
+so= SMR00882
+so= SMR00883
+so= SMR01081
+so= SMR00977
+so= SMR00980
+
+id= SMR00885
+te= Slave trade
+so= SMR00440
+so= SMR00838
+so= SMR01072
+so= SMR01118
+
+id= SMR00886
+te= Slavery
+so= SMR00216
+so= SMR00440
+so= SMR00838
+so= SMR01072
+so= SMR01118
+
+id= SMR00887
+te= Social assistance
+so= SMR00206
+so= SMR00370
+so= SMR00526
+so= SMR00741
+so= SMR00850
+so= SMR00896
+so= SMR00897
+so= SMR00968
+
+id= SMR00888
+te= Social change
+so= SMR00890
+so= SMR00893
+so= SMR00894
+
+id= SMR00889
+te= Social cost
+so= SMR00894
+so= SMR00914
+so= SMR00917
+
+id= SMR00890
+te= Social development
+so= SMR00318
+so= SMR00372
+so= SMR00391
+so= SMR00734
+so= SMR00831
+so= SMR00888
+so= SMR00894
+so= SMR00973
+
+id= SMR00891
+te= Social inequality
+so= SMR00222
+so= SMR00252
+so= SMR00333
+so= SMR00349
+so= SMR00399
+so= SMR00892
+so= SMR00893
+so= SMR00894
+
+id= SMR00892
+te= Social integration
+so= SMR00242
+so= SMR01004
+so= SMR00333
+so= SMR00337
+so= SMR00338
+so= SMR00350
+so= SMR00395
+so= SMR00891
+so= SMR00893
+so= SMR01083
+
+id= SMR00893
+te= Social justice
+so= SMR00333
+so= SMR00370
+so= SMR00399
+so= SMR00525
+so= SMR00888
+so= SMR00890
+so= SMR00891
+so= SMR00892
+so= SMR00894
+so= SMR00896
+
+id= SMR00894
+te= Social policy
+so= SMR00888
+so= SMR00890
+so= SMR00891
+so= SMR00893
+so= SMR00895
+so= SMR00896
+so= SMR00969
+
+id= SMR00895
+te= Social problems
+so= SMR00894
+
+id= SMR00896
+te= Social security
+so= SMR00206
+so= SMR00370
+so= SMR00526
+so= SMR00741
+so= SMR00846
+so= SMR00850
+so= SMR00887
+so= SMR00893
+so= SMR00894
+
+id= SMR00897
+te= Social services
+so= SMR00487
+so= SMR00887
+so= SMR00901
+
+id= SMR00898
+te= Social status
+so= SMR00252
+so= SMR00349
+
+id= SMR00899
+te= Social unrest
+so= SMR00319
+so= SMR00765
+so= SMR01058
+so= SMR00783
+so= SMR00784
+so= SMR01078
+
+id= SMR00900
+te= Social welfare
+so= SMR00370
+so= SMR00887
+so= SMR00894
+so= SMR00896
+so= SMR00969
+
+id= SMR00901
+te= Social workers
+so= SMR00264
+so= SMR00897
+
+id= SMR00902
+te= Socialism
+so= SMR00261
+so= SMR00623
+
+id= SMR00903
+te= Society
+so= SMR00994
+so= SMR00252
+
+id= SMR00904
+te= Sovereignty
+so= SMR01035
+so= SMR00910
+
+id= SMR00905
+te= Special education
+so= SMR00242
+so= SMR00833
+
+id= SMR00906
+te= Spousal equality
+bf= Equal rights of spouses
+so= SMR00231
+so= SMR00271
+so= SMR00357
+so= SMR00399
+so= SMR00441
+so= SMR00620
+so= SMR01045
+
+id= SMR00907
+te= Standard of living
+so= SMR00206
+so= SMR00370
+so= SMR00827
+
+id= SMR00908
+te= Standard-setting
+so= SMR00556
+
+id= SMR00909
+te= State of emergency
+bf= State of siege
+bf= State of exception
+so= SMR01018
+so= SMR01025
+so= SMR00647
+so= SMR01048
+so= SMR00665
+so= SMR01056
+so= SMR01058
+
+id= SMR00910
+te= State sovereignty
+so= SMR00446
+so= SMR01035
+so= SMR01040
+so= SMR00923
+
+id= SMR00911
+te= State's obligations
+so= SMR01023
+so= SMR01031
+so= SMR01036
+so= SMR00570
+so= SMR01074
+
+id= SMR00912
+te= State terror
+so= SMR00254
+so= SMR00649
+so= SMR00694
+so= SMR00719
+so= SMR01056
+so= SMR00810
+so= SMR00872
+
+id= SMR00913
+te= Stereotyping
+so= SMR00352
+so= SMR00745
+
+id= SMR00914
+te= Structural adjustment
+so= SMR00325
+so= SMR00328
+so= SMR00372
+so= SMR00445
+so= SMR00554
+so= SMR00670
+so= SMR00889
+
+id= SMR00915
+te= Student movements
+so= SMR00710
+
+id= SMR00916
+te= Suicide
+so= SMR00409
+so= SMR00832
+
+id= SMR00917
+te= Sustainable development
+so= SMR00330
+so= SMR01026
+so= SMR01067
+so= SMR00831
+so= SMR01068
+so= SMR00970
+
+id= SMR00918
+te= Systemic discrimination
+so= SMR00739
+so= SMR00333
+so= SMR00389
+so= SMR00395
+so= SMR00977
+
+id= SMR00919
+te= Teachers training
+so= SMR00378
+so= SMR01083
+
+id= SMR00920
+te= Teaching methods
+so= SMR00380
+
+id= SMR00921
+te= Technical cooperation
+bf= Technical assistance
+so= SMR00208
+so= SMR00327
+so= SMR00330
+so= SMR00444
+so= SMR00553
+so= SMR00642
+
+id= SMR00922
+te= Technological change
+so= SMR00829
+so= SMR01083
+
+id= SMR00923
+te= Territorial integrity
+bf= Right to the territorial integrity
+so= SMR00446
+so= SMR00593
+so= SMR01068
+so= SMR00868
+so= SMR00910
+
+id= SMR00924
+te= Terrorism
+so= SMR00480
+so= SMR01056
+so= SMR00912
+so= SMR01078
+
+id= SMR00925
+te= Testimonies
+so= SMR00420
+so= SMR00573
+so= SMR00721
+so= SMR00971
+
+id= SMR00926
+te= Theories
+so= SMR00514
+so= SMR00505
+so= SMR00130
+
+id= SMR00927
+te= Third generation of human rights
+bf= Solidarity rights
+so= SMR00491
+so= SMR00533
+so= SMR00543
+
+id= SMR00928
+te= Tolerance
+so= SMR00572
+
+id= SMR00929
+te= Torture
+so= SMR00278
+so= SMR00470
+so= SMR00630
+so= SMR00714
+so= SMR00719
+so= SMR00720
+so= SMR00752
+so= SMR00766
+so= SMR00768
+so= SMR00818
+so= SMR00852
+so= SMR00930
+so= SMR00932
+
+id= SMR00930
+te= Torture victims
+so= SMR00265
+so= SMR01016
+so= SMR01032
+so= SMR00929
+so= SMR00932
+so= SMR01079
+
+id= SMR00931
+te= Torture victims treatment
+so= SMR00487
+so= SMR00632
+so= SMR00636
+
+id= SMR00932
+te= Torturers
+so= SMR00929
+
+id= SMR00933
+te= Totalitarianism
+so= SMR00331
+
+id= SMR00934
+te= Traditional authorities
+bf= Tribal chiefs
+so= SMR01015
+so= SMR00308
+so= SMR00530
+so= SMR00803
+so= SMR00874
+so= SMR00935
+so= SMR00949
+
+id= SMR00935
+te= Traditional justice
+so= SMR00530
+so= SMR00934
+
+id= SMR00936
+te= Traditional practices affecting women
+so= SMR00171
+so= SMR01015
+so= SMR00468
+so= SMR00701
+so= SMR00714
+so= SMR00732
+so= SMR00768
+so= SMR00972
+
+id= SMR00937
+te= Trafficking
+so= SMR00366
+so= SMR01118
+
+id= SMR00938
+te= Training
+so= SMR00596
+so= SMR00722
+so= SMR00919
+so= SMR01083
+
+id= SMR00939
+te= Transitional justice
+so= SMR00998
+
+id= SMR00940
+te= Translation
+so= SMR00941
+
+id= SMR00941
+te= Interpretation
+so= SMR00828
+so= SMR00940
+
+id= SMR00942
+te= Transnational corporations
+so= SMR00279
+so= SMR00419
+so= SMR00447
+so= SMR00450
+so= SMR00565
+so= SMR00669
+
+id= SMR00943
+te= Travel documents
+so= SMR00457
+so= SMR01062
+so= SMR00814
+so= SMR00824
+so= SMR01075
+
+id= SMR00944
+te= Travaux preparatoires
+so= SMR00556
+so= SMR00607
+so= SMR00128
+so= SMR00945
+
+id= SMR00945
+te= Treaties
+so= SMR00550
+so= SMR00556
+so= SMR00128
+
+id= SMR00946
+te= Trial observer missions
+so= SMR00504
+so= SMR00730
+
+id= SMR00947
+te= Trial within a reasonable time
+bf= Speedy trial
+bf= Prompt trial
+
+id= SMR00948
+te= Trials
+so= SMR00423
+so= SMR00730
+so= SMR00946
+so= SMR00947
+
+id= SMR00949
+te= Tribalism
+so= SMR01015
+so= SMR00308
+so= SMR00934
+so= SMR00935
+
+id= SMR00950
+te= Trust territories
+so= SMR00314
+so= SMR00680
+so= SMR01071
+so= SMR00874
+
+id= SMR00951
+te= Truth commissions
+so= SMR00997
+so= SMR00573
+so= SMR00124
+so= SMR00939
+
+id= SMR00952
+te= Unemployment
+so= SMR00589
+so= SMR00857
+
+id= SMR00953
+te= Universality of human rights
+so= SMR00305
+so= SMR01023
+so= SMR00505
+so= SMR00555
+
+id= SMR00954
+te= Universities
+so= SMR00172
+so= SMR00740
+so= SMR00867
+so= SMR01077
+so= SMR00955
+
+id= SMR00955
+te= University teachers
+so= SMR00541
+so= SMR00954
+
+id= SMR00956
+te= Uprising
+bf= Insurgency
+so= SMR00194
+so= SMR01012
+so= SMR01001
+so= SMR00480
+so= SMR00661
+so= SMR00678
+so= SMR00819
+so= SMR00848
+
+id= SMR00957
+te= Urban areas
+bf= Urban communities
+so= SMR00263
+so= SMR00617
+so= SMR01076
+so= SMR00958
+so= SMR01078
+so= SMR00959
+
+id= SMR00958
+te= Urban poor
+so= SMR00206
+so= SMR00471
+so= SMR00741
+so= SMR00826
+so= SMR00957
+so= SMR01078
+
+id= SMR00959
+te= Urbanization
+so= SMR00548
+so= SMR00957
+
+id= SMR00960
+te= Use of force
+so= SMR00437
+so= SMR00446
+so= SMR00646
+so= SMR00719
+so= SMR00720
+so= SMR00872
+
+id= SMR00961
+te= Value systems
+so= SMR00505
+so= SMR00745
+so= SMR00759
+so= SMR00764
+so= SMR00799
+
+id= SMR00962
+te= Victims
+so= SMR01003
+so= SMR00930
+so= SMR01079
+so= SMR00963
+
+id= SMR00963
+te= War victims
+bf= Victims of war
+so= SMR01115
+so= SMR00995
+so= SMR00355
+so= SMR00510
+so= SMR00511
+so= SMR00751
+so= SMR00817
+so= SMR01085
+so= SMR00981
+
+id= SMR00964
+te= Video surveillance
+so= SMR00386
+so= SMR00504
+so= SMR00809
+
+id= SMR00965
+te= Water rights
+so= SMR00183
+so= SMR00362
+so= SMR01028
+
+id= SMR00966
+te= Weapons
+so= SMR00196
+so= SMR00197
+so= SMR00334
+
+id= SMR00967
+te= Weapons of mass destruction
+so= SMR00334
+so= SMR00619
+so= SMR01085
+
+id= SMR00968
+te= Welfare recipients
+so= SMR00206
+so= SMR00348
+so= SMR00741
+so= SMR00850
+so= SMR00887
+
+id= SMR00969
+te= Welfare state
+so= SMR00894
+
+id= SMR00970
+te= Wildlife protection
+so= SMR00316
+so= SMR01026
+so= SMR01028
+so= SMR00665
+so= SMR01060
+so= SMR01067
+so= SMR00917
+
+id= SMR00971
+te= Witnesses
+so= SMR00267
+so= SMR00569
+so= SMR00411
+so= SMR00423
+so= SMR01041
+so= SMR00573
+so= SMR00721
+so= SMR00875
+so= SMR00925
+
+id= SMR00972
+te= Women
+so= SMR00391
+so= SMR00469
+so= SMR00434
+so= SMR00435
+so= SMR00441
+so= SMR00627
+so= SMR00743
+so= SMR00811
+so= SMR00936
+so= SMR01081
+so= SMR00976
+so= SMR00977
+so= SMR00978
+
+id= SMR00973
+te= Women in development
+so= SMR00391
+so= SMR00890
+so= SMR00831
+so= SMR00862
+
+id= SMR00974
+te= Women in politics
+so= SMR00853
+so= SMR00391
+so= SMR01017
+so= SMR01054
+so= SMR00856
+so= SMR00978
+
+id= SMR00975
+te= Women prisoners
+so= SMR00992
+so= SMR00752
+
+id= SMR00976
+te= Women's education
+so= SMR00350
+so= SMR00833
+so= SMR01083
+so= SMR00972
+
+id= SMR00977
+te= Women's employment
+bf= Women workers
+so= SMR00739
+so= SMR00351
+so= SMR00389
+so= SMR00395
+so= SMR00397
+so= SMR00589
+so= SMR00627
+so= SMR00702
+so= SMR00857
+so= SMR00884
+so= SMR00918
+so= SMR01083
+so= SMR00972
+
+id= SMR00978
+te= Women's organizations
+so= SMR00435
+so= SMR00478
+so= SMR00974
+
+id= SMR00979
+te= Workers
+so= SMR00253
+so= SMR00351
+so= SMR00390
+so= SMR00558
+so= SMR00686
+so= SMR00851
+so= SMR00980
+
+id= SMR00980
+te= Working conditions
+bf= Quality of working life
+so= SMR00253
+so= SMR00558
+so= SMR00591
+so= SMR00884
+
+id= SMR00981
+te= Wounded persons
+so= SMR01115
+so= SMR00511
+so= SMR00632
+so= SMR01049
+so= SMR00332
+so= SMR00841
+so= SMR00846
+so= SMR00963
+
+id= SMR00982
+te= Writers
+so= SMR01038
+so= SMR00615
+
+id= SMR00983
+te= Xenophobia
+so= SMR00339
+so= SMR01030
+so= SMR00572
+so= SMR00662
+so= SMR00745
+so= SMR00781
+so= SMR01059
+so= SMR00783
+so= SMR00784
+
+id= SMR00984
+te= Zionism
+so= SMR00514
+so= SMR00662
+
+id= SMR00985
+te= Youth
+bf= Adolescents
+bf= Juveniles
+bf= Minors
+bf= Young persons
+so= SMR01009
+so= SMR00993
+so= SMR01042
+so= SMR01077
+
+id= SMR00986
+te= Young women
+so= SMR00972
+so= SMR00985
+
+id= SMR00987
+te= Access to justice
+so= SMR01010
+so= SMR00186
+so= SMR00284
+so= SMR01003
+so= SMR00353
+so= SMR00602
+so= SMR01069
+so= SMR01079
+
+id= SMR00988
+te= Accused persons
+bf= Person charged with an offence
+so= SMR00267
+so= SMR00293
+so= SMR00361
+so= SMR00524
+so= SMR00746
+so= SMR01066
+so= SMR01069
+so= SMR00847
+so= SMR00875
+
+id= SMR00989
+te= Aliens
+bf= Foreigners
+so= SMR00200
+so= SMR00247
+so= SMR00321
+so= SMR00336
+so= SMR00416
+so= SMR00497
+so= SMR00515
+so= SMR00520
+so= SMR00560
+so= SMR00638
+so= SMR00663
+so= SMR00667
+so= SMR01062
+so= SMR00983
+
+id= SMR00990
+te= Autonomy
+so= SMR00874
+so= SMR00794
+
+id= SMR00991
+te= Business corporations
+so= SMR00279
+so= SMR00400
+so= SMR00447
+so= SMR00756
+
+id= SMR00992
+te= Child prisoners
+bf= Children in prisons
+so= SMR01019
+so= SMR00751
+so= SMR00975
+so= SMR00752
+
+id= SMR00993
+te= Children
+so= SMR01009
+so= SMR00207
+so= SMR00227
+so= SMR00228
+so= SMR00229
+so= SMR00230
+so= SMR00231
+so= SMR00233
+so= SMR00234
+so= SMR00235
+so= SMR00237
+so= SMR00239
+so= SMR00240
+so= SMR00236
+so= SMR01042
+so= SMR00585
+so= SMR00696
+so= SMR00846
+so= SMR00821
+so= SMR00822
+so= SMR00985
+
+id= SMR00994
+te= Civil society
+so= SMR00318
+so= SMR00734
+so= SMR01054
+
+id= SMR00995
+te= Civilian persons
+so= SMR01115
+so= SMR00510
+so= SMR00509
+so= SMR00511
+so= SMR00649
+so= SMR00963
+
+id= SMR00996
+te= Codes of conduct
+so= SMR00279
+so= SMR00280
+
+id= SMR00997
+te= Commissions of inquiry
+so= SMR00951
+so= SMR00309
+so= SMR00420
+so= SMR00475
+so= SMR00573
+so= SMR00809
+
+id= SMR00998
+te= Conflict resolution
+bf= Dispute settlement
+so= SMR00266
+so= SMR00353
+
+id= SMR00999
+te= Conscientious objection
+so= SMR00248
+so= SMR00322
+so= SMR00650
+so= SMR00693
+
+id= SMR01000
+te= Country of origin
+so= SMR00223
+so= SMR00387
+so= SMR00638
+so= SMR01062
+so= SMR00808
+so= SMR00849
+
+id= SMR01001
+te= Coup d'Etat
+bf= Putsch
+so= SMR01012
+so= SMR00649
+so= SMR01053
+so= SMR00819
+so= SMR00956
+
+id= SMR01002
+te= Court of competent jurisdiction
+bf= Competent tribunals
+so= SMR00285
+so= SMR00579
+
+id= SMR01003
+te= Crime victims
+bf= Victims of crime
+so= SMR00987
+so= SMR00265
+so= SMR00292
+so= SMR00817
+so= SMR01079
+
+id= SMR01004
+te= Criminal offenders
+bf= Criminals
+so= SMR00173
+so= SMR00175
+so= SMR00276
+so= SMR00876
+so= SMR00288
+so= SMR00290
+so= SMR00292
+so= SMR01005
+so= SMR00337
+so= SMR00892
+
+id= SMR01005
+te= Criminal responsibility
+so= SMR00279
+so= SMR00292
+so= SMR01004
+so= SMR00507
+so= SMR00531
+so= SMR01042
+so= SMR00585
+
+id= SMR01006
+te= Cross-examination
+so= SMR00267
+so= SMR00411
+so= SMR01041
+so= SMR00847
+
+id= SMR01007
+te= Economic policy
+
+id= SMR01008
+te= Access to information
+bf= Freedom of information
+bf= Right to information
+so= SMR00309
+so= SMR00310
+so= SMR00354
+so= SMR00386
+so= SMR00452
+so= SMR00456
+so= SMR00462
+so= SMR00477
+so= SMR00625
+so= SMR00674
+so= SMR00691
+so= SMR00778
+so= SMR00829
+so= SMR00830
+
+id= SMR01009
+te= Age discrimination
+bf= Discrimination based on age
+so= SMR00993
+so= SMR00985
+
+id= SMR01010
+te= Alternative legal services
+so= SMR00987
+so= SMR00602
+
+id= SMR01011
+te= Civil procedure
+so= SMR00249
+
+id= SMR01012
+te= Civil wars
+so= SMR00194
+so= SMR01001
+so= SMR00404
+so= SMR00480
+so= SMR00819
+so= SMR00956
+
+id= SMR01013
+te= Colonialism
+so= SMR00220
+so= SMR00256
+so= SMR00314
+so= SMR00522
+so= SMR01035
+so= SMR00669
+
+id= SMR01014
+te= Covenants
+
+id= SMR01015
+te= Cultural heritage
+so= SMR00301
+so= SMR00306
+so= SMR00863
+so= SMR00934
+so= SMR00949
+
+id= SMR01016
+te= Cruel treatment
+bf= Cruelty
+bf= Degrading treatment
+so= SMR00228
+so= SMR00299
+so= SMR00501
+so= SMR01037
+so= SMR00714
+so= SMR00818
+so= SMR00852
+so= SMR00630
+so= SMR00766
+so= SMR00768
+so= SMR00752
+
+id= SMR01017
+te= Democratic rights
+so= SMR00247
+so= SMR00317
+so= SMR00318
+so= SMR00319
+so= SMR01024
+so= SMR00854
+so= SMR00459
+so= SMR01051
+so= SMR01053
+so= SMR01054
+so= SMR00855
+so= SMR00734
+so= SMR00787
+so= SMR00974
+
+id= SMR01018
+te= Derogations
+bf= Suspension of guarantees
+so= SMR00550
+so= SMR00613
+so= SMR00770
+so= SMR01058
+so= SMR00813
+so= SMR00909
+
+id= SMR01019
+te= Detained persons
+bf= Detainees
+so= SMR00178
+so= SMR00191
+so= SMR00198
+so= SMR00992
+so= SMR01020
+so= SMR00481
+so= SMR01034
+so= SMR00539
+so= SMR00719
+so= SMR00720
+so= SMR00752
+so= SMR00825
+so= SMR01069
+so= SMR01082
+
+id= SMR01020
+te= Detention
+so= SMR00324
+so= SMR01019
+so= SMR01033
+so= SMR00752
+
+id= SMR01021
+te= Disabilities
+bf= Handicap
+so= SMR00338
+so= SMR00343
+so= SMR00345
+so= SMR00633
+so= SMR00709
+so= SMR00332
+
+id= SMR01022
+te= Environmental refugees
+so= SMR00549
+
+id= SMR01023
+te= Domestic implementation of international human rights law
+so= SMR00305
+so= SMR00359
+so= SMR00413
+so= SMR00504
+so= SMR01031
+so= SMR00809
+so= SMR00911
+so= SMR00953
+
+id= SMR01024
+te= Elections
+so= SMR00318
+so= SMR01017
+so= SMR00382
+so= SMR00384
+so= SMR00854
+so= SMR01051
+so= SMR01054
+so= SMR00855
+so= SMR00787
+so= SMR00856
+
+id= SMR01025
+te= Emergency relief
+bf= Disaster relief
+so= SMR00206
+so= SMR00439
+so= SMR00512
+so= SMR00562
+so= SMR00665
+so= SMR00789
+so= SMR00909
+
+id= SMR01026
+te= Environmental degradation
+so= SMR00393
+so= SMR00483
+so= SMR00619
+so= SMR00665
+so= SMR00769
+so= SMR01067
+so= SMR01068
+so= SMR00836
+so= SMR00917
+so= SMR00970
+
+id= SMR01027
+te= Expropriation
+so= SMR00323
+so= SMR00410
+so= SMR00443
+so= SMR00664
+so= SMR00772
+so= SMR00817
+so= SMR01068
+so= SMR00845
+
+id= SMR01028
+te= Fishing rights
+so= SMR00530
+so= SMR01068
+so= SMR00965
+so= SMR00970
+
+id= SMR01029
+te= Genocide
+bf= Ethnocide
+so= SMR00188
+so= SMR00254
+so= SMR00355
+so= SMR00403
+so= SMR00494
+so= SMR00586
+so= SMR00624
+so= SMR00626
+so= SMR00651
+so= SMR00735
+so= SMR00737
+so= SMR00782
+so= SMR01085
+
+id= SMR01030
+te= Hate propaganda
+bf= Incitement to hatred
+so= SMR00188
+so= SMR00315
+so= SMR00352
+so= SMR00456
+so= SMR00738
+so= SMR00781
+so= SMR01059
+so= SMR00784
+so= SMR00983
+
+id= SMR01031
+te= Human rights reporting
+so= SMR00504
+so= SMR01023
+so= SMR00809
+so= SMR00911
+
+id= SMR01032
+te= Prisoners
+so= SMR00185
+so= SMR00992
+so= SMR01019
+so= SMR01033
+so= SMR01034
+so= SMR00695
+so= SMR00752
+so= SMR00753
+so= SMR00930
+so= SMR01082
+
+id= SMR01033
+te= Imprisonment
+bf= Incarceration
+so= SMR01020
+so= SMR00752
+
+id= SMR01034
+te= Incomunicado detention
+so= SMR01016
+so= SMR01019
+so= SMR00720
+so= SMR01069
+so= SMR01082
+so= SMR00752
+
+id= SMR01035
+te= Independence
+so= SMR00314
+so= SMR00669
+so= SMR00848
+so= SMR00868
+so= SMR01071
+so= SMR00910
+
+id= SMR01036
+te= Individual duties
+so= SMR00531
+so= SMR00532
+so= SMR00911
+
+id= SMR01037
+te= Inhuman treatment
+so= SMR00228
+so= SMR00299
+so= SMR01016
+so= SMR00501
+so= SMR00714
+so= SMR00818
+so= SMR00852
+so= SMR00630
+so= SMR00766
+so= SMR00768
+so= SMR00752
+
+id= SMR01038
+te= Intellectual property rights
+bf= Authors' rights
+so= SMR00310
+so= SMR00829
+so= SMR00845
+so= SMR00867
+so= SMR00982
+
+id= SMR01039
+te= International IGOs
+so= SMR00552
+so= SMR01040
+
+id= SMR01040
+te= International relations
+so= SMR01115
+so= SMR00196
+so= SMR00448
+so= SMR00509
+so= SMR00559
+so= SMR00564
+so= SMR00643
+so= SMR00646
+so= SMR00672
+so= SMR00910
+
+id= SMR01041
+te= Interrogation
+so= SMR00569
+so= SMR00411
+so= SMR00721
+so= SMR00847
+so= SMR00875
+so= SMR00971
+
+id= SMR01042
+te= Juvenile justice
+so= SMR00176
+so= SMR00993
+so= SMR01005
+so= SMR00324
+so= SMR00985
+
+id= SMR01043
+te= Land claims
+so= SMR00181
+so= SMR00256
+so= SMR00530
+so= SMR00592
+so= SMR00706
+so= SMR01068
+so= SMR00879
+
+id= SMR01044
+te= Land mines
+
+id= SMR01045
+te= Matrimonial property
+so= SMR00311
+so= SMR00357
+so= SMR00621
+so= SMR00845
+so= SMR00906
+
+id= SMR01046
+te= Military government
+so= SMR00331
+so= SMR00622
+so= SMR00647
+so= SMR00649
+so= SMR00909
+
+id= SMR01047
+te= National human rights institutions
+bf= National institutions for the protection and promotion of human rights
+so= SMR00358
+so= SMR01023
+so= SMR00911
+
+id= SMR01048
+te= National security
+so= SMR00386
+so= SMR00448
+so= SMR00477
+so= SMR00542
+so= SMR00564
+so= SMR00643
+so= SMR00659
+so= SMR00872
+so= SMR00909
+
+id= SMR01049
+te= Patients
+so= SMR00170
+so= SMR00272
+so= SMR00487
+so= SMR00490
+so= SMR00537
+so= SMR00539
+so= SMR00629
+so= SMR00630
+so= SMR00632
+so= SMR00685
+so= SMR00708
+so= SMR00766
+so= SMR00836
+so= SMR00841
+so= SMR00981
+
+id= SMR01050
+te= Peoples' rights
+so= SMR00314
+so= SMR01068
+so= SMR00848
+
+id= SMR01051
+te= Plebiscites
+so= SMR01017
+so= SMR01024
+so= SMR01054
+so= SMR00787
+
+id= SMR01052
+te= Policy-making
+so= SMR00476
+so= SMR01054
+so= SMR00734
+
+id= SMR01053
+te= Political opposition
+so= SMR00248
+so= SMR01001
+so= SMR01017
+so= SMR00356
+so= SMR00459
+so= SMR00661
+so= SMR00690
+so= SMR00692
+so= SMR00723
+so= SMR01054
+so= SMR01055
+so= SMR00725
+so= SMR00717
+so= SMR00728
+so= SMR01056
+
+id= SMR01054
+te= Political participation
+so= SMR00994
+so= SMR00318
+so= SMR01024
+so= SMR01051
+so= SMR01052
+so= SMR00723
+so= SMR01053
+so= SMR00734
+so= SMR01055
+so= SMR00855
+so= SMR00787
+so= SMR00856
+so= SMR00974
+
+id= SMR01055
+te= Political parties
+so= SMR00454
+so= SMR00690
+so= SMR00692
+so= SMR01053
+so= SMR01054
+so= SMR00717
+so= SMR00855
+so= SMR00728
+
+id= SMR01056
+te= Political violence
+so= SMR00480
+so= SMR00724
+so= SMR00725
+so= SMR00727
+so= SMR00719
+so= SMR00765
+so= SMR00810
+so= SMR00872
+so= SMR00899
+so= SMR00909
+so= SMR00912
+so= SMR00924
+
+id= SMR01057
+te= Prosecution
+so= SMR00762
+so= SMR01066
+
+id= SMR01058
+te= Public order
+bf= Law and order
+so= SMR00248
+so= SMR00288
+so= SMR00319
+so= SMR00613
+so= SMR00622
+so= SMR00718
+so= SMR01056
+so= SMR00764
+so= SMR00770
+so= SMR00773
+so= SMR00899
+so= SMR00909
+
+id= SMR01059
+te= Racism
+so= SMR01030
+so= SMR00572
+so= SMR00662
+so= SMR00745
+so= SMR00780
+so= SMR00781
+so= SMR00783
+so= SMR00784
+
+id= SMR01060
+te= Rainforests
+so= SMR00316
+so= SMR01026
+so= SMR01068
+so= SMR00970
+
+id= SMR01061
+te= Refugee protection
+so= SMR01108
+so= SMR00560
+so= SMR00679
+so= SMR00789
+so= SMR00126
+so= SMR01062
+so= SMR01064
+so= SMR00808
+
+id= SMR01062
+te= Refugees
+so= SMR00223
+so= SMR01000
+so= SMR00355
+so= SMR00415
+so= SMR00497
+so= SMR00510
+so= SMR00520
+so= SMR00560
+so= SMR00679
+so= SMR01061
+so= SMR00126
+so= SMR00808
+so= SMR01064
+so= SMR00814
+so= SMR01065
+so= SMR01075
+so= SMR00943
+
+id= SMR01063
+te= Regional IGOs
+so= SMR01039
+so= SMR00795
+
+id= SMR01064
+te= Resettlement
+so= SMR00497
+so= SMR00560
+so= SMR00789
+so= SMR01061
+so= SMR01062
+so= SMR00808
+so= SMR00814
+
+id= SMR01065
+te= Right to seek asylum
+so= SMR00200
+so= SMR00560
+so= SMR00820
+so= SMR01062
+
+id= SMR01066
+te= Right to a fair hearing
+so= SMR00988
+so= SMR00367
+so= SMR00527
+
+id= SMR01067
+te= Right to a healthy environment
+bf= Right to an environment
+so= SMR01026
+so= SMR00393
+so= SMR00483
+so= SMR00619
+so= SMR00665
+so= SMR00682
+so= SMR00686
+so= SMR00731
+so= SMR00769
+so= SMR01068
+so= SMR00836
+so= SMR00852
+so= SMR00917
+so= SMR00970
+
+id= SMR01068
+te= Right to control natural resources
+bf= Right to freely dispose of natural wealth and resources
+bf= Sovereignty over natural resources
+so= SMR01026
+so= SMR01027
+so= SMR01028
+so= SMR01043
+so= SMR00664
+so= SMR01050
+so= SMR00772
+so= SMR01060
+so= SMR01067
+so= SMR00831
+so= SMR00845
+so= SMR01071
+so= SMR00917
+so= SMR00923
+
+id= SMR01069
+te= Right to legal assistance
+bf= Right to counsel
+so= SMR00987
+so= SMR00988
+so= SMR00198
+so= SMR00293
+so= SMR01019
+so= SMR01034
+so= SMR00600
+so= SMR00602
+so= SMR00721
+
+id= SMR01070
+te= Sanctions
+so= SMR00375
+so= SMR00447
+so= SMR00449
+so= SMR00450
+so= SMR00565
+
+id= SMR01071
+te= Self-determination
+bf= Right to self-determination
+so= SMR00194
+so= SMR00314
+so= SMR01035
+so= SMR00661
+so= SMR00662
+so= SMR00678
+so= SMR00680
+so= SMR01050
+so= SMR00819
+so= SMR00848
+so= SMR00868
+so= SMR00874
+so= SMR00877
+
+id= SMR01072
+te= Serfdom
+so= SMR00216
+so= SMR00440
+so= SMR00838
+
+id= SMR01073
+te= Social movements
+so= SMR00710
+so= SMR01055
+
+id= SMR01074
+te= State responsibility
+so= SMR00472
+so= SMR00524
+so= SMR00531
+so= SMR00911
+so= SMR01079
+
+id= SMR01075
+te= Stateless persons
+so= SMR00200
+so= SMR00247
+so= SMR00415
+so= SMR00497
+so= SMR00663
+so= SMR00667
+so= SMR01062
+so= SMR00814
+so= SMR00823
+so= SMR00943
+
+id= SMR01076
+te= Street children
+so= SMR00298
+so= SMR00232
+so= SMR00237
+so= SMR00495
+so= SMR00957
+so= SMR00958
+so= SMR00985
+
+id= SMR01077
+te= Students
+so= SMR00379
+so= SMR00915
+so= SMR00954
+so= SMR00985
+
+id= SMR01078
+te= Urban violence
+so= SMR00366
+so= SMR00719
+so= SMR00782
+so= SMR00784
+so= SMR00899
+so= SMR00924
+so= SMR00957
+so= SMR00958
+
+id= SMR01079
+te= Victims of abuse of power
+so= SMR00987
+so= SMR00265
+so= SMR01003
+so= SMR00506
+so= SMR00817
+so= SMR01074
+so= SMR00930
+
+id= SMR01080
+te= Violence
+so= SMR00360
+so= SMR00418
+so= SMR01029
+so= SMR00586
+so= SMR00626
+so= SMR01056
+so= SMR00782
+so= SMR00784
+so= SMR00882
+so= SMR00912
+so= SMR00924
+so= SMR00929
+so= SMR01081
+
+id= SMR01081
+te= Violence against women
+bf= Gender-based violence
+so= SMR00171
+so= SMR00360
+so= SMR00883
+so= SMR00884
+
+id= SMR01082
+te= Visitation rights
+so= SMR00231
+so= SMR01019
+so= SMR01034
+so= SMR00825
+
+id= SMR01083
+te= Vocational training
+so= SMR00395
+so= SMR00833
+so= SMR00892
+so= SMR00922
+so= SMR00977
+
+id= SMR01084
+te= Vulnerable groups
+so= SMR00333
+
+id= SMR01085
+te= War crimes
+so= SMR01115
+so= SMR00289
+so= SMR01029
+so= SMR00624
+so= SMR00626
+so= SMR01086
+so= SMR00963
+so= SMR00967
+
+id= SMR01086
+te= War criminals
+so= SMR01115
+so= SMR01085
+
+id= SMR01087
+te= Wages
+bf= Earnings
+bf= Remuneration
+bf= Salaries
+so= SMR00097
+so= SMR00702
+
+id= SMR01088
+te= Methods
+
+id= SMR01089
+te= Group rights
+
+id= SMR01090
+te= Case studies
+
+id= SMR01091
+te= Organized crime
+
+id= SMR01092
+te= Solitary confinement
+
+id= SMR01093
+te= Expert witness
+
+id= SMR01094
+te= Peacebuilding
+
+id= SMR01095
+te= Litigation
+
+id= SMR01096
+te= Maternal health
+so= SMR01098
+
+id= SMR01097
+te= Political reforms
+
+id= SMR01098
+te= Maternal mortality
+so= SMR01096
+
+id= SMR01099
+te= International investments
+
+id= SMR01100
+te= Economic and financial crisis
+bf= Recession
+so= SMR01101
+so= SMR01102
+
+id= SMR01101
+te= Economic crisis
+so= SMR01100
+so= SMR01102
+
+id= SMR01102
+te= Financial crisis
+so= SMR01100
+so= SMR01101
+
+id= SMR01103
+te= Social mobility
+
+id= SMR01104
+te= Missing persons
+bf= Disappeared persons
+bf= Enforced disappearances
+bf= Forced disappearances
+so= SMR01105
+so= SMR00227
+so= SMR00418
+so= SMR00586
+so= SMR00838
+so= SMR00852
+
+id= SMR01105
+te= Disappearances
+bf= Disappeared persons
+bf= Enforced disappearances
+bf= Forced disappearances
+so= SMR00227
+so= SMR00418
+so= SMR00586
+so= SMR01104
+so= SMR00838
+so= SMR00852
+
+id= SMR01106
+te= Court procedure
+
+id= SMR01107
+te= Environmental law
+
+id= SMR01108
+te= Convention refugees
+bf= Political refugees
+so= SMR01061
+so= SMR00126
+
+id= SMR01109
+te= Dangerous offenders
+
+id= SMR01110
+te= Sedition
+
+id= SMR01111
+te= Negotiation
+so= SMR00192
+so= SMR00253
+so= SMR00269
+so= SMR00628
+so= SMR00705
+
+id= SMR01112
+te= Legal validity
+
+id= SMR01113
+te= Law enforcement
+
+id= SMR01114
+te= Cosmopolitanism
+
+id= SMR01115
+te= Armed conflicts
+bf= Wars
+so= SMR00193
+so= SMR00194
+so= SMR00195
+so= SMR00224
+so= SMR00995
+so= SMR00257
+so= SMR00510
+so= SMR00511
+so= SMR01040
+so= SMR00564
+so= SMR00646
+so= SMR00659
+so= SMR00705
+so= SMR00751
+so= SMR00842
+so= SMR00848
+so= SMR01085
+so= SMR01086
+so= SMR00963
+so= SMR00981
+
+id= SMR01116
+te= Post-conflict reconstruction
+
+id= SMR01117
+te= Food security
+
+id= SMR01118
+te= Traffic in persons
+so= SMR00440
+so= SMR00441
+so= SMR00763
+so= SMR00883
+so= SMR00885
+so= SMR00886
+
+id= SMR01119
+te= Adjudication
+de= The act of a court in making a judgment or decree
+
+id= SMR01120
+te= Non-state actors
+
+id= SMR01121
+te= Responsibility to protect
+bf= R2P
+
+id= SMR01122
+te= Residential care
+
