@@ -68,7 +68,8 @@ def check_modification_dates(record):
     logger.info('   Remote file modified: %s' % (record['remote_datemod'].isoformat()))
     logger.info('    Local file modified: %s' % (record['local_datemod'].isoformat()))
 
-    if record['remote_datemod'] < record['local_datemod']:
+    # Subtract 5 minutes to account for the possibility of the clock being slightly off
+    if record['remote_datemod'] < record['local_datemod'] + datetime.timedelta(minutes=5):
         logger.info(' -> Local data are up-to-date.')
         record['modified'] = False
         return record
@@ -88,16 +89,16 @@ def run():
         }
     ]
 
-    # for f in files:
+    for f in files:
 
-    #     logger.info('Checking {}...'.format(f['local_file']))
-    #     f['record'] = check_modification_dates(f)
+        logger.info('Checking {}...'.format(f['local_file']))
+        f['record'] = check_modification_dates(f)
 
-    # if not reduce(lambda x, y: x or y['record']['modified'], files, False):
+    if not reduce(lambda x, y: x or y['record']['modified'], files, False):
 
-    #     logger.info('No changes. Exiting.')
-    #     # sys.exit(1)  # tells prepare.sh that there's no need to continue
-    #     # return
+        logger.info('No changes. Exiting.')
+        sys.exit(1)  # tells prepare.sh that there's no need to continue
+        # return
 
     make()
 
