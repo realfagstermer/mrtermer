@@ -10,6 +10,7 @@ from dateutil.parser import parse
 from tzlocal import get_localzone
 import pytz   # timezone in Python 3
 from roald import Roald
+from functools import reduce
 
 logger = logging.getLogger()
 logger.setLevel(logging.DEBUG)
@@ -84,7 +85,7 @@ def run():
 
     files = [
         {
-            'remote_url': 'http://app.uio.no/ub/emnesok/data/mr/idtermer.txt',
+            'remote_url': 'https://app.uio.no/ub/emnesok/data/mr/idtermer.txt',
             'local_file': 'src/idtermer.txt'
         }
     ]
@@ -110,7 +111,7 @@ def make():
     roald.save('mrtermer.json')
 
     marc21options = {
-      'vocabulary': 'noubomr',
+      'vocabulary_code': 'noubomr',
       'created_by': 'NoOU'
     }
     roald.export('dist/mrtermer.marc21.xml', format='marc21', **marc21options)

@@ -1,4 +1,3 @@
-@base <http://data.ub.uio.no/> .
 @prefix cc: <http://creativecommons.org/ns#> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
@@ -13,16 +12,18 @@
 @prefix void: <http://rdfs.org/ns/void#> .
 @prefix sd: <http://www.w3.org/ns/sparql-service-description#> .
 @prefix ubo: <http://data.ub.uio.no/onto#> .
+@prefix library: <http://data.ub.uio.no/library/> .
+@prefix mrtermer: <http://data.ub.uio.no/mrtermer/> .
 
-<mrtermer> a skos:ConceptScheme, void:Dataset, sd:Graph ;
+mrtermer: a skos:ConceptScheme, void:Dataset, sd:Graph ;
     rdfs:label "Human Rights Terms"@en ;
     rdfs:label "Menneskerettighetstermer"@nb ;
     dcterms:title "Human Rights Terms"@en ;
     dcterms:title "Menneskerettighetstermer"@nb ;
     dcterms:description "Human Rights Terms is a controlled subject headings vocabulary covering mainly human rights literature, and is maintained by the Human Rights Library, part of the UiO Law Library."@en,
         "Menneskerettighetstermer er et kontrollert, pre-koordinert emneordsvokabular som forvaltes og videreutvikles av Norsk senter for menneskerettigheters (SMR) bibliotek."@nb ;
-    dcterms:publisher <library/k> ;
-    dcterms:creator <library/k> ;
+    dcterms:publisher library:k ;
+    dcterms:creator library:k ;
     dcterms:language lexvo:eng ;
     cc:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
     dcterms:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
@@ -32,30 +33,30 @@
     void:dataDump <dumps/mrtermer.rdf>,
         <dumps/mrtermer.ttl> ;
     void:uriSpace "http://data.ub.uio.no/mrtermer/" ;
-    void:exampleResource <mrtermer/c012676> ;
+    void:exampleResource mrtermer:c012676 ;
     void:vocabulary skos: , mads: .
 
-<library/k> a foaf:Organization ;
+library:k a foaf:Organization ;
     rdfs:label "University of Oslo Library"@en,
         "Universitetsbiblioteket i Oslo"@nb ;
     owl:sameAs <http://dbpedia.org/resource/University_Library_of_Oslo>,
         <http://viaf.org/viaf/155670338/>,
         <http://www.wikidata.org/entity/Q3354774> .
 
-<sparql> a sd:Service ;
-    sd:url <sparql> ;
+<http://data.ub.uio.no/sparql> a sd:Service ;
+    sd:url <http://data.ub.uio.no/sparql> ;
     sd:supportedLanguage sd:SPARQL11Query ;
     sd:feature sd:UnionDefaultGraph ;
-    sd:defaultDataset <sparql/dataset> .
+    sd:defaultDataset <http://data.ub.uio.no/sparql/dataset> .
 
-<sparql/dataset> a sd:Dataset ;
+<http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:title "data.ub.uio.no" ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
-    sd:defaultGraph <sparql/graphs/default> ;
-    sd:namedGraph <sparql/graphs/mrtermer> .
+    sd:defaultGraph <http://data.ub.uio.no/sparql/graphs/default> ;
+    sd:namedGraph <http://data.ub.uio.no/sparql/graphs/mrtermer> .
 
-<sparql/graphs/default> a sd:Graph .
+<http://data.ub.uio.no/sparql/graphs/default> a sd:Graph .
 
-<sparql/graphs/mrtermer> a sd:NamedGraph ;
-    sd:name <mrtermer> ;
-    sd:graph <mrtermer> .
+<http://data.ub.uio.no/sparql/graphs/mrtermer> a sd:NamedGraph ;
+    sd:name mrtermer: ;
+    sd:graph mrtermer: .
