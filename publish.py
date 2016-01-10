@@ -116,7 +116,7 @@ def make():
     }
     roald.export('dist/mrtermer.marc21.xml', format='marc21', **marc21options)
     roald.export('dist/mrtermer.ttl', format='rdfskos',
-             include=['mrtermer.scheme.ttl'])
+             include=['mrtermer.scheme.ttl', 'ubo-onto.ttl'])
 
 
 if __name__ == '__main__':
