@@ -1,2 +1,4 @@
 *.log
 *.pyc
+.doit.db.db
+*.etag
