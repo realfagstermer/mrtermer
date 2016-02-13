@@ -12,9 +12,14 @@ from functools import reduce
 import logging
 import logging.config
 from roald import Roald
+from doit import get_var
 
 logging.config.fileConfig('logging.cfg')
 logger = logging.getLogger(__name__)
+
+config = {
+    'dumps_dir': get_var('dumps_dir', './dumps')
+}
 
 
 def task_fetch():
@@ -70,7 +75,6 @@ def task_fetch():
         'actions': [
             'git config user.name "ubo-bot"',
             'git config user.email "danmichaelo+ubobot@gmail.com"',
-            'git checkout master',
             'git pull',
         ]
     }
@@ -143,7 +147,46 @@ def task_git_push():
     }
 
 
+def task_publish_dumps():
 
-if __name__ == '__main__':
-    import doit
-    doit.run(globals())
+    basename = './dist/mrtermer'
+    dumps_dir = config['dumps_dir']
+
+    return {
+        'doc': 'Publish uncompressed and compressed dumps',
+        'basename': 'publish-dumps',
+        'file_dep': [
+            'dist/mrtermer.marc21.xml',
+            'dist/mrtermer.ttl'
+        ],
+        'actions': [
+            'mkdir -p {0}'.format(dumps_dir),
+            'bzip2 -f -k {0}.ttl'.format(basename),
+            'zip {0}.ttl.zip {0}.ttl'.format(basename),
+            'cp {0}.ttl {0}.ttl.bz2 {0}.ttl.zip {1}/'.format(basename, dumps_dir)
+        ],
+        'targets': [
+            '{0}.ttl.zip'.format(basename),
+            '{0}.ttl.bz2'.format(basename)
+        ]
+    }
+
+
+def task_fuseki():
+    return {
+        'doc': 'Push updated RDF to Fuseki',
+        'file_dep': [
+            'dist/mrtermer.ttl'
+        ],
+        'actions': [
+
+            # Inferring and adding skos:narrower
+            'skosify --no-enrich-mappings --transitive --narrower --no-mark-top-concepts --infer ./dist/mrtermer.ttl -o ./dist/mrtermer-skosify.ttl',
+
+            # Pushing data to Fuseki
+            's-put http://localhost:3030/ds/data http://data.ub.uio.no/mrtermer ./dist/mrtermer-skosify.ttl',
+
+            # Cleaning up
+            'rm ./dist/mrtermer-skosify.ttl'
+        ]
+    }

@@ -2,3 +2,7 @@
 *.pyc
 .doit.db.db
 *.etag
+*.bz2
+*.zip
+dumps/
+mrtermer-skosify.ttl
