@@ -1,5 +1,7 @@
 ## Menneskerettighetstermer
 
-Publiseringsscript og data for Menneskerettighetstermer.
+Data and publishing scripts for Human Rights Terms (Menneskerettighetstermer).
 
-Run `doit build` to fetch the latest source data and produce MARC21 + RDF/SKOS.
+* `pip install -r requirements.txt` to install dependencies.
+* `doit build` to fetch the latest source data and generate MARC21 + RDF/SKOS.
+* `doit list` to list all available tasks.

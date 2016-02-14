@@ -7,7 +7,7 @@ import logging.config
 logging.config.fileConfig('logging.cfg')
 logger = logging.getLogger(__name__)
 
-import doit_ubo
+import data_ub_tasks
 
 config = {
     'dumps_dir': get_var('dumps_dir', './dumps'),
@@ -37,7 +37,7 @@ def task_fetch():
         etag_cache = 'src/{}.etag'.format(remote.split('/')[-1])
         yield {
             'name': local,
-            'actions': [(doit_ubo.fetch_remote, [], {
+            'actions': [(data_ub_tasks.fetch_remote, [], {
                 'remote': remote,
                 'etag_cache': etag_cache
             })],
@@ -85,12 +85,14 @@ def task_build():
 
 
 def task_git_push():
-    return doit_ubo.git_push_task_gen(config)
+    return data_ub_tasks.git_push_task_gen(config)
 
 
 def task_publish_dumps():
-    return doit_ubo.publish_dumps_task_gen(config)
-
+    return data_ub_tasks.publish_dumps_task_gen(config['dumps_dir'], [
+        '%s.marc21.xml' % config['basename'],
+        '%s.ttl' % config['basename']
+    ])
 
 def task_fuseki():
-    return doit_ubo.fuseki_task_gen(config)
+    return data_ub_tasks.fuseki_task_gen(config)
