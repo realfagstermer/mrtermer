@@ -1,12 +1,13 @@
 # encoding=utf8
-import logging
-import logging.config
 from doit import get_var
 from roald import Roald
-from doit_ubo import publish_dumps_task_gen, fuseki_task_gen, git_push_task_gen, fetch_remote
 
+import logging
+import logging.config
 logging.config.fileConfig('logging.cfg')
 logger = logging.getLogger(__name__)
+
+import doit_ubo
 
 config = {
     'dumps_dir': get_var('dumps_dir', './dumps'),
@@ -36,7 +37,7 @@ def task_fetch():
         etag_cache = 'src/{}.etag'.format(remote.split('/')[-1])
         yield {
             'name': local,
-            'actions': [(fetch_remote, [], {
+            'actions': [(doit_ubo.fetch_remote, [], {
                 'remote': remote,
                 'etag_cache': etag_cache
             })],
@@ -84,12 +85,12 @@ def task_build():
 
 
 def task_git_push():
-    return git_push_task_gen(config)
+    return doit_ubo.git_push_task_gen(config)
 
 
 def task_publish_dumps():
-    return publish_dumps_task_gen(config)
+    return doit_ubo.publish_dumps_task_gen(config)
 
 
 def task_fuseki():
-    return fuseki_task_gen(config)
+    return doit_ubo.fuseki_task_gen(config)
