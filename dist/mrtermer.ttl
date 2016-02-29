@@ -26,16 +26,16 @@ mrtermer: a void:Dataset,
         "Menneskerettighetstermer er et kontrollert, pre-koordinert emneordsvokabular som forvaltes og videreutvikles av Norsk senter for menneskerettigheters (SMR) bibliotek."@nb ;
     dcterms:language lexvo:eng ;
     dcterms:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
-    dcterms:modified "2016-02-13T22:14:52+00:00"^^xsd:dateTime ;
+    dcterms:modified "2016-02-29T18:14:10+00:00"^^xsd:dateTime ;
     dcterms:publisher library:k ;
     dcterms:title "Human Rights Terms"@en,
         "Menneskerettighetstermer"@nb ;
     dcterms:type <http://purl.org/dc/dcmitype/Dataset>,
         <http://purl.org/nkos/nkostype/subject_heading_scheme> ;
-    void:dataDump <file:///Users/danmichael/code/scriptotek/roald/vocabs/mrtermer/dumps/mrtermer.rdf>,
-        <file:///Users/danmichael/code/scriptotek/roald/vocabs/mrtermer/dumps/mrtermer.ttl> ;
+    void:dataDump <file:///opt/vocabs/mrtermer/dumps/mrtermer.rdf>,
+        <file:///opt/vocabs/mrtermer/dumps/mrtermer.ttl> ;
     void:exampleResource mrtermer:c012676 ;
-    void:sparqlEndpoint <file:///Users/danmichael/code/scriptotek/roald/vocabs/mrtermer/sparql> ;
+    void:sparqlEndpoint <file:///opt/vocabs/mrtermer/sparql> ;
     void:uriSpace "http://data.ub.uio.no/mrtermer/" ;
     void:vocabulary mads:,
         skos: .
@@ -15773,4 +15773,12 @@ mrtermer:c1320 a ubo:Topic,
     skos:historyNote "Deprecated on 2016-02-05T08:04:43Z" ;
     skos:inScheme mrtermer: ;
     skos:prefLabel "Knut1"@en .
+
+mrtermer:c1321 a ubo:Topic,
+        skos:Concept ;
+    dcterms:created "2016-02-19T13:39:19+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01321" ;
+    dcterms:modified "2016-02-19T13:39:19+00:00"^^xsd:dateTime ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "East Asia"@en .
 

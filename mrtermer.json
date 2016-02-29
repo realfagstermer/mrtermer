@@ -26333,6 +26333,20 @@
       "type": [
         "Topic"
       ]
+    }, 
+    {
+      "altLabel": {}, 
+      "created": "2016-02-19T13:39:19Z", 
+      "hiddenLabel": {}, 
+      "id": "SMR01321", 
+      "prefLabel": {
+        "en": {
+          "value": "East Asia"
+        }
+      }, 
+      "type": [
+        "Topic"
+      ]
     }
   ], 
   "uri_format": "http://data.ub.uio.no/mrtermer/c{id}"
