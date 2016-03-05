@@ -26,17 +26,16 @@ mrtermer: a void:Dataset,
         "Menneskerettighetstermer er et kontrollert, pre-koordinert emneordsvokabular som forvaltes og videreutvikles av Norsk senter for menneskerettigheters (SMR) bibliotek."@nb ;
     dcterms:language lexvo:eng ;
     dcterms:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
-    dcterms:modified "2016-02-29T18:14:10+00:00"^^xsd:dateTime ;
+    dcterms:modified "2016-03-05T15:19:58+00:00"^^xsd:dateTime ;
     dcterms:publisher library:k ;
     dcterms:title "Human Rights Terms"@en,
         "Menneskerettighetstermer"@nb ;
     dcterms:type <http://purl.org/dc/dcmitype/Dataset>,
         <http://purl.org/nkos/nkostype/subject_heading_scheme> ;
-    void:dataDump <file:///opt/vocabs/mrtermer/dumps/mrtermer.rdf>,
-        <file:///opt/vocabs/mrtermer/dumps/mrtermer.ttl> ;
+    void:dataDump <http://data.ub.uio.no/dumps/mrtermer.ttl> ;
     void:exampleResource mrtermer:c012676 ;
-    void:sparqlEndpoint <file:///opt/vocabs/mrtermer/sparql> ;
-    void:uriSpace "http://data.ub.uio.no/mrtermer/" ;
+    void:sparqlEndpoint <http://data.ub.uio.no/sparql> ;
+    void:uriSpace mrtermer: ;
     void:vocabulary mads:,
         skos: .
 

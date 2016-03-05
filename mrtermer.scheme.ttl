@@ -29,10 +29,9 @@ mrtermer: a skos:ConceptScheme, void:Dataset, sd:Graph ;
     dcterms:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
     dcterms:type <http://purl.org/dc/dcmitype/Dataset>,
         <http://purl.org/nkos/nkostype/subject_heading_scheme> ;
-    void:sparqlEndpoint <sparql> ;
-    void:dataDump <dumps/mrtermer.rdf>,
-        <dumps/mrtermer.ttl> ;
-    void:uriSpace "http://data.ub.uio.no/mrtermer/" ;
+    void:sparqlEndpoint <http://data.ub.uio.no/sparql> ;
+    void:dataDump <http://data.ub.uio.no/dumps/mrtermer.ttl> ;
+    void:uriSpace mrtermer: ;
     void:exampleResource mrtermer:c012676 ;
     void:vocabulary skos: , mads: .
 
