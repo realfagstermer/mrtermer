@@ -30,6 +30,8 @@ def task_fetch():
             'git config user.name "ubo-bot"',
             'git config user.email "danmichaelo+ubobot@gmail.com"',
             'git pull',
+            'git config --unset user.name',
+            'git config --unset user.email',
         ]
     }
     for remote in ['https://app.uio.no/ub/emnesok/data/mr/idtermer.txt']:
