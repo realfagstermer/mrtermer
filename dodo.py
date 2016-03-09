@@ -10,10 +10,11 @@ logger = logging.getLogger(__name__)
 import data_ub_tasks
 
 config = {
-    'dumps_dir': get_var('dumps_dir', './dumps'),
+    'dumps_dir': get_var('dumps_dir', '/vocabs/realfagstermer/dumps'),
+    'dumps_dir_url': get_var('dumps_dir_url', 'http://data.ub.uio.no/dumps'),
     'graph': 'http://data.ub.uio.no/mrtermer',
-    'fuseki': 'http://localhost:3030/ds',
-    'basename': 'mrtermer'
+    'fuseki': 'http://localhost:3031/ds',
+    'basename': 'mrtermer',
 }
 
 
