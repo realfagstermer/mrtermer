@@ -10,7 +10,7 @@ logger = logging.getLogger(__name__)
 import data_ub_tasks
 
 config = {
-    'dumps_dir': get_var('dumps_dir', '/vocabs/realfagstermer/dumps'),
+    'dumps_dir': get_var('dumps_dir', '/opt/data.ub/www/default/dumps'),
     'dumps_dir_url': get_var('dumps_dir_url', 'http://data.ub.uio.no/dumps'),
     'graph': 'http://data.ub.uio.no/mrtermer',
     'fuseki': 'http://localhost:3031/ds',
@@ -87,8 +87,8 @@ def task_build():
     }
 
 
-def task_git_push():
-    return data_ub_tasks.git_push_task_gen(config)
+# def task_git_push():
+#     return data_ub_tasks.git_push_task_gen(config)
 
 
 def task_publish_dumps():
