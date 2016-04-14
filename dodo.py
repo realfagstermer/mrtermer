@@ -35,9 +35,11 @@ def task_fetch():
             'git config --unset user.email',
         ]
     }
-    for remote in ['https://app.uio.no/ub/emnesok/data/mr/idtermer.txt']:
-        local = 'src/{}'.format(remote.split('/')[-1])
-        etag_cache = 'src/{}.etag'.format(remote.split('/')[-1])
+    remote_path = 'https://app.uio.no/ub/emnesok/data/mr/'
+    for basename in ['idtermer.txt', 'idsteder.txt', 'idformer.txt']:
+        remote = remote_path + basename
+        local = 'src/' + basename
+        etag_cache = local + '.etag'
         yield {
             'name': local,
             'actions': [(data_ub_tasks.fetch_remote, [], {
@@ -76,6 +78,8 @@ def task_build():
         'actions': [build_dist],
         'file_dep': [
             'src/idtermer.txt',
+            'src/idsteder.txt',
+            'src/idformer.txt',
             'ubo-onto.ttl',
             '%s.scheme.ttl' % config['basename']
         ],
