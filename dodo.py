@@ -91,8 +91,8 @@ def task_build():
     }
 
 
-# def task_git_push():
-#     return data_ub_tasks.git_push_task_gen(config)
+def task_git_push():
+    return data_ub_tasks.git_push_task_gen(config)
 
 
 def task_publish_dumps():

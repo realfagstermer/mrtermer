@@ -6,3 +6,5 @@
 *.zip
 dumps/
 mrtermer-skosify.ttl
+dist/mrtermer.marc21.xml
+mrtermer.json
