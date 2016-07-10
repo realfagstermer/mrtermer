@@ -35,18 +35,31 @@ def task_fetch():
             'git config --unset user.email',
         ]
     }
-    remote_path = 'https://app.uio.no/ub/emnesok/data/mr/'
-    for basename in ['idtermer.txt', 'idsteder.txt', 'idformer.txt']:
-        remote = remote_path + basename
-        local = 'src/' + basename
-        etag_cache = local + '.etag'
+    for file in [
+        {
+            'remote': 'https://app.uio.no/ub/emnesok/data/mr/idtermer.txt',
+             'local': 'src/idtermer.txt'
+        },
+        {
+            'remote': 'https://app.uio.no/ub/emnesok/data/mr/idsteder.txt',
+             'local': 'src/idsteder.txt'
+        },
+        {
+            'remote': 'https://app.uio.no/ub/emnesok/data/mr/idformer.txt',
+             'local': 'src/idformer.txt'
+        },
+        {
+            'remote': 'https://rawgit.com/scriptotek/data_ub_ontology/master/ub-onto.ttl',
+             'local': 'src/ub-onto.ttl'
+        }
+    ]:
         yield {
-            'name': local,
+            'name': file['local'],
             'actions': [(data_ub_tasks.fetch_remote, [], {
-                'remote': remote,
-                'etag_cache': etag_cache
+                'remote': file['remote'],
+                'etag_cache': '{}.etag'.format(file['local'])
             })],
-            'targets': [local]
+            'targets': [file['local']]
         }
 
 
@@ -70,7 +83,7 @@ def task_build():
         logger.info('Wrote dist/%s.marc21.xml', config['basename'])
 
         roald.export('dist/%s.ttl' % config['basename'], format='rdfskos',
-                     include=['%s.scheme.ttl' % config['basename'], 'ubo-onto.ttl'])
+                     include=['%s.scheme.ttl' % config['basename'], 'src/ub-onto.ttl'])
         logger.info('Wrote dist/%s.ttl', config['basename'])
 
     return {
@@ -80,7 +93,7 @@ def task_build():
             'src/idtermer.txt',
             'src/idsteder.txt',
             'src/idformer.txt',
-            'ubo-onto.ttl',
+            'src/ub-onto.ttl',
             '%s.scheme.ttl' % config['basename']
         ],
         'targets': [
