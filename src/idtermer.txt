@@ -1,11 +1,12 @@
 id= SMR00001
 te= Abandoned children
-bf= Orphans
 so= SMR00122
 so= SMR00125
 so= SMR00133
 so= SMR01038
 so= SMR01182
+en= Abandoned children
+en= Orphans
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00002
@@ -15,21 +16,24 @@ so= SMR00433
 so= SMR00931
 so= SMR00932
 so= SMR01024
+en= Abortion
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00003
 te= Abuse
-bf= Exploitation
 so= SMR00004
 so= SMR00587
 so= SMR00861
 so= SMR00874
 so= SMR00964
 so= SMR00885
+en= Abuse
+en= Exploitation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00004
 te= Abused women
+en= Abused women
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00005
@@ -44,16 +48,16 @@ so= SMR00590
 so= SMR01095
 so= SMR01255
 so= SMR01254
+en= Academic freedom
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00006
 te= Academic writing
+en= Academic writing
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00007
 te= Access to information
-bf= Freedom of information
-bf= Right to information
 so= SMR00253
 so= SMR00254
 so= SMR00310
@@ -68,6 +72,9 @@ so= SMR00842
 so= SMR00976
 so= SMR01047
 so= SMR01048
+en= Access to information
+en= Freedom of information
+en= Right to information
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00008
@@ -80,11 +87,13 @@ so= SMR00309
 so= SMR00690
 so= SMR01058
 so= SMR01268
+en= Access to justice
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00009
 te= Accomplices
 so= SMR00228
+en= Accomplices
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00010
@@ -92,11 +101,11 @@ te= Accountability
 so= SMR00205
 so= SMR00571
 so= SMR01175
+en= Accountability
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00011
 te= Accused persons
-bf= Person charged with an offence
 so= SMR00180
 so= SMR00229
 so= SMR00322
@@ -106,16 +115,15 @@ so= SMR01037
 so= SMR01058
 so= SMR01068
 so= SMR01107
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00012
-te= Aceh
+en= Accused persons
+en= Person charged with an offence
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00013
 te= Acquittal
 so= SMR00200
 so= SMR00228
+en= Acquittal
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00014
@@ -128,66 +136,64 @@ so= SMR00650
 so= SMR00653
 so= SMR00695
 so= SMR00955
+en= Administration of justice
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00015
 te= Administrative agencies
 so= SMR00017
 so= SMR01008
+en= Administrative agencies
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00016
 te= Administrative detention
-bf= Administrative internment
-bf= Detention without charge or trial
-bf= Ministerial detention
-bf= Preventive detention
 so= SMR00043
 so= SMR00274
 so= SMR00586
 so= SMR00892
 so= SMR00990
 so= SMR01001
+en= Administrative detention
+en= Administrative internment
+en= Detention without charge or trial
+en= Ministerial detention
+en= Preventive detention
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00017
 te= Administrative law
+en= Administrative law
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00018
 te= Advertising
 so= SMR00167
+en= Advertising
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00019
 te= Affirmative action
-bf= Positive discrimination
 so= SMR00289
 so= SMR00369
 so= SMR00379
 so= SMR00514
 so= SMR01194
 so= SMR01300
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00020
-te= Afghanistan
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00021
-te= Africa
+en= Affirmative action
+en= Positive discrimination
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00022
 te= Age discrimination
-bf= Discrimination based on age
 so= SMR00135
 so= SMR01312
+en= Age discrimination
+en= Discrimination based on age
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00023
 te= Agrarian reform
-bf= Land reform
 so= SMR00025
 so= SMR00674
 so= SMR00675
@@ -195,17 +201,20 @@ so= SMR00871
 so= SMR00872
 so= SMR01080
 so= SMR01082
+en= Agrarian reform
+en= Land reform
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00024
 te= Agricultural workers
-bf= Farmworkers
 so= SMR00025
 so= SMR00425
 so= SMR00872
 so= SMR01080
 so= SMR01082
 so= SMR01083
+en= Agricultural workers
+en= Farmworkers
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00025
@@ -216,27 +225,20 @@ so= SMR00441
 so= SMR00674
 so= SMR00872
 so= SMR01283
+en= Agriculture
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00026
 te= AIDS
-bf= Acquired Immune Deficiency Syndrome
 so= SMR00297
 so= SMR00517
 so= SMR00873
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00027
-te= Albania
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00028
-te= Algeria
+en= AIDS
+en= Acquired Immune Deficiency Syndrome
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00029
 te= Aliens
-bf= Foreigners
 so= SMR00056
 so= SMR00144
 so= SMR00269
@@ -251,44 +253,39 @@ so= SMR00794
 so= SMR00798
 so= SMR01000
 so= SMR01308
+en= Aliens
+en= Foreigners
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00030
 te= Alternative legal services
 so= SMR00008
 so= SMR00690
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00031
-te= America
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00032
-te= Americas
+en= Alternative legal services
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00033
 te= Amharic
+en= Amharic
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00034
 te= Amicus Curiae
+en= Amicus Curiae
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00035
 te= Amnesties
 so= SMR00559
 so= SMR00855
+en= Amnesties
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00036
 te= Amparo
 so= SMR00008
 so= SMR00648
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00037
-te= Angola
+en= Amparo
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00038
@@ -297,6 +294,7 @@ so= SMR00040
 so= SMR00092
 so= SMR00344
 so= SMR00791
+en= Anti-apartheid movements
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00039
@@ -309,6 +307,7 @@ so= SMR00933
 so= SMR00982
 so= SMR01012
 so= SMR01018
+en= Anti-semitism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00040
@@ -317,10 +316,12 @@ so= SMR00038
 so= SMR00393
 so= SMR00983
 so= SMR01104
+en= Apartheid
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00041
 te= Arabs
+en= Arabs
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00042
@@ -331,6 +332,7 @@ so= SMR00498
 so= SMR00891
 so= SMR00893
 so= SMR01059
+en= Arbitrary arrest
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00043
@@ -343,6 +345,7 @@ so= SMR00891
 so= SMR00892
 so= SMR00893
 so= SMR01059
+en= Arbitrary detention
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00044
@@ -351,15 +354,11 @@ so= SMR00158
 so= SMR00182
 so= SMR00667
 so= SMR00741
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00045
-te= Argentina
+en= Arbitration
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00046
 te= Armed conflicts
-bf= Wars
 so= SMR00047
 so= SMR00048
 so= SMR00050
@@ -380,6 +379,8 @@ so= SMR01280
 so= SMR01281
 so= SMR01282
 so= SMR01306
+en= Armed conflicts
+en= Wars
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00047
@@ -395,6 +396,7 @@ so= SMR00762
 so= SMR00764
 so= SMR00765
 so= SMR00769
+en= Armed forces
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00048
@@ -409,10 +411,7 @@ so= SMR00843
 so= SMR01035
 so= SMR01070
 so= SMR01256
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00049
-te= Armenia
+en= Armed resistance movements
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00050
@@ -421,6 +420,7 @@ so= SMR00046
 so= SMR00115
 so= SMR00866
 so= SMR01063
+en= Armistice
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00051
@@ -432,6 +432,7 @@ so= SMR00618
 so= SMR00621
 so= SMR00831
 so= SMR01284
+en= Arms race
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00052
@@ -439,6 +440,7 @@ te= Arms trade
 so= SMR00051
 so= SMR00759
 so= SMR01284
+en= Arms trade
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00053
@@ -450,15 +452,13 @@ so= SMR00498
 so= SMR00891
 so= SMR00892
 so= SMR01058
+en= Arrested persons
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00054
 te= Artists
 so= SMR00589
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00055
-te= Asia
+en= Artists
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00056
@@ -472,73 +472,49 @@ so= SMR01000
 so= SMR01071
 so= SMR01179
 so= SMR00998
+en= Asylum
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00057
 te= Asylum seekers
 so= SMR01000
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00058
-te= Australia
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00059
-te= Austria
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00060
-te= Autobiographies
+en= Asylum seekers
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00061
 te= Autonomy
 so= SMR01106
 so= SMR01002
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00062
-te= Azerbaijan
+en= Autonomy
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00063
 te= Baha'i
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00064
-te= Bahrain
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00065
-te= Bali
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00066
-te= Balkans
+en= Baha'i
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00067
 te= Ballot papers
 so= SMR00360
 so= SMR01075
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00068
-te= Bangladesh
+en= Ballot papers
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00069
 te= Banks
 so= SMR00450
+en= Banks
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00070
 te= Bar associations
 so= SMR00687
+en= Bar associations
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00071
 te= Barrier-free access
+en= Barrier-free access
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00072
@@ -562,18 +538,7 @@ so= SMR01130
 so= SMR01143
 so= SMR01258
 so= SMR01286
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00073
-te= Belarus
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00074
-te= Belgium
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00075
-te= Belize
+en= Basic needs
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00076
@@ -582,10 +547,7 @@ so= SMR00124
 so= SMR00125
 so= SMR00133
 so= SMR00135
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00077
-te= Bibliographies
+en= Best interest of the child
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00078
@@ -594,6 +556,7 @@ so= SMR00278
 so= SMR00759
 so= SMR00783
 so= SMR01201
+en= Bilateral aid
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00079
@@ -604,12 +567,14 @@ so= SMR00679
 so= SMR00772
 so= SMR00771
 so= SMR00839
+en= Bilingual education
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00080
 te= Bilingualism
 so= SMR00678
 so= SMR00839
+en= Bilingualism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00081
@@ -617,36 +582,33 @@ te= Bioethics
 so= SMR00084
 so= SMR00951
 so= SMR01025
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00082
-te= Biographies
+en= Bioethics
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00083
 te= Biological weapons
 so= SMR00119
+en= Biological weapons
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00084
 te= Biotechnology
 so= SMR00081
 so= SMR00742
+en= Biotechnology
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00085
 te= Birth control
 so= SMR00931
 so= SMR01024
+en= Birth control
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00086
 te= Birth rate
 so= SMR00922
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00087
-te= Bolivia
+en= Birth rate
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00088
@@ -655,18 +617,12 @@ so= SMR00442
 so= SMR01059
 so= SMR01113
 so= SMR01127
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00089
-te= Bosnia and Herzegovina
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00090
-te= Botswana
+en= Bonded labour
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00091
 te= Boundaries
+en= Boundaries
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00092
@@ -679,10 +635,7 @@ so= SMR00386
 so= SMR00450
 so= SMR00453
 so= SMR00622
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00093
-te= Brazil
+en= Boycotts
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00094
@@ -690,31 +643,18 @@ te= Broadcasting
 so= SMR00457
 so= SMR00467
 so= SMR00877
+en= Broadcasting
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00095
 te= Buddhism
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00096
-te= Bulgaria
+en= Buddhism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00097
 te= Burden of proof
-bf= Onus of proof
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00098
-te= Burkina Faso
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00099
-te= Burma
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00100
-te= Burundi
+en= Burden of proof
+en= Onus of proof
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00101
@@ -723,41 +663,25 @@ so= SMR00205
 so= SMR00386
 so= SMR00450
 so= SMR00948
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00102
-te= Cambodia
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00103
-te= Cameroon
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00104
-te= Canada
+en= Business corporations
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00105
 te= Capitalism
 so= SMR00162
 so= SMR00556
+en= Capitalism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00106
 te= Career development
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00107
-te= Caribbean
+en= Career development
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00108
 te= Case law
-bf= Jurisprudence
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00109
-te= Case studies
+en= Case law
+en= Jurisprudence
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00110
@@ -765,6 +689,7 @@ te= Castes
 so= SMR00154
 so= SMR00305
 so= SMR01134
+en= Castes
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00111
@@ -772,14 +697,12 @@ te= Catholic Church
 so= SMR00143
 so= SMR00142
 so= SMR01015
+en= Catholic Church
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00112
 te= Catholicism
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00113
-te= Caucasus
+en= Catholicism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00114
@@ -790,6 +713,7 @@ so= SMR00343
 so= SMR00444
 so= SMR00615
 so= SMR01000
+en= Causes of migration
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00115
@@ -797,6 +721,7 @@ te= Ceasefire
 so= SMR00050
 so= SMR00866
 so= SMR01063
+en= Ceasefire
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00116
@@ -808,20 +733,14 @@ so= SMR00464
 so= SMR00467
 so= SMR00924
 so= SMR00959
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00117
-te= Central African Republic
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00118
-te= Central America
+en= Censorship
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00119
 te= Chemical weapons
 so= SMR00083
 so= SMR00724
+en= Chemical weapons
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00120
@@ -831,6 +750,7 @@ so= SMR00135
 so= SMR00290
 so= SMR00525
 so= SMR00857
+en= Child abduction
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00121
@@ -845,6 +765,7 @@ so= SMR00319
 so= SMR00857
 so= SMR00964
 so= SMR01118
+en= Child abuse
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00122
@@ -855,6 +776,7 @@ so= SMR00135
 so= SMR00455
 so= SMR00857
 so= SMR01038
+en= Child adoption
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00123
@@ -865,6 +787,7 @@ so= SMR00135
 so= SMR00455
 so= SMR00737
 so= SMR00857
+en= Child care
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00124
@@ -879,6 +802,7 @@ so= SMR00856
 so= SMR00857
 so= SMR01169
 so= SMR01274
+en= Child custody
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00125
@@ -893,6 +817,7 @@ so= SMR00455
 so= SMR00857
 so= SMR01067
 so= SMR01182
+en= Child in need of protection
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00126
@@ -900,6 +825,7 @@ te= Child labour
 so= SMR00121
 so= SMR00125
 so= SMR00135
+en= Child labour
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00127
@@ -914,21 +840,24 @@ so= SMR00809
 so= SMR00928
 so= SMR01053
 so= SMR01055
+en= Child nutrition
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00128
 te= Child pornography
 so= SMR00130
 so= SMR00135
+en= Child pornography
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00129
 te= Child prisoners
-bf= Children in prisons
 so= SMR00274
 so= SMR00942
 so= SMR01298
 so= SMR00938
+en= Child prisoners
+en= Children in prisons
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00130
@@ -937,12 +866,14 @@ so= SMR00128
 so= SMR00135
 so= SMR01115
 so= SMR01182
+en= Child prostitution
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00131
 te= Child soldiers
 so= SMR00047
 so= SMR00164
+en= Child soldiers
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00132
@@ -951,6 +882,7 @@ so= SMR00123
 so= SMR00313
 so= SMR00561
 so= SMR00857
+en= Child support
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00133
@@ -962,6 +894,7 @@ so= SMR00125
 so= SMR00135
 so= SMR00455
 so= SMR01067
+en= Child welfare
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00134
@@ -972,6 +905,7 @@ so= SMR00809
 so= SMR00931
 so= SMR00932
 so= SMR01024
+en= Childbirth
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00135
@@ -997,6 +931,7 @@ so= SMR01067
 so= SMR01038
 so= SMR01040
 so= SMR01312
+en= Children
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00136
@@ -1004,28 +939,24 @@ te= Children with disabilities
 so= SMR00295
 so= SMR01135
 so= SMR01166
+en= Children with disabilities
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00137
 te= Children's rights
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00138
-te= Chile
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00139
-te= China
+en= Children's rights
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00140
 te= Christianity
 so= SMR00111
 so= SMR00846
+en= Christianity
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00141
 te= Christians
+en= Christians
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00142
@@ -1039,6 +970,7 @@ so= SMR00812
 so= SMR01013
 so= SMR01016
 so= SMR01015
+en= Church organizations
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00144
@@ -1051,6 +983,7 @@ so= SMR00798
 so= SMR01041
 so= SMR01042
 so= SMR01179
+en= Citizenship
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00145
@@ -1062,21 +995,24 @@ so= SMR00573
 so= SMR00594
 so= SMR00607
 so= SMR00572
+en= Civil and political rights
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00146
 te= Civil disobedience
-bf= Non-violence
-bf= Passive resistance
 so= SMR00190
 so= SMR00460
 so= SMR00900
 so= SMR00969
+en= Civil disobedience
+en= Non-violence
+en= Passive resistance
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00147
 te= Civil law
 so= SMR00169
+en= Civil law
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00148
@@ -1086,11 +1022,13 @@ so= SMR00540
 so= SMR00541
 so= SMR00768
 so= SMR01282
+en= Civil persons
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00149
 te= Civil procedure
 so= SMR00147
+en= Civil procedure
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00150
@@ -1098,6 +1036,7 @@ te= Civil society
 so= SMR00263
 so= SMR00920
 so= SMR00901
+en= Civil society
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00151
@@ -1108,6 +1047,7 @@ so= SMR00391
 so= SMR00495
 so= SMR01035
 so= SMR01256
+en= Civil wars
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00152
@@ -1118,30 +1058,36 @@ so= SMR00541
 so= SMR00610
 so= SMR00768
 so= SMR01282
+en= Civilian persons
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00153
 te= Civilian population
+en= Civilian population
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00154
 te= Class society
 so= SMR00110
 so= SMR01134
+en= Class society
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00155
 te= Climate change
+en= Climate change
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00156
 te= Cluster munitions
+en= Cluster munitions
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00157
 te= Codes of conduct
 so= SMR00205
 so= SMR00206
+en= Codes of conduct
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00158
@@ -1155,6 +1101,7 @@ so= SMR01073
 so= SMR01219
 so= SMR01303
 so= SMR01304
+en= Collective bargaining
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00159
@@ -1165,6 +1112,7 @@ so= SMR00476
 so= SMR00733
 so= SMR00768
 so= SMR01177
+en= Collective punishment
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00160
@@ -1176,10 +1124,7 @@ so= SMR00573
 so= SMR00594
 so= SMR00770
 so= SMR01106
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00161
-te= Colombia
+en= Collective rights
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00162
@@ -1190,6 +1135,7 @@ so= SMR00259
 so= SMR00556
 so= SMR00563
 so= SMR00801
+en= Colonialism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00163
@@ -1201,6 +1147,7 @@ so= SMR00672
 so= SMR00675
 so= SMR00765
 so= SMR01114
+en= Colonization
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00164
@@ -1209,21 +1156,20 @@ so= SMR00046
 so= SMR00047
 so= SMR00131
 so= SMR00271
+en= Combatants
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00165
 te= Comfort women
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00166
-te= Commentaries
+en= Comfort women
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00167
 te= Commercial free speech
-bf= Corporate free speech
 so= SMR00018
 so= SMR00206
+en= Commercial free speech
+en= Corporate free speech
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00168
@@ -1234,38 +1180,44 @@ so= SMR00413
 so= SMR00486
 so= SMR00630
 so= SMR01022
+en= Commissions of inquiry
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00169
 te= Common law
 so= SMR00147
 so= SMR00248
+en= Common law
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00170
 te= Commonwealth of Independent States
+en= Commonwealth of Independent States
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00171
 te= Communicable diseases
-bf= Contagious diseases
-bf= Infectuous diseases
 so= SMR00378
 so= SMR00517
 so= SMR00744
 so= SMR00873
 so= SMR00966
+en= Communicable diseases
+en= Contagious diseases
+en= Infectuous diseases
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00172
 te= Communism
 so= SMR00730
 so= SMR01149
+en= Communism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00173
 te= Communitarianism
 so= SMR00160
+en= Communitarianism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00174
@@ -1274,29 +1226,29 @@ so= SMR00175
 so= SMR00714
 so= SMR01080
 so= SMR01257
+en= Community development
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00175
 te= Community services
 so= SMR00174
 so= SMR00506
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00176
-te= Comparative analysis
+en= Community services
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00177
 te= Comparative law
+en= Comparative law
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00178
 te= Compensation
-bf= Damages
 so= SMR00223
 so= SMR01033
 so= SMR01215
 so= SMR01268
+en= Compensation
+en= Damages
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00179
@@ -1307,11 +1259,11 @@ so= SMR00593
 so= SMR00840
 so= SMR00880
 so= SMR01033
+en= Complaints procedure
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00180
 te= Compulsion to testify
-bf= Right not to be compelled to testify
 so= SMR00011
 so= SMR00235
 so= SMR00402
@@ -1319,6 +1271,8 @@ so= SMR00934
 so= SMR01068
 so= SMR01107
 so= SMR01294
+en= Compulsion to testify
+en= Right not to be compelled to testify
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00181
@@ -1326,6 +1280,7 @@ te= Concentration camps
 so= SMR00269
 so= SMR00666
 so= SMR00943
+en= Concentration camps
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00182
@@ -1333,6 +1288,7 @@ te= Conciliation
 so= SMR00044
 so= SMR00158
 so= SMR00741
+en= Conciliation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00183
@@ -1340,33 +1296,30 @@ te= Conditionality
 so= SMR00279
 so= SMR00278
 so= SMR00452
+en= Conditionality
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00184
 te= Conference papers
+en= Conference papers
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00185
 te= Conflict prevention
+en= Conflict prevention
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00186
 te= Conflict resolution
-bf= Dispute settlement
 so= SMR00179
 so= SMR00309
+en= Conflict resolution
+en= Dispute settlement
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00187
 te= Confucianism
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00188
-te= Congo
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00189
-te= Congo, the Democratic Republic of
+en= Confucianism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00190
@@ -1375,6 +1328,7 @@ so= SMR00146
 so= SMR00271
 so= SMR00769
 so= SMR00848
+en= Conscientious objection
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00191
@@ -1385,6 +1339,7 @@ so= SMR00728
 so= SMR01061
 so= SMR01169
 so= SMR01295
+en= Consent to marriage
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00192
@@ -1398,6 +1353,7 @@ so= SMR00861
 so= SMR01025
 so= SMR01051
 so= SMR01074
+en= Consent to treatment
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00193
@@ -1405,6 +1361,7 @@ te= Constitutional courts
 so= SMR00194
 so= SMR00648
 so= SMR00647
+en= Constitutional courts
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00194
@@ -1416,30 +1373,36 @@ so= SMR00484
 so= SMR00649
 so= SMR00698
 so= SMR01110
+en= Constitutional law
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00195
 te= Constitutions
 so= SMR00194
+en= Constitutions
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00196
 te= Consumer protection
+en= Consumer protection
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00197
 te= Contractual obligations
+en= Contractual obligations
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00198
 te= Control of natural resources
+en= Control of natural resources
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00199
 te= Convention refugees
-bf= Political refugees
 so= SMR00996
 so= SMR00998
+en= Convention refugees
+en= Political refugees
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00200
@@ -1447,19 +1410,23 @@ te= Conviction
 so= SMR00013
 so= SMR00228
 so= SMR01109
+en= Conviction
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00201
 te= Cooperation
+en= Cooperation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00202
 te= Coptic Orthodox Church
+en= Coptic Orthodox Church
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00203
 te= Copyright
 so= SMR00589
+en= Copyright
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00204
@@ -1468,6 +1435,7 @@ so= SMR00121
 so= SMR00885
 so= SMR01074
 so= SMR01214
+en= Corporal punishment
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00205
@@ -1481,6 +1449,7 @@ so= SMR00502
 so= SMR00951
 so= SMR01228
 so= SMR00157
+en= Corporate responsibility
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00206
@@ -1491,33 +1460,30 @@ so= SMR00205
 so= SMR00386
 so= SMR00450
 so= SMR00948
+en= Corporations
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00207
 te= Correctional services
 so= SMR00939
+en= Correctional services
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00208
 te= Corruption
 so= SMR00974
+en= Corruption
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00209
 te= Cosmopolitanism
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00210
-te= Costa Rica
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00211
-te= Cote d'Ivoire
+en= Cosmopolitanism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00212
 te= Country of first asylum
 so= SMR00056
+en= Country of first asylum
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00213
@@ -1528,16 +1494,18 @@ so= SMR00755
 so= SMR01000
 so= SMR01021
 so= SMR01057
+en= Country of origin
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00214
 te= Coup d'Etat
-bf= Putsch
 so= SMR00151
 so= SMR00768
 so= SMR00900
 so= SMR01035
 so= SMR01256
+en= Coup d'Etat
+en= Putsch
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00215
@@ -1546,17 +1514,20 @@ so= SMR00692
 so= SMR00008
 so= SMR00687
 so= SMR00954
+en= Court challenges
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00216
 te= Court of competent jurisdiction
-bf= Competent tribunals
 so= SMR00218
 so= SMR00648
+en= Court of competent jurisdiction
+en= Competent tribunals
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00217
 te= Court procedure
+en= Court procedure
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00218
@@ -1568,6 +1539,7 @@ so= SMR00646
 so= SMR00648
 so= SMR00650
 so= SMR00677
+en= Courts
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00219
@@ -1575,10 +1547,7 @@ te= Courts-martial
 so= SMR00538
 so= SMR00762
 so= SMR00767
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00220
-te= Covenants
+en= Courts-martial
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00221
@@ -1589,6 +1558,7 @@ so= SMR00224
 so= SMR00227
 so= SMR00899
 so= SMR01280
+en= Crime
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00222
@@ -1598,22 +1568,25 @@ so= SMR00228
 so= SMR00890
 so= SMR00969
 so= SMR00971
+en= Crime prevention
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00223
 te= Crime victims
-bf= Victims of crime
 so= SMR00008
 so= SMR00178
 so= SMR00227
 so= SMR01033
 so= SMR01268
+en= Crime victims
+en= Victims of crime
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00224
 te= Crimes against humanity
 so= SMR00731
 so= SMR01280
+en= Crimes against humanity
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00225
@@ -1622,6 +1595,7 @@ so= SMR00014
 so= SMR00226
 so= SMR00227
 so= SMR00228
+en= Criminal justice
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00226
@@ -1629,6 +1603,7 @@ te= Criminal law
 so= SMR00225
 so= SMR00227
 so= SMR00229
+en= Criminal law
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00227
@@ -1641,11 +1616,11 @@ so= SMR00228
 so= SMR00229
 so= SMR00230
 so= SMR00653
+en= Criminal offences
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00228
 te= Criminal offenders
-bf= Criminals
 so= SMR00009
 so= SMR00013
 so= SMR00200
@@ -1656,6 +1631,8 @@ so= SMR00227
 so= SMR00230
 so= SMR00294
 so= SMR01135
+en= Criminal offenders
+en= Criminals
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00229
@@ -1674,6 +1651,7 @@ so= SMR01058
 so= SMR01068
 so= SMR01107
 so= SMR01235
+en= Criminal procedure
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00230
@@ -1685,10 +1663,7 @@ so= SMR00538
 so= SMR00571
 so= SMR00653
 so= SMR00654
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00231
-te= Croatia
+en= Criminal responsibility
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00232
@@ -1697,6 +1672,7 @@ so= SMR00180
 so= SMR00402
 so= SMR00626
 so= SMR01068
+en= Cross examination
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00233
@@ -1704,10 +1680,12 @@ te= Cross-cultural communications
 so= SMR00242
 so= SMR00394
 so= SMR00782
+en= Cross-cultural communications
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00234
 te= Cross-cultural relations
+en= Cross-cultural relations
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00235
@@ -1716,6 +1694,7 @@ so= SMR00180
 so= SMR00402
 so= SMR00626
 so= SMR01068
+en= Cross-examination
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00236
@@ -1725,12 +1704,11 @@ so= SMR00528
 so= SMR00885
 so= SMR01074
 so= SMR01109
+en= Cruel punishment
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00237
 te= Cruel treatment
-bf= Cruelty
-bf= Degrading treatment
 so= SMR00121
 so= SMR00236
 so= SMR00528
@@ -1742,10 +1720,9 @@ so= SMR00743
 so= SMR00962
 so= SMR00964
 so= SMR00938
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00238
-te= Cuba
+en= Cruel treatment
+en= Cruelty
+en= Degrading treatment
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00239
@@ -1754,6 +1731,7 @@ so= SMR00241
 so= SMR00394
 so= SMR00770
 so= SMR00782
+en= Cultural assimilation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00240
@@ -1763,6 +1741,7 @@ so= SMR00246
 so= SMR01086
 so= SMR01220
 so= SMR01237
+en= Cultural heritage
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00241
@@ -1779,6 +1758,7 @@ so= SMR00678
 so= SMR00770
 so= SMR00772
 so= SMR00793
+en= Cultural identity
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00242
@@ -1790,17 +1770,20 @@ so= SMR00679
 so= SMR00708
 so= SMR00770
 so= SMR00782
+en= Cultural integration
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00243
 te= Cultural pluralism
 so= SMR00242
 so= SMR00782
+en= Cultural pluralism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00244
 te= Cultural property
 so= SMR00246
+en= Cultural property
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00245
@@ -1808,6 +1791,7 @@ te= Cultural relativism
 so= SMR00246
 so= SMR00316
 so= SMR01253
+en= Cultural relativism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00246
@@ -1827,6 +1811,7 @@ so= SMR00772
 so= SMR00782
 so= SMR01016
 so= SMR01086
+en= Cultural rights
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00247
@@ -1844,6 +1829,7 @@ so= SMR00590
 so= SMR00709
 so= SMR00877
 so= SMR01307
+en= Culture
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00248
@@ -1853,22 +1839,17 @@ so= SMR00568
 so= SMR00691
 so= SMR01220
 so= SMR01237
+en= Customary law
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00249
 te= Customs and traditions
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00250
-te= Cyprus
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00251
-te= Czech Republic
+en= Customs and traditions
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00252
 te= Dangerous offenders
+en= Dangerous offenders
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00253
@@ -1877,6 +1858,7 @@ so= SMR00007
 so= SMR00168
 so= SMR00254
 so= SMR00534
+en= Data collection
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00254
@@ -1890,22 +1872,26 @@ so= SMR00951
 so= SMR01047
 so= SMR01048
 so= SMR01064
+en= Data protection
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00255
 te= Databases
+en= Databases
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00256
 te= De facto marriage
-bf= Common-law relationship
 so= SMR00299
+en= De facto marriage
+en= Common-law relationship
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00257
 te= Death penalty
-bf= Capital punishment
 so= SMR01060
+en= Death penalty
+en= Capital punishment
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00258
@@ -1914,6 +1900,7 @@ so= SMR00411
 so= SMR00658
 so= SMR00733
 so= SMR00854
+en= Death squads
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00259
@@ -1928,6 +1915,7 @@ so= SMR00820
 so= SMR00876
 so= SMR01070
 so= SMR01105
+en= Decolonization
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00260
@@ -1937,6 +1925,7 @@ so= SMR00461
 so= SMR00467
 so= SMR00501
 so= SMR00985
+en= Defamation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00261
@@ -1946,14 +1935,16 @@ so= SMR00724
 so= SMR00796
 so= SMR00987
 so= SMR01293
+en= Deforestation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00262
 te= Democracy
-bf= Democratic society
 so= SMR00263
 so= SMR00264
 so= SMR01079
+en= Democracy
+en= Democratic society
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00263
@@ -1966,6 +1957,7 @@ so= SMR00360
 so= SMR00905
 so= SMR01106
 so= SMR01133
+en= Democratic development
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00264
@@ -1984,10 +1976,12 @@ so= SMR00908
 so= SMR00920
 so= SMR00991
 so= SMR01297
+en= Democratic rights
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00265
 te= Democratization
+en= Democratization
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00266
@@ -1999,10 +1993,7 @@ so= SMR00961
 so= SMR00968
 so= SMR00969
 so= SMR01146
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00267
-te= Denmark
+en= Demonstrations
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00268
@@ -2010,6 +2001,7 @@ te= Denominational schools
 so= SMR00142
 so= SMR01013
 so= SMR01016
+en= Denominational schools
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00269
@@ -2023,17 +2015,19 @@ so= SMR00547
 so= SMR00597
 so= SMR00819
 so= SMR01021
+en= Deportation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00270
 te= Derogations
-bf= Suspension of guarantees
 so= SMR00600
 so= SMR00707
 so= SMR00967
 so= SMR00969
 so= SMR01027
 so= SMR01174
+en= Derogations
+en= Suspension of guarantees
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00271
@@ -2042,6 +2036,7 @@ so= SMR00047
 so= SMR00164
 so= SMR00190
 so= SMR00769
+en= Deserters
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00272
@@ -2054,22 +2049,23 @@ so= SMR00466
 so= SMR00520
 so= SMR01044
 so= SMR01280
+en= Destruction of dwellings
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00273
 te= Detained juveniles
-bf= Juveniles deprived of their liberty
 so= SMR00129
 so= SMR00274
 so= SMR00275
 so= SMR00653
 so= SMR00654
 so= SMR00938
+en= Detained juveniles
+en= Juveniles deprived of their liberty
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00274
 te= Detained persons
-bf= Detainees
 so= SMR00016
 so= SMR00043
 so= SMR00053
@@ -2084,6 +2080,8 @@ so= SMR00938
 so= SMR01043
 so= SMR01058
 so= SMR01274
+en= Detained persons
+en= Detainees
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00275
@@ -2092,11 +2090,11 @@ so= SMR00273
 so= SMR00274
 so= SMR00558
 so= SMR00938
+en= Detention
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00276
 te= Developing countries
-bf= The South
 so= SMR00278
 so= SMR00279
 so= SMR00338
@@ -2104,6 +2102,8 @@ so= SMR00448
 so= SMR00823
 so= SMR01050
 so= SMR01183
+en= Developing countries
+en= The South
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00277
@@ -2121,11 +2121,11 @@ so= SMR01050
 so= SMR01133
 so= SMR01189
 so= SMR01296
+en= Development
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00278
 te= Development aid
-bf= Development assistance
 so= SMR00183
 so= SMR00276
 so= SMR00279
@@ -2135,6 +2135,8 @@ so= SMR00605
 so= SMR00688
 so= SMR00838
 so= SMR01050
+en= Development aid
+en= Development assistance
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00279
@@ -2150,16 +2152,19 @@ so= SMR00823
 so= SMR00838
 so= SMR01050
 so= SMR01183
+en= Development and human rights
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00280
 te= Development cooperation
+en= Development cooperation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00281
 te= Development education
 so= SMR00351
 so= SMR00532
+en= Development education
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00282
@@ -2168,39 +2173,36 @@ so= SMR00278
 so= SMR00340
 so= SMR00606
 so= SMR01201
+en= Development projects
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00283
 te= Dialogues
+en= Dialogues
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00284
 te= Dictatorship
 so= SMR00763
 so= SMR01218
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00285
-te= Dictionaries
+en= Dictatorship
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00286
 te= Diplomats
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00287
-te= Directories
+en= Diplomats
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00288
 te= Disabilities
-bf= Handicap
 so= SMR00295
 so= SMR00300
 so= SMR00302
 so= SMR00747
 so= SMR00875
 so= SMR00874
+en= Disabilities
+en= Handicap
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00289
@@ -2213,19 +2215,21 @@ so= SMR01134
 so= SMR01135
 so= SMR01136
 so= SMR01194
+en= Disadvantaged groups
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00290
 te= Disappearances
-bf= Disappeared persons
-bf= Enforced disappearances
-bf= Forced disappearances
 so= SMR00120
 so= SMR00411
 so= SMR00658
 so= SMR00773
 so= SMR01059
 so= SMR01074
+en= Disappearances
+en= Disappeared persons
+en= Enforced disappearances
+en= Forced disappearances
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00291
@@ -2239,18 +2243,20 @@ so= SMR00865
 so= SMR01063
 so= SMR01284
 so= SMR01285
+en= Disarmament
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00292
 te= Discrimination
-bf= Discriminatory practices
-bf= Differential treatment
-bf= Disparate treatment
 so= SMR00309
 so= SMR00383
 so= SMR00500
 so= SMR00629
 so= SMR00933
+en= Discrimination
+en= Discriminatory practices
+en= Differential treatment
+en= Disparate treatment
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00293
@@ -2259,35 +2265,40 @@ so= SMR00144
 so= SMR00296
 so= SMR00301
 so= SMR00794
+en= Discrimination based on citizenship
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00294
 te= Discrimination based on criminal records
-bf= Discrimination based on record of offences
 so= SMR00228
 so= SMR00383
 so= SMR01135
+en= Discrimination based on criminal records
+en= Discrimination based on record of offences
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00295
 te= Discrimination based on disabilities
-bf= Discrimination based on handicap
 so= SMR00136
 so= SMR00874
 so= SMR00875
+en= Discrimination based on disabilities
+en= Discrimination based on handicap
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00296
 te= Discrimination based on ethnic origin
-bf= Discrimination based on association with a national minority
 so= SMR00301
 so= SMR00394
 so= SMR00982
+en= Discrimination based on ethnic origin
+en= Discrimination based on association with a national minority
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00297
 te= Discrimination based on health
 so= SMR00873
+en= Discrimination based on health
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00298
@@ -2295,6 +2306,7 @@ te= Discrimination based on language
 so= SMR00678
 so= SMR00708
 so= SMR00839
+en= Discrimination based on language
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00299
@@ -2304,6 +2316,7 @@ so= SMR00313
 so= SMR00420
 so= SMR00728
 so= SMR00857
+en= Discrimination based on marital status
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00300
@@ -2313,6 +2326,7 @@ so= SMR00747
 so= SMR00748
 so= SMR00749
 so= SMR00875
+en= Discrimination based on mental disabilities
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00301
@@ -2321,12 +2335,14 @@ so= SMR00293
 so= SMR00296
 so= SMR00394
 so= SMR00982
+en= Discrimination based on national origin
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00302
 te= Discrimination based on physical disabilities
 so= SMR00300
 so= SMR00874
+en= Discrimination based on physical disabilities
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00303
@@ -2335,17 +2351,20 @@ so= SMR00473
 so= SMR00521
 so= SMR00700
 so= SMR01229
+en= Discrimination based on sexual orientation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00304
 te= Discrimination based on social condition
 so= SMR01286
+en= Discrimination based on social condition
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00305
 te= Discrimination based on social origin
 so= SMR00110
 so= SMR00304
+en= Discrimination based on social origin
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00306
@@ -2355,6 +2374,7 @@ so= SMR01052
 so= SMR01135
 so= SMR01166
 so= SMR01299
+en= Discrimination in education
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00307
@@ -2367,6 +2387,7 @@ so= SMR00514
 so= SMR00863
 so= SMR01194
 so= SMR01300
+en= Discrimination in employment
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00308
@@ -2375,12 +2396,14 @@ so= SMR00461
 so= SMR00467
 so= SMR00501
 so= SMR01181
+en= Discrimination in media
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00309
 te= Discrimination remedies
 so= SMR00186
 so= SMR00532
+en= Discrimination remedies
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00310
@@ -2388,6 +2411,7 @@ te= Disinformation
 so= SMR00007
 so= SMR00260
 so= SMR00574
+en= Disinformation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00311
@@ -2403,16 +2427,17 @@ so= SMR00923
 so= SMR01000
 so= SMR01021
 so= SMR01282
+en= Displaced persons
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00312
 te= Dissidents
 so= SMR00464
+en= Dissidents
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00313
 te= Divorce
-bf= Dissolution of marriage
 so= SMR00124
 so= SMR00132
 so= SMR00299
@@ -2420,14 +2445,18 @@ so= SMR00423
 so= SMR00727
 so= SMR00738
 so= SMR01169
+en= Divorce
+en= Dissolution of marriage
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00314
 te= Documentation
+en= Documentation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00315
-te= doktoravhandlinger
+te= Doktoravhandlinger
+en= Doktoravhandlinger
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00316
@@ -2440,6 +2469,7 @@ so= SMR00535
 so= SMR01022
 so= SMR01178
 so= SMR01253
+en= Domestic implementation of international human rights law
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00317
@@ -2447,6 +2477,7 @@ te= Domestic jurisdiction
 so= SMR00316
 so= SMR00697
 so= SMR00790
+en= Domestic jurisdiction
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00318
@@ -2456,29 +2487,29 @@ so= SMR00486
 so= SMR00530
 so= SMR00620
 so= SMR00840
+en= Domestic remedies
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00319
 te= Domestic violence
-bf= Family violence
 so= SMR00004
 so= SMR00121
 so= SMR01272
+en= Domestic violence
+en= Family violence
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00320
 te= Domestic workers
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00321
-te= Dominican Republic
+en= Domestic workers
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00322
 te= Double jeopardy
-bf= Double incrimination
-bf= Res judicata
 so= SMR00011
+en= Double jeopardy
+en= Double incrimination
+en= Res judicata
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00323
@@ -2490,24 +2521,28 @@ so= SMR01053
 so= SMR01055
 so= SMR01089
 so= SMR01283
+en= Drinking water
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00324
 te= Drittwirkung
 so= SMR00206
 so= SMR00948
+en= Drittwirkung
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00325
 te= Drug abuse
 so= SMR00326
 so= SMR00327
+en= Drug abuse
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00326
 te= Drug possession
 so= SMR00325
 so= SMR00327
+en= Drug possession
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00327
@@ -2515,25 +2550,25 @@ te= Drug trafficking
 so= SMR00326
 so= SMR00786
 so= SMR01259
+en= Drug trafficking
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00328
 te= Due process of law
 so= SMR01037
+en= Due process of law
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00329
 te= Duties
+en= Duties
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00330
 te= Early warning systems
 so= SMR00114
 so= SMR00615
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00331
-te= East Timor
+en= Early warning systems
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00332
@@ -2541,25 +2576,15 @@ te= East-West relations
 so= SMR00051
 so= SMR00602
 so= SMR00621
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00333
-te= Eastern Africa
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00334
-te= Eastern Asia
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00335
-te= Eastern Europe
+en= East-West relations
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00336
 te= Economic and financial crisis
-bf= Recession
 so= SMR00339
 so= SMR00435
+en= Economic and financial crisis
+en= Recession
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00337
@@ -2583,6 +2608,7 @@ so= SMR01130
 so= SMR01136
 so= SMR01143
 so= SMR01286
+en= Economic and social rights
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00338
@@ -2590,12 +2616,14 @@ te= Economic conditions
 so= SMR00343
 so= SMR00448
 so= SMR00911
+en= Economic conditions
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00339
 te= Economic crisis
 so= SMR00336
 so= SMR00435
+en= Economic crisis
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00340
@@ -2606,15 +2634,18 @@ so= SMR01050
 so= SMR01133
 so= SMR01183
 so= SMR01189
+en= Economic development
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00341
 te= Economic integration
 so= SMR00622
+en= Economic integration
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00342
 te= Economic policy
+en= Economic policy
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00343
@@ -2622,6 +2653,7 @@ te= Economic refugees
 so= SMR00114
 so= SMR00338
 so= SMR00755
+en= Economic refugees
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00344
@@ -2631,26 +2663,27 @@ so= SMR00450
 so= SMR00452
 so= SMR00453
 so= SMR00622
+en= Economic sanctions
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00345
 te= Economic systems
+en= Economic systems
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00346
 te= Economic, social and cultural rights
+en= Economic, social and cultural rights
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00347
 te= Economics
+en= Economics
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00348
 te= Economy
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00349
-te= Ecuador
+en= Economy
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00350
@@ -2684,6 +2717,7 @@ so= SMR01200
 so= SMR01254
 so= SMR01275
 so= SMR01299
+en= Education
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00351
@@ -2695,6 +2729,7 @@ so= SMR00865
 so= SMR00952
 so= SMR01013
 so= SMR01063
+en= Education for peace
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00352
@@ -2703,6 +2738,7 @@ so= SMR00005
 so= SMR00353
 so= SMR01052
 so= SMR01185
+en= Educational institutions
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00353
@@ -2710,43 +2746,40 @@ te= Educational material
 so= SMR00352
 so= SMR01093
 so= SMR01200
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00354
-te= Egypt
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00355
-te= El Salvador
+en= Educational material
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00356
 te= Elderly
-bf= Aged
-bf= Aging persons
-bf= Senior citizens
-bf= Seniors
 so= SMR00003
 so= SMR00022
 so= SMR00587
 so= SMR00833
+en= Elderly
+en= Aged
+en= Aging persons
+en= Senior citizens
+en= Seniors
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00357
 te= Election frauds
 so= SMR00360
 so= SMR00362
+en= Election frauds
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00358
 te= Election material
 so= SMR00360
+en= Election material
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00359
 te= Election observer missions
 so= SMR00360
 so= SMR00534
+en= Election observer missions
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00360
@@ -2761,31 +2794,33 @@ so= SMR00901
 so= SMR00908
 so= SMR00991
 so= SMR01075
+en= Elections
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00361
 te= Electoral fraud and intimidation
+en= Electoral fraud and intimidation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00362
 te= Electoral law
-bf= Election law
 so= SMR00264
 so= SMR00357
 so= SMR00360
 so= SMR00365
 so= SMR01075
+en= Electoral law
+en= Election law
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00363
 te= Electronic media
-bf= Digital documents
+en= Electronic media
+en= Digital documents
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00364
 te= Electronic surveillance
-bf= Eavesdropping
-bf= Wiretapping
 so= SMR00007
 so= SMR00402
 so= SMR00591
@@ -2793,21 +2828,24 @@ so= SMR00792
 so= SMR00893
 so= SMR00945
 so= SMR01064
+en= Electronic surveillance
+en= Eavesdropping
+en= Wiretapping
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00365
 te= Eligibility
-bf= Right to be elected
 so= SMR00360
 so= SMR00362
 so= SMR00908
 so= SMR01075
 so= SMR01297
+en= Eligibility
+en= Right to be elected
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00366
 te= Emergency relief
-bf= Disaster relief
 so= SMR00072
 so= SMR00441
 so= SMR00543
@@ -2815,6 +2853,8 @@ so= SMR00619
 so= SMR00796
 so= SMR00993
 so= SMR01174
+en= Emergency relief
+en= Disaster relief
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00367
@@ -2826,6 +2866,7 @@ so= SMR00553
 so= SMR00755
 so= SMR01042
 so= SMR01057
+en= Emigration
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00368
@@ -2851,6 +2892,7 @@ so= SMR01278
 so= SMR01300
 so= SMR01303
 so= SMR01304
+en= Employment
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00369
@@ -2862,6 +2904,7 @@ so= SMR00514
 so= SMR00863
 so= SMR01194
 so= SMR01300
+en= Employment equity
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00370
@@ -2869,6 +2912,7 @@ te= Employment security
 so= SMR01054
 so= SMR01076
 so= SMR01303
+en= Employment security
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00371
@@ -2878,10 +2922,7 @@ so= SMR00920
 so= SMR01133
 so= SMR01296
 so= SMR01297
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00372
-te= Encyclopedias
+en= Empowerment
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00373
@@ -2891,6 +2932,7 @@ so= SMR00375
 so= SMR01039
 so= SMR01189
 so= SMR01293
+en= Environment
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00374
@@ -2905,6 +2947,7 @@ so= SMR01049
 so= SMR01055
 so= SMR01189
 so= SMR01293
+en= Environmental degradation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00375
@@ -2914,21 +2957,25 @@ so= SMR00374
 so= SMR00835
 so= SMR01039
 so= SMR01047
+en= Environmental information
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00376
 te= Environmental law
+en= Environmental law
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00377
 te= Environmental refugees
 so= SMR00599
+en= Environmental refugees
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00378
 te= Epidemics
 so= SMR00171
 so= SMR00966
+en= Epidemics
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00379
@@ -2943,47 +2990,44 @@ so= SMR01135
 so= SMR01194
 so= SMR01275
 so= SMR01300
+en= Equal employment opportunities
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00380
 te= Equal opportunities
 so= SMR00379
 so= SMR00383
+en= Equal opportunities
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00381
 te= Equal remuneration
-bf= Equal pay
-bf= Wage gap
 so= SMR00307
 so= SMR00369
 so= SMR00863
 so= SMR01300
+en= Equal remuneration
+en= Equal pay
+en= Wage gap
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00382
 te= Equality before the law
 so= SMR00292
 so= SMR00383
+en= Equality before the law
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00383
 te= Equality rights
-bf= Equal benefit of the law
-bf= Equal protection of the law
-bf= Equal rights
 so= SMR00289
 so= SMR00292
 so= SMR00528
 so= SMR01134
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00384
-te= Eritrea
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00385
-te= Estonia
+en= Equality rights
+en= Equal benefit of the law
+en= Equal protection of the law
+en= Equal rights
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00386
@@ -2992,6 +3036,7 @@ so= SMR00092
 so= SMR00205
 so= SMR00344
 so= SMR00450
+en= Ethical investments
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00387
@@ -3000,16 +3045,14 @@ so= SMR00081
 so= SMR00742
 so= SMR00951
 so= SMR01265
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00388
-te= Ethiopia
+en= Ethics
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00389
 te= Ethnic and national groups
-bf= Ethnic gourps
 so= SMR00394
+en= Ethnic and national groups
+en= Ethnic gourps
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00390
@@ -3023,6 +3066,7 @@ so= SMR00476
 so= SMR00921
 so= SMR00983
 so= SMR00985
+en= Ethnic cleansing
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00391
@@ -3037,6 +3081,7 @@ so= SMR00981
 so= SMR00983
 so= SMR00985
 so= SMR01011
+en= Ethnic conflicts
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00392
@@ -3044,6 +3089,7 @@ te= Ethnic discrimination
 so= SMR00296
 so= SMR00394
 so= SMR00982
+en= Ethnic discrimination
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00393
@@ -3054,11 +3100,11 @@ so= SMR00394
 so= SMR00481
 so= SMR00923
 so= SMR01104
+en= Ethnic enclaves
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00394
 te= Ethnic minorities
-bf= Cultural groups
 so= SMR00233
 so= SMR00239
 so= SMR00241
@@ -3075,23 +3121,24 @@ so= SMR00772
 so= SMR00782
 so= SMR00982
 so= SMR01016
+en= Ethnic minorities
+en= Cultural groups
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00395
 te= Ethnicity
 so= SMR00394
+en= Ethnicity
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00396
 te= Ethnology
+en= Ethnology
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00397
 te= EU
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00398
-te= Europe
+en= EU
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00399
@@ -3100,10 +3147,12 @@ so= SMR00192
 so= SMR00742
 so= SMR01051
 so= SMR01187
+en= Euthanasia
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00400
 te= Evaluation
+en= Evaluation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00401
@@ -3112,6 +3161,7 @@ so= SMR00272
 so= SMR00408
 so= SMR00466
 so= SMR00520
+en= Evictions
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00402
@@ -3126,28 +3176,32 @@ so= SMR00934
 so= SMR01068
 so= SMR01107
 so= SMR01294
+en= Evidence
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00403
 te= Executive power
 so= SMR00194
 so= SMR01110
+en= Executive power
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00404
 te= Exhaustion of domestic remedies
-bf= Exhaustion of local remedies
 so= SMR00316
 so= SMR00317
 so= SMR00609
 so= SMR00880
 so= SMR00620
+en= Exhaustion of domestic remedies
+en= Exhaustion of local remedies
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00405
 te= Exhumation
 so= SMR00630
 so= SMR00731
+en= Exhumation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00406
@@ -3160,10 +3214,12 @@ so= SMR00446
 so= SMR00615
 so= SMR01000
 so= SMR01179
+en= Exile
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00407
 te= Expert witness
+en= Expert witness
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00408
@@ -3176,6 +3232,7 @@ so= SMR00970
 so= SMR01033
 so= SMR01049
 so= SMR01066
+en= Expropriation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00409
@@ -3184,23 +3241,26 @@ so= SMR00269
 so= SMR00406
 so= SMR00819
 so= SMR01021
+en= Expulsion
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00410
 te= Extradition
 so= SMR00228
 so= SMR00269
+en= Extradition
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00411
 te= Extrajudicial executions
-bf= Arbitrary executions
-bf= Extra-legal executions
 so= SMR00258
 so= SMR00290
 so= SMR00658
 so= SMR00731
 so= SMR00733
+en= Extrajudicial executions
+en= Arbitrary executions
+en= Extra-legal executions
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00412
@@ -3208,6 +3268,7 @@ te= Extraterritorial jurisdiction
 so= SMR00216
 so= SMR00317
 so= SMR01228
+en= Extraterritorial jurisdiction
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00413
@@ -3215,6 +3276,7 @@ te= Fact-finding
 so= SMR00168
 so= SMR00414
 so= SMR01022
+en= Fact-finding
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00414
@@ -3223,6 +3285,7 @@ so= SMR00413
 so= SMR00534
 so= SMR00630
 so= SMR01205
+en= Fact-finding missions
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00415
@@ -3231,6 +3294,7 @@ so= SMR00158
 so= SMR00459
 so= SMR00670
 so= SMR01219
+en= Fair representation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00416
@@ -3252,10 +3316,12 @@ so= SMR01107
 so= SMR01109
 so= SMR01235
 so= SMR01294
+en= Fair trial
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00417
 te= Falun Gong
+en= Falun Gong
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00418
@@ -3268,36 +3334,41 @@ so= SMR00423
 so= SMR01038
 so= SMR01061
 so= SMR01169
+en= Family
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00419
 te= Family law
+en= Family law
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00420
 te= Family members
-bf= Kinship
 so= SMR00299
 so= SMR00422
 so= SMR00423
 so= SMR01038
 so= SMR01043
+en= Family members
+en= Kinship
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00421
 te= Family planning
 so= SMR00921
 so= SMR01024
+en= Family planning
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00422
 te= Family reunification
-bf= Family reunion
 so= SMR00420
 so= SMR00553
 so= SMR00857
 so= SMR00994
 so= SMR01038
+en= Family reunification
+en= Family reunion
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00423
@@ -3305,11 +3376,13 @@ te= Family support
 so= SMR00313
 so= SMR00420
 so= SMR00561
+en= Family support
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00424
 te= Famine
 so= SMR00441
+en= Famine
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00425
@@ -3319,10 +3392,12 @@ so= SMR00025
 so= SMR00872
 so= SMR01080
 so= SMR01083
+en= Farmers
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00426
 te= Faroe Islands [Denmark]
+en= Faroe Islands [Denmark]
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00427
@@ -3330,19 +3405,22 @@ te= Fascism
 so= SMR00284
 so= SMR00799
 so= SMR01218
+en= Fascism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00428
 te= Federalism
 so= SMR00194
 so= SMR01111
+en= Federalism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00429
 te= Female genital mutilation
-bf= Female circumcision
 so= SMR01295
 so= SMR00885
+en= Female genital mutilation
+en= Female circumcision
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00430
@@ -3350,6 +3428,7 @@ te= Female soldiers
 so= SMR00164
 so= SMR00767
 so= SMR01295
+en= Female soldiers
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00431
@@ -3358,6 +3437,7 @@ so= SMR00371
 so= SMR00432
 so= SMR00862
 so= SMR01295
+en= Feminism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00432
@@ -3365,6 +3445,7 @@ te= Feminist movement
 so= SMR00431
 so= SMR01295
 so= SMR01301
+en= Feminist movement
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00433
@@ -3375,26 +3456,21 @@ so= SMR00932
 so= SMR01024
 so= SMR01025
 so= SMR01060
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00434
-te= Fiction
+en= Fetus
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00435
 te= Financial crisis
 so= SMR00336
 so= SMR00339
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00436
-te= Finland
+en= Financial crisis
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00437
 te= Firearms
 so= SMR01034
 so= SMR01262
+en= Firearms
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00438
@@ -3403,6 +3479,7 @@ so= SMR00568
 so= SMR01049
 so= SMR01283
 so= SMR01293
+en= Fishing rights
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00439
@@ -3411,10 +3488,12 @@ so= SMR00441
 so= SMR00543
 so= SMR00619
 so= SMR01053
+en= Food aid
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00440
 te= Food security
+en= Food security
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00441
@@ -3427,6 +3506,7 @@ so= SMR00543
 so= SMR00723
 so= SMR00928
 so= SMR01053
+en= Food shortage
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00442
@@ -3436,6 +3516,7 @@ so= SMR00666
 so= SMR01059
 so= SMR01113
 so= SMR01127
+en= Forced labour
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00443
@@ -3445,6 +3526,7 @@ so= SMR00728
 so= SMR00856
 so= SMR01169
 so= SMR01223
+en= Forced marriage
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00444
@@ -3460,10 +3542,12 @@ so= SMR00540
 so= SMR00598
 so= SMR00615
 so= SMR00923
+en= Forced migration
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00445
 te= Forced relocation
+en= Forced relocation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00446
@@ -3480,6 +3564,7 @@ so= SMR00597
 so= SMR00819
 so= SMR00923
 so= SMR01280
+en= Forced removals
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00447
@@ -3490,6 +3575,7 @@ so= SMR00602
 so= SMR00605
 so= SMR00619
 so= SMR01201
+en= Foreign aid
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00448
@@ -3500,12 +3586,14 @@ so= SMR00453
 so= SMR00606
 so= SMR00823
 so= SMR01183
+en= Foreign debt
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00449
 te= Foreign intervention
 so= SMR01176
 so= SMR01203
+en= Foreign intervention
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00450
@@ -3520,12 +3608,11 @@ so= SMR00606
 so= SMR00622
 so= SMR00801
 so= SMR01228
+en= Foreign investments
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00451
 te= Foreign policy
-bf= External affairs
-bf= Foreign relations
 so= SMR00344
 so= SMR00453
 so= SMR00591
@@ -3535,6 +3622,9 @@ so= SMR00760
 so= SMR00764
 so= SMR00788
 so= SMR00792
+en= Foreign policy
+en= External affairs
+en= Foreign relations
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00452
@@ -3545,6 +3635,7 @@ so= SMR00344
 so= SMR00447
 so= SMR00541
 so= SMR00838
+en= Foreign policy and human rights
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00453
@@ -3555,10 +3646,12 @@ so= SMR00451
 so= SMR00450
 so= SMR00622
 so= SMR01228
+en= Foreign trade
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00454
 te= Forensic psychiatry
+en= Forensic psychiatry
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00455
@@ -3568,10 +3661,7 @@ so= SMR00123
 so= SMR00125
 so= SMR00133
 so= SMR01038
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00456
-te= France
+en= Foster home care
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00457
@@ -3582,12 +3672,14 @@ so= SMR00461
 so= SMR00467
 so= SMR00579
 so= SMR00810
+en= Free flow of information
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00458
 te= Freedom from fear
 so= SMR01067
 so= SMR01074
+en= Freedom from fear
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00459
@@ -3601,6 +3693,7 @@ so= SMR00902
 so= SMR00950
 so= SMR01073
 so= SMR01219
+en= Freedom of association
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00460
@@ -3611,6 +3704,7 @@ so= SMR00464
 so= SMR00465
 so= SMR00468
 so= SMR00941
+en= Freedom of conscience
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00461
@@ -3624,12 +3718,11 @@ so= SMR00468
 so= SMR00463
 so= SMR00501
 so= SMR00924
+en= Freedom of expression
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00462
 te= Freedom of movement
-bf= Liberty of movement
-bf= Mobility rights
 so= SMR00367
 so= SMR00466
 so= SMR00598
@@ -3638,6 +3731,9 @@ so= SMR00816
 so= SMR01042
 so= SMR01057
 so= SMR01231
+en= Freedom of movement
+en= Liberty of movement
+en= Mobility rights
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00463
@@ -3646,6 +3742,7 @@ so= SMR00266
 so= SMR00459
 so= SMR00461
 so= SMR00961
+en= Freedom of peaceful assembly
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00464
@@ -3661,6 +3758,7 @@ so= SMR00903
 so= SMR00906
 so= SMR00913
 so= SMR00990
+en= Freedom of political opinion
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00465
@@ -3675,12 +3773,11 @@ so= SMR01016
 so= SMR01018
 so= SMR01019
 so= SMR01086
+en= Freedom of religion
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00466
 te= Freedom of residence
-bf= Freedom to choose one's residence
-bf= Right to choose a residence
 so= SMR00272
 so= SMR00401
 so= SMR00444
@@ -3689,6 +3786,9 @@ so= SMR00462
 so= SMR00597
 so= SMR00598
 so= SMR01029
+en= Freedom of residence
+en= Freedom to choose one's residence
+en= Right to choose a residence
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00467
@@ -3705,11 +3805,11 @@ so= SMR00732
 so= SMR00810
 so= SMR00811
 so= SMR00976
+en= Freedom of the press
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00468
 te= Freedom of thought
-bf= Freedom of mind
 so= SMR00005
 so= SMR00460
 so= SMR00461
@@ -3717,11 +3817,14 @@ so= SMR00574
 so= SMR00590
 so= SMR00990
 so= SMR01095
+en= Freedom of thought
+en= Freedom of mind
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00469
 te= Fundamental rights and freedoms
 so= SMR00572
+en= Fundamental rights and freedoms
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00470
@@ -3729,15 +3832,13 @@ te= Fundamentalism
 so= SMR00465
 so= SMR01011
 so= SMR01017
+en= Fundamentalism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00471
 te= Fundraising
 so= SMR00812
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00472
-te= Gambia
+en= Fundraising
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00473
@@ -3745,26 +3846,28 @@ te= Gay rights
 so= SMR00303
 so= SMR00521
 so= SMR00700
+en= Gay rights
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00474
 te= Gender discrimination
-bf= Sex discrimination
-bf= Discrimination against women
-bf= Discrimination based on sex
 so= SMR01116
 so= SMR01222
 so= SMR01295
+en= Gender discrimination
+en= Sex discrimination
+en= Discrimination against women
+en= Discrimination based on sex
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00475
 te= Genital mutilation
 so= SMR00885
+en= Genital mutilation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00476
 te= Genocide
-bf= Ethnocide
 so= SMR00039
 so= SMR00159
 so= SMR00311
@@ -3778,22 +3881,8 @@ so= SMR00921
 so= SMR00923
 so= SMR00983
 so= SMR01280
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00477
-te= Georgia
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00478
-te= German Democratic Republic
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00479
-te= Germany
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00480
-te= Ghana
+en= Genocide
+en= Ethnocide
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00481
@@ -3801,10 +3890,12 @@ te= Ghettos
 so= SMR00393
 so= SMR01104
 so= SMR01258
+en= Ghettos
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00482
 te= Globalization
+en= Globalization
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00483
@@ -3814,6 +3905,7 @@ so= SMR00263
 so= SMR00487
 so= SMR01079
 so= SMR01175
+en= Good governance
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00484
@@ -3827,6 +3919,7 @@ so= SMR00698
 so= SMR00974
 so= SMR01106
 so= SMR01110
+en= Government
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00485
@@ -3834,6 +3927,7 @@ te= Government departments
 so= SMR00486
 so= SMR00974
 so= SMR00975
+en= Government departments
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00486
@@ -3845,25 +3939,27 @@ so= SMR00530
 so= SMR00630
 so= SMR00840
 so= SMR00952
+en= Government human rights agencies
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00487
 te= Government policy
 so= SMR00483
 so= SMR00484
+en= Government policy
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00488
 te= Government secrecy
-bf= Official secret
 so= SMR00254
 so= SMR00591
 so= SMR00792
+en= Government secrecy
+en= Official secret
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00489
 te= Grassroot organizations
-bf= Consumer groups
 so= SMR00150
 so= SMR00175
 so= SMR00459
@@ -3871,14 +3967,8 @@ so= SMR00567
 so= SMR00871
 so= SMR00920
 so= SMR01301
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00490
-te= Greece
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00491
-te= Greenland [Denmark]
+en= Grassroot organizations
+en= Consumer groups
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00492
@@ -3892,14 +3982,12 @@ so= SMR00411
 so= SMR00476
 so= SMR01127
 so= SMR01214
+en= Gross human rights violations
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00493
 te= Group rights
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00494
-te= Guatemala
+en= Group rights
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00495
@@ -3909,14 +3997,7 @@ so= SMR00151
 so= SMR00791
 so= SMR01035
 so= SMR01256
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00496
-te= Guidelines
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00497
-te= Guyana
+en= Guerilla warfare
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00498
@@ -3926,10 +4007,7 @@ so= SMR00043
 so= SMR00053
 so= SMR00274
 so= SMR00648
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00499
-te= Haiti
+en= Habeas corpus
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00500
@@ -3938,11 +4016,11 @@ so= SMR00292
 so= SMR00526
 so= SMR00964
 so= SMR00986
+en= Harassment
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00501
 te= Hate propaganda
-bf= Incitement to hatred
 so= SMR00039
 so= SMR00260
 so= SMR00308
@@ -3952,6 +4030,8 @@ so= SMR00982
 so= SMR00984
 so= SMR00986
 so= SMR01308
+en= Hate propaganda
+en= Incitement to hatred
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00502
@@ -3960,20 +4040,23 @@ so= SMR00205
 so= SMR00374
 so= SMR00724
 so= SMR00830
+en= Hazardous wastes
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00503
 te= Heads of Government
-bf= Prime Ministers
 so= SMR00403
 so= SMR00504
+en= Heads of Government
+en= Prime Ministers
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00504
 te= Heads of State
-bf= Presidents
 so= SMR00403
 so= SMR00503
+en= Heads of State
+en= Presidents
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00505
@@ -3996,6 +4079,7 @@ so= SMR01055
 so= SMR01062
 so= SMR01074
 so= SMR01089
+en= Health
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00506
@@ -4008,6 +4092,7 @@ so= SMR00861
 so= SMR00886
 so= SMR00966
 so= SMR01055
+en= Health care services
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00507
@@ -4016,14 +4101,16 @@ so= SMR00935
 so= SMR00966
 so= SMR01055
 so= SMR01089
+en= Health education
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00508
 te= Health personnel
-bf= Health care workers
 so= SMR00506
 so= SMR00742
 so= SMR00750
+en= Health personnel
+en= Health care workers
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00509
@@ -4036,14 +4123,17 @@ so= SMR00745
 so= SMR00861
 so= SMR01048
 so= SMR01064
+en= Health records
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00510
 te= Health services
+en= Health services
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00511
 te= Helsinki Accords
+en= Helsinki Accords
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00512
@@ -4055,10 +4145,12 @@ so= SMR00572
 so= SMR00573
 so= SMR00594
 so= SMR01208
+en= Hierarchy of human rights
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00513
 te= Hinduism
+en= Hinduism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00514
@@ -4068,14 +4160,17 @@ so= SMR00307
 so= SMR00369
 so= SMR00379
 so= SMR01194
+en= Hiring practices
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00515
 te= History
+en= History
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00516
 te= History of human rights
+en= History of human rights
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00517
@@ -4083,15 +4178,18 @@ te= HIV-infected persons
 so= SMR00026
 so= SMR00297
 so= SMR00873
+en= HIV-infected persons
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00518
 te= HIV/AIDS
+en= HIV/AIDS
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00519
 te= Holocaust
 so= SMR00039
+en= Holocaust
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00520
@@ -4102,20 +4200,14 @@ so= SMR00527
 so= SMR00928
 so= SMR01044
 so= SMR01182
+en= Homeless persons
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00521
 te= Homosexuals
 so= SMR00303
 so= SMR00473
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00522
-te= Honduras
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00523
-te= Hong Kong
+en= Homosexuals
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00524
@@ -4129,17 +4221,20 @@ so= SMR01028
 so= SMR01029
 so= SMR01179
 so= SMR00998
+en= Host country
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00525
 te= Hostage-taking
 so= SMR00120
+en= Hostage-taking
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00526
 te= Hostile working environment
 so= SMR00500
 so= SMR01120
+en= Hostile working environment
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00527
@@ -4148,6 +4243,7 @@ so= SMR00272
 so= SMR00520
 so= SMR01044
 so= SMR01257
+en= Housing
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00528
@@ -4163,11 +4259,14 @@ so= SMR01053
 so= SMR01059
 so= SMR01060
 so= SMR01074
+en= Human dignity
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00529
-te= Human rights
+te= Menneskerettigheter
+en= Human rights
 tio= 2016-01-26T13:37:12Z
+tie= 2016-04-13T10:47:55Z
 
 id= SMR00530
 te= Human rights commissions
@@ -4179,16 +4278,16 @@ so= SMR00620
 so= SMR00630
 so= SMR00860
 so= SMR00952
+en= Human rights commissions
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00531
 te= Human rights defenders
+en= Human rights defenders
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00532
 te= Human rights education
-bf= Education for human rights
-bf= Teaching of human rights
 so= SMR00281
 so= SMR00309
 so= SMR00351
@@ -4197,14 +4296,18 @@ so= SMR00894
 so= SMR00952
 so= SMR01013
 so= SMR01199
+en= Human rights education
+en= Education for human rights
+en= Teaching of human rights
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00533
 te= Human rights legislation
-bf= Anti-discrimination legislation
 so= SMR00318
 so= SMR00486
 so= SMR00952
+en= Human rights legislation
+en= Anti-discrimination legislation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00534
@@ -4215,6 +4318,7 @@ so= SMR00630
 so= SMR00530
 so= SMR00535
 so= SMR01022
+en= Human rights monitoring
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00535
@@ -4223,16 +4327,19 @@ so= SMR00534
 so= SMR00316
 so= SMR01022
 so= SMR01178
+en= Human rights reporting
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00536
-te= Human rights theories
+te= Menneskerettsteorier
 so= SMR00245
 so= SMR00883
 so= SMR01253
 so= SMR00546
 so= SMR01265
+en= Human rights theories
 tio= 2016-01-26T13:37:12Z
+tie= 2016-04-15T08:20:38Z
 
 id= SMR00537
 te= Human rights violations
@@ -4240,6 +4347,7 @@ so= SMR00492
 so= SMR00534
 so= SMR00538
 so= SMR01022
+en= Human rights violations
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00538
@@ -4247,6 +4355,7 @@ te= Human rights violators
 so= SMR00230
 so= SMR00559
 so= SMR00571
+en= Human rights violators
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00539
@@ -4256,6 +4365,7 @@ so= SMR00532
 so= SMR00534
 so= SMR00952
 so= SMR01022
+en= Human rights workers
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00540
@@ -4273,6 +4383,7 @@ so= SMR00619
 so= SMR00993
 so= SMR01000
 so= SMR01282
+en= Humanitarian assistance
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00541
@@ -4284,15 +4395,11 @@ so= SMR00601
 so= SMR00602
 so= SMR00610
 so= SMR00618
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00542
-te= Hungary
+en= Humanitarian intervention
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00543
 te= Hunger
-bf= Starvation
 so= SMR00127
 so= SMR00366
 so= SMR00439
@@ -4301,21 +4408,21 @@ so= SMR00540
 so= SMR00723
 so= SMR00928
 so= SMR01053
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00544
-te= Iceland
+en= Hunger
+en= Starvation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00545
 te= Identity
 so= SMR00241
+en= Identity
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00546
 te= Ideologies
 so= SMR00536
 so= SMR00912
+en= Ideologies
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00547
@@ -4323,6 +4430,7 @@ te= Illegal immigration
 so= SMR00269
 so= SMR00755
 so= SMR01029
+en= Illegal immigration
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00548
@@ -4330,12 +4438,14 @@ te= Illiteracy
 so= SMR00246
 so= SMR01047
 so= SMR01052
+en= Illiteracy
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00549
 te= Immigrant children
 so= SMR00755
 so= SMR00994
+en= Immigrant children
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00550
@@ -4347,6 +4457,7 @@ so= SMR00547
 so= SMR00615
 so= SMR01029
 so= SMR01057
+en= Immigrants
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00551
@@ -4354,10 +4465,12 @@ te= Immigration
 so= SMR00462
 so= SMR00553
 so= SMR01057
+en= Immigration
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00552
 te= Immigration law
+en= Immigration law
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00553
@@ -4374,15 +4487,18 @@ so= SMR00996
 so= SMR01000
 so= SMR01001
 so= SMR01057
+en= Immigration policy
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00554
 te= Immunity
 so= SMR00559
+en= Immunity
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00555
 te= Impartial judiciary
+en= Impartial judiciary
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00556
@@ -4392,18 +4508,21 @@ so= SMR00162
 so= SMR00163
 so= SMR00259
 so= SMR00801
+en= Imperialism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00557
 te= Implementation
 so= SMR00316
+en= Implementation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00558
 te= Imprisonment
-bf= Incarceration
 so= SMR00275
 so= SMR00938
+en= Imprisonment
+en= Incarceration
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00559
@@ -4415,6 +4534,7 @@ so= SMR00571
 so= SMR00630
 so= SMR00855
 so= SMR01175
+en= Impunity
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00560
@@ -4422,6 +4542,7 @@ te= Income distribution
 so= SMR00345
 so= SMR00928
 so= SMR01136
+en= Income distribution
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00561
@@ -4430,6 +4551,7 @@ so= SMR00072
 so= SMR00423
 so= SMR01130
 so= SMR01143
+en= Income security
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00562
@@ -4440,6 +4562,7 @@ so= SMR00892
 so= SMR01058
 so= SMR01274
 so= SMR00938
+en= Incomunicado detention
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00563
@@ -4450,18 +4573,16 @@ so= SMR01070
 so= SMR01097
 so= SMR01105
 so= SMR01176
+en= Independence
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00564
 te= Independence of the Judiciary
-bf= Judicial independence
 so= SMR00014
 so= SMR00646
 so= SMR00649
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00565
-te= India
+en= Independence of the Judiciary
+en= Judicial independence
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00566
@@ -4471,18 +4592,18 @@ so= SMR00241
 so= SMR00246
 so= SMR00678
 so= SMR00772
+en= Indigenous languages
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00567
 te= Indigenous organizations
 so= SMR00489
 so= SMR00568
+en= Indigenous organizations
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00568
 te= Indigenous peoples
-bf= Aboriginal peoples
-bf= Indigenous populations
 so= SMR00163
 so= SMR00240
 so= SMR00241
@@ -4498,10 +4619,14 @@ so= SMR01106
 so= SMR01220
 so= SMR01221
 so= SMR01049
+en= Indigenous peoples
+en= Aboriginal peoples
+en= Indigenous populations
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00569
 te= Indigenous women
+en= Indigenous women
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00570
@@ -4509,6 +4634,7 @@ te= Individual duties
 so= SMR00571
 so= SMR00572
 so= SMR01178
+en= Individual duties
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00571
@@ -4519,6 +4645,7 @@ so= SMR00559
 so= SMR00570
 so= SMR00572
 so= SMR01175
+en= Individual responsibility
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00572
@@ -4529,6 +4656,7 @@ so= SMR00570
 so= SMR00571
 so= SMR00702
 so= SMR00876
+en= Individual rights
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00573
@@ -4542,6 +4670,7 @@ so= SMR00572
 so= SMR00594
 so= SMR00607
 so= SMR01208
+en= Indivisibility of human rights
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00574
@@ -4551,51 +4680,56 @@ so= SMR00310
 so= SMR00464
 so= SMR00990
 so= SMR01013
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00575
-te= Indonesia
+en= Indoctrination
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00576
 te= Industrial workers
+en= Industrial workers
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00577
 te= Infant mortality
-bf= Child mortality
+en= Infant mortality
+en= Child mortality
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00578
 te= Infants
 so= SMR00127
 so= SMR00809
+en= Infants
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00579
 te= Information agencies
-bf= News agencies
 so= SMR00457
 so= SMR00467
 so= SMR00643
 so= SMR00732
 so= SMR00810
+en= Information agencies
+en= News agencies
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00580
 te= Information handling
+en= Information handling
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00581
 te= Information retrieval
+en= Information retrieval
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00582
 te= Information systems
+en= Information systems
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00583
 te= Information technology
+en= Information technology
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00584
@@ -4603,6 +4737,7 @@ te= Informed consent
 so= SMR00742
 so= SMR00745
 so= SMR00861
+en= Informed consent
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00585
@@ -4618,12 +4753,11 @@ so= SMR00743
 so= SMR00962
 so= SMR00964
 so= SMR00938
+en= Inhuman treatment
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00586
 te= Institutionalization
-bf= Civil commitment
-bf= Commital to an institution
 so= SMR00016
 so= SMR00192
 so= SMR00587
@@ -4631,6 +4765,9 @@ so= SMR00748
 so= SMR00750
 so= SMR00875
 so= SMR00962
+en= Institutionalization
+en= Civil commitment
+en= Commital to an institution
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00587
@@ -4644,22 +4781,25 @@ so= SMR00833
 so= SMR00861
 so= SMR00875
 so= SMR00962
+en= Institutionalized persons
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00588
 te= Integration
 so= SMR00242
 so= SMR01135
+en= Integration
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00589
 te= Intellectual property rights
-bf= Authors' rights
 so= SMR00254
 so= SMR01047
 so= SMR01066
 so= SMR01095
 so= SMR01307
+en= Intellectual property rights
+en= Authors' rights
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00590
@@ -4668,18 +4808,21 @@ so= SMR00005
 so= SMR00461
 so= SMR00468
 so= SMR01095
+en= Intellectuals
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00591
 te= Intelligence services
-bf= Secret service
 so= SMR00364
 so= SMR00792
+en= Intelligence services
+en= Secret service
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00592
 te= Inter-governmental organizations
 so= SMR01006
+en= Inter-governmental organizations
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00593
@@ -4687,6 +4830,7 @@ te= Inter-State complaints
 so= SMR00179
 so= SMR00880
 so= SMR01178
+en= Inter-State complaints
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00594
@@ -4699,31 +4843,35 @@ so= SMR00512
 so= SMR00572
 so= SMR00573
 so= SMR01208
+en= Interdependency of human rights
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00595
 te= Interest groups
 so= SMR00713
 so= SMR00812
+en= Interest groups
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00596
 te= Internal conflicts
-bf= Internal strife
 so= SMR00768
 so= SMR00909
 so= SMR00981
 so= SMR01070
 so= SMR01111
+en= Internal conflicts
+en= Internal strife
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00597
 te= Internal exile
-bf= Banishment
 so= SMR00269
 so= SMR00311
 so= SMR00446
 so= SMR00598
+en= Internal exile
+en= Banishment
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00598
@@ -4739,6 +4887,7 @@ so= SMR00923
 so= SMR01054
 so= SMR01114
 so= SMR01260
+en= Internal migration
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00599
@@ -4753,6 +4902,7 @@ so= SMR00923
 so= SMR01000
 so= SMR01021
 so= SMR01282
+en= Internally displaced persons
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00600
@@ -4761,6 +4911,7 @@ so= SMR00270
 so= SMR00614
 so= SMR00988
 so= SMR01027
+en= International agreements
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00601
@@ -4768,6 +4919,7 @@ te= International assistance
 so= SMR00541
 so= SMR00605
 so= SMR00619
+en= International assistance
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00602
@@ -4779,6 +4931,7 @@ so= SMR00621
 so= SMR00807
 so= SMR01006
 so= SMR01063
+en= International cooperation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00603
@@ -4787,16 +4940,16 @@ so= SMR00620
 so= SMR00609
 so= SMR01005
 so= SMR00623
+en= International courts
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00604
 te= International criminal law
+en= International criminal law
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00605
 te= International development agencies
-bf= Aid institutions
-bf= International voluntary agencies
 so= SMR00142
 so= SMR00278
 so= SMR00282
@@ -4805,6 +4958,9 @@ so= SMR00601
 so= SMR00619
 so= SMR00616
 so= SMR00838
+en= International development agencies
+en= Aid institutions
+en= International voluntary agencies
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00606
@@ -4812,6 +4968,7 @@ te= International financial institutions
 so= SMR00282
 so= SMR00448
 so= SMR00450
+en= International financial institutions
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00607
@@ -4824,6 +4981,7 @@ so= SMR00316
 so= SMR00609
 so= SMR01005
 so= SMR01253
+en= International human rights
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00608
@@ -4834,12 +4992,14 @@ so= SMR00607
 so= SMR00707
 so= SMR00988
 so= SMR01027
+en= International human rights instruments
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00609
 te= International human rights protection mechanisms
 so= SMR00404
 so= SMR00603
+en= International human rights protection mechanisms
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00610
@@ -4853,16 +5013,19 @@ so= SMR00942
 so= SMR01000
 so= SMR01282
 so= SMR01306
+en= International humanitarian law
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00611
 te= International IGOs
 so= SMR00602
 so= SMR00618
+en= International IGOs
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00612
 te= International investments
+en= International investments
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00613
@@ -4878,6 +5041,7 @@ so= SMR01219
 so= SMR01278
 so= SMR01303
 so= SMR01304
+en= International labour standards
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00614
@@ -4885,6 +5049,7 @@ te= International law
 so= SMR00603
 so= SMR00607
 so= SMR00618
+en= International law
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00615
@@ -4902,17 +5067,20 @@ so= SMR01021
 so= SMR01028
 so= SMR01057
 so= SMR01071
+en= International migration
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00616
 te= International NGOs
-bf= INGOs
-bf= International non-governmental organizations
 so= SMR00806
+en= International NGOs
+en= INGOs
+en= International non-governmental organizations
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00617
 te= International organizations
+en= International organizations
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00618
@@ -4927,6 +5095,7 @@ so= SMR00760
 so= SMR00764
 so= SMR00807
 so= SMR01176
+en= International relations
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00619
@@ -4938,6 +5107,7 @@ so= SMR00540
 so= SMR00601
 so= SMR00602
 so= SMR00605
+en= International relief agencies
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00620
@@ -4947,6 +5117,7 @@ so= SMR00530
 so= SMR00603
 so= SMR00609
 so= SMR01005
+en= International remedies
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00621
@@ -4960,6 +5131,7 @@ so= SMR00618
 so= SMR00760
 so= SMR00792
 so= SMR01063
+en= International security
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00622
@@ -4972,22 +5144,26 @@ so= SMR00450
 so= SMR00453
 so= SMR00801
 so= SMR01228
+en= International trade
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00623
 te= International tribunals
 so= SMR00603
+en= International tribunals
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00624
 te= Internet
 so= SMR00363
+en= Internet
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00625
 te= Interpretation
 so= SMR01046
 so= SMR01227
+en= Interpretation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00626
@@ -4998,6 +5174,7 @@ so= SMR00893
 so= SMR01068
 so= SMR01107
 so= SMR01294
+en= Interrogation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00627
@@ -5005,10 +5182,12 @@ te= Intervention
 so= SMR00449
 so= SMR00541
 so= SMR00764
+en= Intervention
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00628
 te= Interviews
+en= Interviews
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00629
@@ -5022,6 +5201,7 @@ so= SMR00984
 so= SMR01011
 so= SMR01018
 so= SMR01308
+en= Intolerance
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00630
@@ -5041,55 +5221,23 @@ so= SMR00860
 so= SMR01022
 so= SMR01205
 so= SMR01294
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00631
-te= Iran, Islamic Republic of
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00632
-te= Iraq
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00633
-te= Ireland
+en= Investigation into human rights abuses
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00634
 te= Islam
 so= SMR00470
+en= Islam
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00635
 te= Islamic law
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00636
-te= Israel
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00637
-te= Italy
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00638
-te= Jamaica
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00639
-te= Japan
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00640
-te= Jerusalem
+en= Islamic law
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00641
 te= Jews
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00642
-te= Jordan
+en= Jews
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00643
@@ -5098,22 +5246,21 @@ so= SMR00467
 so= SMR00579
 so= SMR00732
 so= SMR00810
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00644
-te= Journals
+en= Journalists
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00645
 te= Judaism
 so= SMR00039
 so= SMR01318
+en= Judaism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00646
 te= Judges
 so= SMR00218
 so= SMR00564
+en= Judges
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00647
@@ -5124,6 +5271,7 @@ so= SMR00650
 so= SMR00697
 so= SMR00896
 so= SMR01110
+en= Judicial law-making
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00648
@@ -5133,11 +5281,13 @@ so= SMR00193
 so= SMR00318
 so= SMR00498
 so= SMR00647
+en= Judicial review
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00649
 te= Judicial systems
 so= SMR00564
+en= Judicial systems
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00650
@@ -5145,6 +5295,7 @@ te= Judiciary
 so= SMR00014
 so= SMR00647
 so= SMR01110
+en= Judiciary
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00651
@@ -5152,6 +5303,7 @@ te= Jurisdiction
 so= SMR00216
 so= SMR00317
 so= SMR00412
+en= Jurisdiction
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00652
@@ -5161,6 +5313,7 @@ so= SMR00225
 so= SMR00653
 so= SMR01079
 so= SMR01136
+en= Justice
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00653
@@ -5170,26 +5323,16 @@ so= SMR00135
 so= SMR00230
 so= SMR00273
 so= SMR01312
+en= Juvenile justice
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00654
 te= Juvenile offenders
-bf= Juvenile delinquents
 so= SMR00230
 so= SMR00273
 so= SMR00653
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00655
-te= Kashmir
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00656
-te= Kazakhstan
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00657
-te= Kenya
+en= Juvenile offenders
+en= Juvenile delinquents
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00658
@@ -5203,34 +5346,12 @@ so= SMR00914
 so= SMR00986
 so= SMR01204
 so= SMR01280
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00659
-te= Korea, Democratic People's Republic of
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00660
-te= Korea, Republic of
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00661
-te= Kosovo
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00662
-te= Kurdistan
+en= Killings
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00663
 te= Kurds
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00664
-te= Kuwait
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00665
-te= Kyrgyzstan
+en= Kurds
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00666
@@ -5238,19 +5359,22 @@ te= Labour camps
 so= SMR00181
 so= SMR00442
 so= SMR00990
+en= Labour camps
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00667
 te= Labour disputes
-bf= Labour conflicts
 so= SMR00044
 so= SMR00158
 so= SMR01073
 so= SMR01219
+en= Labour disputes
+en= Labour conflicts
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00668
 te= Labour law
+en= Labour law
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00669
@@ -5263,6 +5387,7 @@ so= SMR01076
 so= SMR01245
 so= SMR01194
 so= SMR01300
+en= Labour market
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00670
@@ -5275,10 +5400,12 @@ so= SMR01073
 so= SMR01219
 so= SMR01303
 so= SMR01304
+en= Labour relations
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00671
 te= Labour standards
+en= Labour standards
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00672
@@ -5290,10 +5417,12 @@ so= SMR00674
 so= SMR00872
 so= SMR01049
 so= SMR01114
+en= Land claims
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00673
 te= Land mines
+en= Land mines
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00674
@@ -5302,6 +5431,7 @@ so= SMR00023
 so= SMR00672
 so= SMR00872
 so= SMR01066
+en= Land ownership
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00675
@@ -5312,24 +5442,26 @@ so= SMR01114
 so= SMR01203
 so= SMR01049
 so= SMR01066
+en= Land rights
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00676
 te= Land tenure
 so= SMR00675
+en= Land tenure
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00677
 te= Language of court proceedings
-bf= Language used in court
 so= SMR00708
 so= SMR00839
 so= SMR01046
+en= Language of court proceedings
+en= Language used in court
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00678
 te= Language rights
-bf= Linguistic rights
 so= SMR00079
 so= SMR00080
 so= SMR00241
@@ -5339,27 +5471,16 @@ so= SMR00566
 so= SMR00677
 so= SMR00708
 so= SMR00839
+en= Language rights
+en= Linguistic rights
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00679
 te= Language training
-bf= Language education
 so= SMR00079
 so= SMR00242
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00680
-te= Lao People's Democratic Republic
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00681
-te= Latin America
-so= SMR00118
-so= SMR01158
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00682
-te= Latvia
+en= Language training
+en= Language education
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00683
@@ -5381,34 +5502,39 @@ so= SMR00697
 so= SMR00707
 so= SMR00729
 so= SMR01079
+en= Law
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00684
 te= Law and literature
+en= Law and literature
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00685
 te= Law enforcement
+en= Law enforcement
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00686
 te= Law reform
 so= SMR00695
 so= SMR00697
+en= Law reform
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00687
 te= Lawyers
-bf= Advocates
-bf= Attorneys
-bf= Defence lawyers
-bf= Legal counsellors
 so= SMR00070
 so= SMR00215
 so= SMR00218
 so= SMR00690
 so= SMR00955
 so= SMR01058
+en= Lawyers
+en= Advocates
+en= Attorneys
+en= Defence lawyers
+en= Legal counsellors
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00688
@@ -5417,10 +5543,7 @@ so= SMR00601
 so= SMR00807
 so= SMR00823
 so= SMR01050
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00689
-te= Lebanon
+en= Least-developed countries
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00690
@@ -5429,6 +5552,7 @@ so= SMR00008
 so= SMR00687
 so= SMR01058
 so= SMR01130
+en= Legal aid
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00691
@@ -5437,6 +5561,7 @@ so= SMR00147
 so= SMR00169
 so= SMR00248
 so= SMR01221
+en= Legal pluralism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00692
@@ -5444,35 +5569,41 @@ te= Legal proceedings
 so= SMR00215
 so= SMR00149
 so= SMR00229
+en= Legal proceedings
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00693
 te= Legal research
+en= Legal research
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00694
 te= Legal rhetoric
+en= Legal rhetoric
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00695
 te= Legal systems
 so= SMR00014
 so= SMR00691
+en= Legal systems
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00696
 te= Legal validity
+en= Legal validity
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00697
 te= Legislation
-bf= Laws
-bf= Statutes
 so= SMR00317
 so= SMR00647
 so= SMR00686
 so= SMR00698
 so= SMR01008
+en= Legislation
+en= Laws
+en= Statutes
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00698
@@ -5483,54 +5614,54 @@ so= SMR00647
 so= SMR00650
 so= SMR00699
 so= SMR01110
+en= Legislative power
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00699
 te= Legislatures
-bf= Legislative branch
 so= SMR00484
 so= SMR00698
 so= SMR00858
+en= Legislatures
+en= Legislative branch
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00700
 te= Lesbians
 so= SMR00303
 so= SMR00473
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00701
-te= Lesotho
+en= Lesbians
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00702
 te= Liberalism
 so= SMR00262
 so= SMR00572
+en= Liberalism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00703
 te= Liberation theology
 so= SMR00143
 so= SMR01136
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00704
-te= Liberia
+en= Liberation theology
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00705
 te= Libraries
+en= Libraries
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00706
 te= Limburg Principles
+en= Limburg Principles
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00707
 te= Limitations prescribed by law
 so= SMR00270
 so= SMR00969
+en= Limitations prescribed by law
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00708
@@ -5542,29 +5673,30 @@ so= SMR00772
 so= SMR00678
 so= SMR00771
 so= SMR00839
+en= Linguistic minorities
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00709
 te= Literature
 so= SMR00461
 so= SMR01307
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00710
-te= Lithuania
+en= Literature
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00711
 te= Litigation
+en= Litigation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00712
 te= Living conditions
+en= Living conditions
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00713
 te= Lobbying
 so= SMR00595
+en= Lobbying
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00714
@@ -5572,38 +5704,22 @@ te= Local government
 so= SMR00174
 so= SMR01106
 so= SMR01257
+en= Local government
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00715
 te= Maastricht Guidelines
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00716
-te= Macedonia, Former Yugoslav Republic of
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00717
-te= Madagascar
+en= Maastricht Guidelines
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00718
 te= Maghrib
+en= Maghrib
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00719
 te= Mainstreaming human rights
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00720
-te= Malawi
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00721
-te= Malaysia
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00722
-te= Mali
+en= Mainstreaming human rights
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00723
@@ -5615,6 +5731,7 @@ so= SMR00543
 so= SMR00928
 so= SMR01053
 so= SMR01055
+en= Malnutrition
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00724
@@ -5629,14 +5746,12 @@ so= SMR00830
 so= SMR00916
 so= SMR01039
 so= SMR01285
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00725
-te= Manuals
+en= Man-made disasters
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00726
 te= Margin of appreciation
+en= Margin of appreciation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00727
@@ -5649,6 +5764,7 @@ so= SMR00738
 so= SMR00917
 so= SMR01061
 so= SMR01169
+en= Marriage
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00728
@@ -5658,6 +5774,7 @@ so= SMR00299
 so= SMR00443
 so= SMR00727
 so= SMR00738
+en= Married women
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00729
@@ -5667,12 +5784,14 @@ so= SMR00765
 so= SMR00768
 so= SMR00792
 so= SMR00969
+en= Martial law
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00730
 te= Marxism
 so= SMR00172
 so= SMR01149
+en= Marxism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00731
@@ -5683,6 +5802,7 @@ so= SMR00411
 so= SMR00476
 so= SMR00733
 so= SMR01280
+en= Mass graves
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00732
@@ -5693,6 +5813,7 @@ so= SMR00467
 so= SMR00579
 so= SMR00643
 so= SMR00810
+en= Mass media
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00733
@@ -5704,20 +5825,19 @@ so= SMR00658
 so= SMR00731
 so= SMR00983
 so= SMR01280
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00734
-te= Master thesis NCHR
+en= Massacres
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00735
 te= Maternal health
 so= SMR00736
+en= Maternal health
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00736
 te= Maternal mortality
 so= SMR00735
+en= Maternal mortality
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00737
@@ -5725,6 +5845,7 @@ te= Maternity leave
 so= SMR00123
 so= SMR00931
 so= SMR01300
+en= Maternity leave
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00738
@@ -5734,20 +5855,14 @@ so= SMR00313
 so= SMR00728
 so= SMR01066
 so= SMR01169
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00739
-te= Mauritania
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00740
-te= Mauritius
+en= Matrimonial property
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00741
 te= Mediation
 so= SMR00044
 so= SMR00182
+en= Mediation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00742
@@ -5765,6 +5880,7 @@ so= SMR00832
 so= SMR00861
 so= SMR00886
 so= SMR00962
+en= Medical ethics
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00743
@@ -5778,15 +5894,17 @@ so= SMR00962
 so= SMR00964
 so= SMR01074
 so= SMR01214
+en= Medical experimentation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00744
 te= Medical screening
-bf= Medical testing
 so= SMR00192
 so= SMR00171
 so= SMR00509
 so= SMR01064
+en= Medical screening
+en= Medical testing
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00745
@@ -5801,25 +5919,29 @@ so= SMR00962
 so= SMR01025
 so= SMR01062
 so= SMR01306
+en= Medical treatment
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00746
 te= Men
+en= Men
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00747
 te= Mental disabilities
 so= SMR00300
 so= SMR00875
+en= Mental disabilities
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00748
 te= Mental disorder
-bf= Mental illness
 so= SMR00586
 so= SMR00587
 so= SMR00875
 so= SMR00962
+en= Mental disorder
+en= Mental illness
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00749
@@ -5828,6 +5950,7 @@ so= SMR00750
 so= SMR00875
 so= SMR00962
 so= SMR00966
+en= Mental health
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00750
@@ -5837,6 +5960,7 @@ so= SMR00587
 so= SMR00748
 so= SMR00875
 so= SMR00962
+en= Mental health facilities
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00751
@@ -5844,18 +5968,7 @@ te= Mercenaries
 so= SMR00047
 so= SMR00048
 so= SMR00854
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00752
-te= Methods
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00753
-te= Mexico
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00754
-te= Middle East
+en= Mercenaries
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00755
@@ -5872,6 +5985,7 @@ so= SMR01029
 so= SMR01054
 so= SMR01057
 so= SMR01076
+en= Migrant workers
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00756
@@ -5883,12 +5997,14 @@ so= SMR00547
 so= SMR00598
 so= SMR00615
 so= SMR00923
+en= Migration
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00757
 te= Militarism
 so= SMR00758
 so= SMR00848
+en= Militarism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00758
@@ -5899,6 +6015,7 @@ so= SMR00759
 so= SMR00760
 so= SMR00761
 so= SMR00763
+en= Militarization
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00759
@@ -5911,6 +6028,7 @@ so= SMR00760
 so= SMR00758
 so= SMR00788
 so= SMR01201
+en= Military aid
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00760
@@ -5922,6 +6040,7 @@ so= SMR00759
 so= SMR00761
 so= SMR00788
 so= SMR00792
+en= Military alliances
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00761
@@ -5930,6 +6049,7 @@ so= SMR00047
 so= SMR00760
 so= SMR00765
 so= SMR00767
+en= Military bases
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00762
@@ -5938,6 +6058,7 @@ so= SMR00047
 so= SMR00219
 so= SMR00729
 so= SMR00767
+en= Military courts
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00763
@@ -5947,11 +6068,11 @@ so= SMR00729
 so= SMR00765
 so= SMR00768
 so= SMR01174
+en= Military government
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00764
 te= Military intervention
-bf= Armed intervention
 so= SMR00046
 so= SMR00047
 so= SMR00451
@@ -5959,6 +6080,8 @@ so= SMR00541
 so= SMR00765
 so= SMR00768
 so= SMR01262
+en= Military intervention
+en= Armed intervention
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00765
@@ -5970,16 +6093,19 @@ so= SMR00729
 so= SMR00763
 so= SMR00764
 so= SMR01174
+en= Military occupation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00766
 te= Military operations
+en= Military operations
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00767
 te= Military personnel
 so= SMR00219
 so= SMR00769
+en= Military personnel
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00768
@@ -5994,6 +6120,7 @@ so= SMR00854
 so= SMR01023
 so= SMR01101
 so= SMR01177
+en= Military repression
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00769
@@ -6003,6 +6130,7 @@ so= SMR00190
 so= SMR00271
 so= SMR00767
 so= SMR00788
+en= Military service
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00770
@@ -6019,6 +6147,7 @@ so= SMR00782
 so= SMR00876
 so= SMR01097
 so= SMR01111
+en= Minorities
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00771
@@ -6029,11 +6158,11 @@ so= SMR00708
 so= SMR00772
 so= SMR00839
 so= SMR01052
+en= Minority language education rights
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00772
 te= Minority languages
-bf= Heritage languages
 so= SMR00240
 so= SMR00241
 so= SMR00246
@@ -6042,47 +6171,32 @@ so= SMR00678
 so= SMR00679
 so= SMR00708
 so= SMR00782
+en= Minority languages
+en= Heritage languages
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00773
 te= Missing persons
-bf= Disappeared persons
-bf= Enforced disappearances
-bf= Forced disappearances
 so= SMR00290
 so= SMR00120
 so= SMR00411
 so= SMR00658
 so= SMR01059
 so= SMR01074
+en= Missing persons
+en= Disappeared persons
+en= Enforced disappearances
+en= Forced disappearances
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00774
 te= Modernization
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00775
-te= Moldova, Republic of
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00776
-te= Mongolia
+en= Modernization
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00777
 te= Monitoring
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00778
-te= Montenegro
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00779
-te= Morocco
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00780
-te= Mozambique
+en= Monitoring
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00781
@@ -6090,6 +6204,7 @@ te= Multicultural education
 so= SMR00532
 so= SMR00782
 so= SMR00981
+en= Multicultural education
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00782
@@ -6105,30 +6220,31 @@ so= SMR00770
 so= SMR00781
 so= SMR00981
 so= SMR01016
+en= Multiculturalism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00783
 te= Multilateral aid
 so= SMR00078
+en= Multilateral aid
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00784
 te= Muslims
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00785
-te= Namibia
+en= Muslims
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00786
 te= Narcoterrorism
 so= SMR00327
 so= SMR00914
+en= Narcoterrorism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00787
 te= National courts
 so= SMR00318
+en= National courts
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00788
@@ -6143,14 +6259,16 @@ so= SMR00761
 so= SMR00767
 so= SMR00769
 so= SMR00792
+en= National defence
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00789
 te= National human rights institutions
-bf= National institutions for the protection and promotion of human rights
 so= SMR00318
 so= SMR00316
 so= SMR01178
+en= National human rights institutions
+en= National institutions for the protection and promotion of human rights
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00790
@@ -6161,6 +6279,7 @@ so= SMR00533
 so= SMR00697
 so= SMR00707
 so= SMR01008
+en= National law
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00791
@@ -6177,6 +6296,7 @@ so= SMR01035
 so= SMR01070
 so= SMR01105
 so= SMR01256
+en= National liberation movements
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00792
@@ -6190,6 +6310,7 @@ so= SMR00760
 so= SMR00788
 so= SMR01101
 so= SMR01174
+en= National security
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00793
@@ -6203,6 +6324,7 @@ so= SMR01105
 so= SMR01097
 so= SMR01111
 so= SMR01308
+en= Nationalism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00794
@@ -6216,6 +6338,7 @@ so= SMR00770
 so= SMR00793
 so= SMR00798
 so= SMR01041
+en= Nationality
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00795
@@ -6225,6 +6348,7 @@ so= SMR00949
 so= SMR00970
 so= SMR01049
 so= SMR01066
+en= Nationalization
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00796
@@ -6235,12 +6359,14 @@ so= SMR00724
 so= SMR00916
 so= SMR01039
 so= SMR01293
+en= Natural disasters
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00797
 te= Natural resources
 so= SMR00987
 so= SMR01049
+en= Natural resources
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00798
@@ -6248,6 +6374,7 @@ te= Naturalization
 so= SMR00144
 so= SMR00794
 so= SMR01041
+en= Naturalization
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00799
@@ -6257,6 +6384,7 @@ so= SMR00427
 so= SMR00793
 so= SMR00984
 so= SMR01218
+en= Nazism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00800
@@ -6266,6 +6394,7 @@ so= SMR00158
 so= SMR00182
 so= SMR00741
 so= SMR00866
+en= Negotiation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00801
@@ -6277,51 +6406,45 @@ so= SMR00759
 so= SMR00820
 so= SMR01228
 so= SMR01239
+en= Neo-colonialism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00802
 te= Neo-conservatism
+en= Neo-conservatism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00803
 te= Neo-liberalism
 so= SMR00949
 so= SMR01183
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00804
-te= Nepal
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00805
-te= Netherlands
+en= Neo-liberalism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00806
 te= Networking
 so= SMR00616
 so= SMR00812
+en= Networking
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00807
 te= New International Economic Order
-bf= NIEO
 so= SMR00276
 so= SMR00340
 so= SMR00602
 so= SMR00688
 so= SMR00823
 so= SMR01050
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00808
-te= New Zealand
+en= New International Economic Order
+en= NIEO
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00809
 te= Newborn children
 so= SMR00578
 so= SMR01067
+en= Newborn children
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00810
@@ -6333,6 +6456,7 @@ so= SMR00467
 so= SMR00579
 so= SMR00643
 so= SMR00732
+en= News
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00811
@@ -6340,12 +6464,11 @@ te= Newspapers
 so= SMR00467
 so= SMR00579
 so= SMR00643
+en= Newspapers
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00812
 te= NGOs
-bf= Non-governmental organizations
-bf= Non-profit organizations
 so= SMR00150
 so= SMR00459
 so= SMR00471
@@ -6353,40 +6476,34 @@ so= SMR00595
 so= SMR00713
 so= SMR00806
 so= SMR01139
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00813
-te= Nicaragua
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00814
-te= Niger
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00815
-te= Nigeria
+en= NGOs
+en= Non-governmental organizations
+en= Non-profit organizations
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00816
 te= Nomadic peoples
-bf= Pastoral peoples
 so= SMR00462
 so= SMR00598
+en= Nomadic peoples
+en= Pastoral peoples
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00817
 te= Non-citizens
 so= SMR00029
+en= Non-citizens
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00818
 te= Non-international armed conflicts
-bf= Internal armed conflicts
 so= SMR00048
 so= SMR00391
 so= SMR00791
 so= SMR01070
 so= SMR01105
+en= Non-international armed conflicts
+en= Internal armed conflicts
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00819
@@ -6397,6 +6514,7 @@ so= SMR00446
 so= SMR00996
 so= SMR01000
 so= SMR01028
+en= Non-refoulement
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00820
@@ -6408,14 +6526,12 @@ so= SMR00801
 so= SMR01105
 so= SMR01106
 so= SMR01239
+en= Non-self governing territories
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00821
 te= Non-wage benefits
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00822
-te= Nordic countries
+en= Non-wage benefits
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00823
@@ -6427,30 +6543,12 @@ so= SMR00602
 so= SMR00622
 so= SMR00688
 so= SMR00807
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00824
-te= Northern Africa
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00825
-te= Northern America
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00826
-te= Northern Europe
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00827
-te= Northern Ireland [United Kingdom]
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00828
-te= Norway
+en= North-South dialogue
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00829
 te= Norwegian
+en= Norwegian
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00830
@@ -6459,6 +6557,7 @@ so= SMR00502
 so= SMR00724
 so= SMR00831
 so= SMR01039
+en= Nuclear energy
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00831
@@ -6467,6 +6566,7 @@ so= SMR00051
 so= SMR00083
 so= SMR00119
 so= SMR00291
+en= Nuclear weapons
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00832
@@ -6475,16 +6575,19 @@ so= SMR00506
 so= SMR00750
 so= SMR00833
 so= SMR00886
+en= Nurses
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00833
 te= Nursing homes
 so= SMR00587
 so= SMR00861
+en= Nursing homes
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00834
 te= Nyalali Commission
+en= Nyalali Commission
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00835
@@ -6493,25 +6596,19 @@ so= SMR00916
 so= SMR01039
 so= SMR01055
 so= SMR01089
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00836
-te= Occupied Palestinian territory
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00837
-te= Oceania
+en= Occupational health and safety
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00838
 te= Official development assistance
-bf= ODA
 so= SMR00278
 so= SMR00279
 so= SMR00451
 so= SMR00452
 so= SMR00602
 so= SMR00605
+en= Official development assistance
+en= ODA
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00839
@@ -6522,6 +6619,7 @@ so= SMR00677
 so= SMR00678
 so= SMR00679
 so= SMR00708
+en= Official languages
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00840
@@ -6529,6 +6627,7 @@ te= Ombudsman
 so= SMR00179
 so= SMR00318
 so= SMR00530
+en= Ombudsman
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00841
@@ -6538,11 +6637,13 @@ so= SMR00900
 so= SMR00902
 so= SMR00905
 so= SMR00908
+en= One-party systems
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00842
 te= Opinion polls
 so= SMR00968
+en= Opinion polls
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00843
@@ -6551,53 +6652,39 @@ so= SMR00048
 so= SMR00791
 so= SMR00902
 so= SMR00903
+en= Opposition leaders
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00844
 te= Optional protocols
+en= Optional protocols
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00845
 te= Organized crime
+en= Organized crime
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00846
 te= Orthodox Church
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00847
-te= Pacific region
+en= Orthodox Church
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00848
 te= Pacifism
-bf= Antimilitarism
 so= SMR00190
 so= SMR00291
 so= SMR00351
 so= SMR00757
 so= SMR00865
 so= SMR01063
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00849
-te= Pakistan
+en= Pacifism
+en= Antimilitarism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00850
 te= Palestinians
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00851
-te= Panama
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00852
-te= Papua New Guinea
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00853
-te= Paraguay
+en= Palestinians
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00854
@@ -6608,6 +6695,7 @@ so= SMR00768
 so= SMR00890
 so= SMR01101
 so= SMR01177
+en= Paramilitary forces
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00855
@@ -6615,16 +6703,18 @@ te= Pardon
 so= SMR00294
 so= SMR00228
 so= SMR00559
+en= Pardon
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00856
 te= Parental rights
-bf= Parental authority
 so= SMR00124
 so= SMR00135
 so= SMR00443
 so= SMR00857
 so= SMR01024
+en= Parental rights
+en= Parental authority
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00857
@@ -6640,6 +6730,7 @@ so= SMR00422
 so= SMR00423
 so= SMR00856
 so= SMR01038
+en= Parents and children
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00858
@@ -6647,19 +6738,22 @@ te= Parliament
 so= SMR00699
 so= SMR00859
 so= SMR00860
+en= Parliament
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00859
 te= Parliamentarians
-bf= Members of Parliament
 so= SMR00699
 so= SMR00908
+en= Parliamentarians
+en= Members of Parliament
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00860
 te= Parliamentary committees
 so= SMR00168
 so= SMR00630
+en= Parliamentary committees
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00861
@@ -6679,6 +6773,7 @@ so= SMR00962
 so= SMR01055
 so= SMR01062
 so= SMR01306
+en= Patients
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00862
@@ -6687,6 +6782,7 @@ so= SMR00371
 so= SMR00431
 so= SMR00917
 so= SMR01222
+en= Patriarchism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00863
@@ -6694,6 +6790,7 @@ te= Pay equity
 so= SMR00307
 so= SMR00369
 so= SMR01300
+en= Pay equity
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00864
@@ -6705,42 +6802,49 @@ so= SMR00848
 so= SMR00865
 so= SMR00866
 so= SMR01063
+en= Peace
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00865
 te= Peace movements
-bf= Pacifist movements
 so= SMR00291
 so= SMR00351
 so= SMR00489
 so= SMR00812
 so= SMR00848
 so= SMR01063
+en= Peace movements
+en= Pacifist movements
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00866
 te= Peace negotiations
-bf= Peace talks
 so= SMR00046
 so= SMR00050
 so= SMR00115
 so= SMR01063
+en= Peace negotiations
+en= Peace talks
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00867
 te= Peacebuilding
+en= Peacebuilding
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00868
 te= Peacekeeping
+en= Peacekeeping
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00869
 te= Peacekeeping forces
+en= Peacekeeping forces
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00870
 te= Peacekeeping missions
+en= Peacekeeping missions
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00871
@@ -6751,6 +6855,7 @@ so= SMR00674
 so= SMR00872
 so= SMR01080
 so= SMR01082
+en= Peasant movements
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00872
@@ -6765,6 +6870,7 @@ so= SMR01080
 so= SMR01081
 so= SMR01082
 so= SMR01083
+en= Peasants
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00873
@@ -6774,12 +6880,11 @@ so= SMR00171
 so= SMR00297
 so= SMR00517
 so= SMR00861
+en= People with AIDS
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00874
 te= People with disabilities
-bf= Disabled persons
-bf= Handicapped persons
 so= SMR00003
 so= SMR00295
 so= SMR00297
@@ -6791,18 +6896,22 @@ so= SMR00747
 so= SMR00861
 so= SMR01135
 so= SMR01306
+en= People with disabilities
+en= Disabled persons
+en= Handicapped persons
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00875
 te= People with mental disabilities
-bf= Mentally disabled persons
-bf= Mentally ill persons
-bf= Mentally retarded persons
 so= SMR00300
 so= SMR00586
 so= SMR00587
 so= SMR00748
 so= SMR00962
+en= People with mental disabilities
+en= Mentally disabled persons
+en= Mentally ill persons
+en= Mentally retarded persons
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00876
@@ -6810,19 +6919,18 @@ te= Peoples' rights
 so= SMR00259
 so= SMR01049
 so= SMR01070
+en= Peoples' rights
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00877
 te= Performing arts
 so= SMR00094
+en= Performing arts
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00878
 te= Persecution
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00879
-te= Peru
+en= Persecution
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00880
@@ -6831,30 +6939,28 @@ so= SMR00179
 so= SMR00593
 so= SMR00609
 so= SMR00620
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00881
-te= Philippines
+en= Petitions
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00882
 te= Philosophy
+en= Philosophy
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00883
 te= Philosophy of human rights
 so= SMR00536
+en= Philosophy of human rights
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00884
 te= Philosophy of law
-bf= Legal philosophy
+en= Philosophy of law
+en= Legal philosophy
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00885
 te= Physical harm
-bf= Bodily harm
-bf= Physical injuries
 so= SMR00003
 so= SMR00204
 so= SMR00227
@@ -6865,6 +6971,9 @@ so= SMR01074
 so= SMR01118
 so= SMR01214
 so= SMR01222
+en= Physical harm
+en= Bodily harm
+en= Physical injuries
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00886
@@ -6874,6 +6983,7 @@ so= SMR00742
 so= SMR00745
 so= SMR00750
 so= SMR00832
+en= Physicians
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00887
@@ -6882,6 +6992,7 @@ so= SMR00264
 so= SMR00360
 so= SMR00901
 so= SMR00991
+en= Plebiscites
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00888
@@ -6890,15 +7001,11 @@ so= SMR00243
 so= SMR00691
 so= SMR00782
 so= SMR00905
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00889
-te= Poland
+en= Pluralism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00890
 te= Police
-bf= Law enforcement officials
 so= SMR00222
 so= SMR00591
 so= SMR00854
@@ -6909,6 +7016,8 @@ so= SMR00894
 so= SMR00969
 so= SMR00971
 so= SMR01101
+en= Police
+en= Law enforcement officials
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00891
@@ -6926,6 +7035,7 @@ so= SMR01214
 so= SMR01259
 so= SMR01262
 so= SMR01177
+en= Police brutality
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00892
@@ -6939,6 +7049,7 @@ so= SMR00891
 so= SMR00893
 so= SMR01214
 so= SMR01262
+en= Police custody
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00893
@@ -6955,16 +7066,19 @@ so= SMR01058
 so= SMR01205
 so= SMR01262
 so= SMR01294
+en= Police investigation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00894
 te= Police training
 so= SMR00532
 so= SMR00890
+en= Police training
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00895
 te= Policy
+en= Policy
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00896
@@ -6972,10 +7086,12 @@ te= Policy-making
 so= SMR00487
 so= SMR00901
 so= SMR00920
+en= Policy-making
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00897
 te= Political institutions
+en= Political institutions
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00898
@@ -6983,6 +7099,7 @@ te= Political movements
 so= SMR00900
 so= SMR00919
 so= SMR01139
+en= Political movements
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00899
@@ -6992,6 +7109,7 @@ so= SMR00464
 so= SMR00906
 so= SMR00913
 so= SMR00914
+en= Political offences
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00900
@@ -7011,6 +7129,7 @@ so= SMR00903
 so= SMR00905
 so= SMR00911
 so= SMR00914
+en= Political opposition
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00901
@@ -7028,6 +7147,7 @@ so= SMR00908
 so= SMR00991
 so= SMR01075
 so= SMR01297
+en= Political participation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00902
@@ -7040,6 +7160,7 @@ so= SMR00901
 so= SMR00905
 so= SMR00908
 so= SMR00911
+en= Political parties
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00903
@@ -7051,31 +7172,36 @@ so= SMR00900
 so= SMR00911
 so= SMR00913
 so= SMR00914
+en= Political persecution
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00904
 te= Political philosophy
+en= Political philosophy
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00905
 te= Political pluralism
-bf= Multi-party systems
 so= SMR00262
 so= SMR00841
 so= SMR00908
+en= Political pluralism
+en= Multi-party systems
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00906
 te= Political prisoners
-bf= Political detainees
 so= SMR00464
 so= SMR00899
 so= SMR00903
 so= SMR00913
+en= Political prisoners
+en= Political detainees
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00907
 te= Political reforms
+en= Political reforms
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00908
@@ -7088,6 +7214,7 @@ so= SMR00859
 so= SMR00901
 so= SMR00902
 so= SMR00905
+en= Political representation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00909
@@ -7097,10 +7224,12 @@ so= SMR00900
 so= SMR00913
 so= SMR00914
 so= SMR01023
+en= Political repression
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00910
 te= Political science
+en= Political science
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00911
@@ -7112,11 +7241,13 @@ so= SMR00903
 so= SMR00909
 so= SMR00912
 so= SMR00914
+en= Political situation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00912
 te= Political systems
 so= SMR00546
+en= Political systems
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00913
@@ -7129,6 +7260,7 @@ so= SMR00906
 so= SMR00909
 so= SMR00941
 so= SMR01234
+en= Political trials
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00914
@@ -7145,10 +7277,12 @@ so= SMR01146
 so= SMR01174
 so= SMR01177
 so= SMR01204
+en= Political violence
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00915
 te= Politics
+en= Politics
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00916
@@ -7159,6 +7293,7 @@ so= SMR00724
 so= SMR00796
 so= SMR00966
 so= SMR01039
+en= Pollution
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00917
@@ -7167,10 +7302,7 @@ so= SMR00240
 so= SMR00727
 so= SMR00862
 so= SMR01222
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00918
-te= Polynesia
+en= Polygamy
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00919
@@ -7181,6 +7313,7 @@ so= SMR00812
 so= SMR00865
 so= SMR00871
 so= SMR00920
+en= Popular movements
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00920
@@ -7193,6 +7326,7 @@ so= SMR00896
 so= SMR00901
 so= SMR00919
 so= SMR01133
+en= Popular participation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00921
@@ -7200,6 +7334,7 @@ te= Population control
 so= SMR00390
 so= SMR00421
 so= SMR00923
+en= Population control
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00922
@@ -7207,6 +7342,7 @@ te= Population dynamics
 so= SMR00086
 so= SMR00669
 so= SMR00921
+en= Population dynamics
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00923
@@ -7219,6 +7355,7 @@ so= SMR00476
 so= SMR00598
 so= SMR00770
 so= SMR01114
+en= Population transfers
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00924
@@ -7228,19 +7365,18 @@ so= SMR00461
 so= SMR00501
 so= SMR00959
 so= SMR00956
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00925
-te= Portugal
+en= Pornography
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00926
 te= Post-conflict reconstruction
+en= Post-conflict reconstruction
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00927
 te= Post-secondary education
 so= SMR01254
+en= Post-secondary education
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00928
@@ -7263,16 +7399,19 @@ so= SMR01143
 so= SMR01144
 so= SMR01258
 so= SMR01286
+en= Poverty
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00929
 te= Power
 so= SMR00371
 so= SMR01268
+en= Power
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00930
 te= Pre-trial procedure
+en= Pre-trial procedure
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00931
@@ -7284,6 +7423,7 @@ so= SMR00932
 so= SMR01024
 so= SMR01025
 so= SMR01295
+en= Pregnancy
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00932
@@ -7294,6 +7434,7 @@ so= SMR00931
 so= SMR01024
 so= SMR01025
 so= SMR01067
+en= Pregnant women
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00933
@@ -7306,12 +7447,14 @@ so= SMR01116
 so= SMR01181
 so= SMR01265
 so= SMR01308
+en= Prejudice
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00934
 te= Presumption of innocence
 so= SMR00011
 so= SMR00402
+en= Presumption of innocence
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00935
@@ -7319,15 +7462,18 @@ te= Preventive medicine
 so= SMR00506
 so= SMR00966
 so= SMR01055
+en= Preventive medicine
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00936
 te= Primary education
 so= SMR01098
+en= Primary education
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00937
 te= Primary schools
+en= Primary schools
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00938
@@ -7343,12 +7489,14 @@ so= SMR00562
 so= SMR01034
 so= SMR01214
 so= SMR01298
+en= Prison conditions
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00939
 te= Prison personnel
 so= SMR00207
 so= SMR00943
+en= Prison personnel
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00940
@@ -7363,6 +7511,7 @@ so= SMR00938
 so= SMR00943
 so= SMR01215
 so= SMR01274
+en= Prisoners
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00941
@@ -7371,6 +7520,7 @@ so= SMR00460
 so= SMR00464
 so= SMR00913
 so= SMR00990
+en= Prisoners of conscience
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00942
@@ -7378,11 +7528,11 @@ te= Prisoners of war
 so= SMR00046
 so= SMR00610
 so= SMR01282
+en= Prisoners of war
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00943
 te= Prisons
-bf= Penitentiaries
 so= SMR00181
 so= SMR00275
 so= SMR00940
@@ -7391,10 +7541,13 @@ so= SMR00892
 so= SMR00906
 so= SMR00939
 so= SMR00990
+en= Prisons
+en= Penitentiaries
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00944
 te= Privacy
+en= Privacy
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00945
@@ -7402,15 +7555,18 @@ te= Private communications
 so= SMR00364
 so= SMR01048
 so= SMR01064
+en= Private communications
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00946
 te= Private law
+en= Private law
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00947
 te= Private schools
 so= SMR00972
+en= Private schools
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00948
@@ -7418,6 +7574,7 @@ te= Private sector
 so= SMR00206
 so= SMR00973
 so= SMR00324
+en= Private sector
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00949
@@ -7429,6 +7586,7 @@ so= SMR00948
 so= SMR00970
 so= SMR01033
 so= SMR01066
+en= Privatization
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00950
@@ -7436,6 +7594,7 @@ te= Professional associations
 so= SMR00459
 so= SMR00812
 so= SMR01219
+en= Professional associations
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00951
@@ -7446,6 +7605,7 @@ so= SMR00254
 so= SMR01048
 so= SMR01095
 so= SMR01265
+en= Professional ethics
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00952
@@ -7453,6 +7613,7 @@ te= Promotion of human rights
 so= SMR00351
 so= SMR00532
 so= SMR00539
+en= Promotion of human rights
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00953
@@ -7466,12 +7627,14 @@ so= SMR00795
 so= SMR00949
 so= SMR00970
 so= SMR01066
+en= Property
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00954
 te= Prosecution
 so= SMR00955
 so= SMR01037
+en= Prosecution
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00955
@@ -7479,35 +7642,41 @@ te= Prosecutors
 so= SMR00229
 so= SMR00687
 so= SMR00954
+en= Prosecutors
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00956
 te= Prostitution
 so= SMR00924
 so= SMR01223
+en= Prostitution
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00957
 te= Protection
+en= Protection
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00958
 te= Protection of human rights
+en= Protection of human rights
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00959
 te= Protection of public morality
-bf= Community morality standards
-bf= Protection of public morals
 so= SMR00116
 so= SMR00924
 so= SMR00968
 so= SMR00969
 so= SMR01265
+en= Protection of public morality
+en= Community morality standards
+en= Protection of public morals
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00960
 te= Protestantism
+en= Protestantism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00961
@@ -7517,6 +7686,7 @@ so= SMR00463
 so= SMR00914
 so= SMR01073
 so= SMR01146
+en= Protests
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00962
@@ -7533,6 +7703,7 @@ so= SMR00875
 so= SMR00964
 so= SMR01074
 so= SMR01214
+en= Psychiatric abuse
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00963
@@ -7543,6 +7714,7 @@ so= SMR00750
 so= SMR00861
 so= SMR00875
 so= SMR00962
+en= Psychiatry
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00964
@@ -7554,10 +7726,12 @@ so= SMR00500
 so= SMR00962
 so= SMR01074
 so= SMR01214
+en= Psychological harm
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00965
 te= Public administration
+en= Public administration
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00966
@@ -7571,6 +7745,7 @@ so= SMR00916
 so= SMR01039
 so= SMR01055
 so= SMR01062
+en= Public health
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00967
@@ -7580,6 +7755,7 @@ so= SMR00408
 so= SMR00707
 so= SMR00968
 so= SMR00969
+en= Public interest
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00968
@@ -7588,11 +7764,11 @@ so= SMR00266
 so= SMR00842
 so= SMR00959
 so= SMR00967
+en= Public opinion
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00969
 te= Public order
-bf= Law and order
 so= SMR00146
 so= SMR00222
 so= SMR00266
@@ -7605,6 +7781,8 @@ so= SMR00967
 so= SMR00971
 so= SMR01146
 so= SMR01174
+en= Public order
+en= Law and order
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00970
@@ -7614,6 +7792,7 @@ so= SMR00795
 so= SMR00949
 so= SMR01049
 so= SMR01066
+en= Public property
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00971
@@ -7621,11 +7800,13 @@ te= Public safety
 so= SMR00222
 so= SMR00890
 so= SMR00969
+en= Public safety
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00972
 te= Public schools
 so= SMR00947
+en= Public schools
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00973
@@ -7634,13 +7815,15 @@ so= SMR00485
 so= SMR00948
 so= SMR00974
 so= SMR00975
+en= Public sector
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00974
 te= Public servants
-bf= Civil servants
 so= SMR00485
 so= SMR00975
+en= Public servants
+en= Civil servants
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00975
@@ -7649,27 +7832,27 @@ so= SMR00485
 so= SMR00948
 so= SMR00974
 so= SMR00973
+en= Public service
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00976
 te= Publication ban
-bf= Banning
 so= SMR00007
 so= SMR00116
 so= SMR00467
 so= SMR01064
+en= Publication ban
+en= Banning
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00977
 te= Punishment
-tio= 2016-01-26T13:37:12Z
-
-id= SMR00978
-te= Qatar
+en= Punishment
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00979
 te= Quality control
+en= Quality control
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00980
@@ -7680,6 +7863,7 @@ so= SMR00528
 so= SMR01045
 so= SMR01060
 so= SMR01074
+en= Quality of life
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00981
@@ -7694,12 +7878,11 @@ so= SMR00982
 so= SMR00984
 so= SMR00986
 so= SMR01104
+en= Race relations
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00982
 te= Racial discrimination
-bf= Discrimination based on race
-bf= Race discrimination
 so= SMR00296
 so= SMR00301
 so= SMR00392
@@ -7714,6 +7897,9 @@ so= SMR00984
 so= SMR00985
 so= SMR00986
 so= SMR01104
+en= Racial discrimination
+en= Discrimination based on race
+en= Race discrimination
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00983
@@ -7728,6 +7914,7 @@ so= SMR00984
 so= SMR00985
 so= SMR00986
 so= SMR01259
+en= Racial violence
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00984
@@ -7740,6 +7927,7 @@ so= SMR00981
 so= SMR00982
 so= SMR00985
 so= SMR00986
+en= Racism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00985
@@ -7754,6 +7942,7 @@ so= SMR00982
 so= SMR00983
 so= SMR00984
 so= SMR00986
+en= Racist activities
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00986
@@ -7763,6 +7952,7 @@ so= SMR00501
 so= SMR00658
 so= SMR00983
 so= SMR01259
+en= Racist incidents
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00987
@@ -7771,6 +7961,7 @@ so= SMR00261
 so= SMR00374
 so= SMR01049
 so= SMR01293
+en= Rainforests
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00988
@@ -7778,10 +7969,12 @@ te= Ratifications
 so= SMR00600
 so= SMR00608
 so= SMR01027
+en= Ratifications
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00989
 te= Reconciliation
+en= Reconciliation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00990
@@ -7794,6 +7987,7 @@ so= SMR00666
 so= SMR00906
 so= SMR00941
 so= SMR00943
+en= Reeducation camps
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00991
@@ -7802,6 +7996,7 @@ so= SMR00264
 so= SMR00360
 so= SMR00887
 so= SMR00901
+en= Referendums
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00992
@@ -7809,6 +8004,7 @@ te= Reform
 so= SMR00023
 so= SMR00686
 so= SMR01131
+en= Reform
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00993
@@ -7820,16 +8016,19 @@ so= SMR00996
 so= SMR01000
 so= SMR01001
 so= SMR01028
+en= Refugee camps
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00994
 te= Refugee children
 so= SMR00422
 so= SMR00549
+en= Refugee children
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00995
 te= Refugee law
+en= Refugee law
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00996
@@ -7842,20 +8041,24 @@ so= SMR00998
 so= SMR01000
 so= SMR01028
 so= SMR01021
+en= Refugee protection
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00997
 te= Refugee status
 so= SMR00998
+en= Refugee status
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00998
 te= Refugee status determination process
+en= Refugee status determination process
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00999
 te= Refugee women
 so= SMR00994
+en= Refugee women
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01000
@@ -7877,6 +8080,7 @@ so= SMR01029
 so= SMR01071
 so= SMR01179
 so= SMR01231
+en= Refugees
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01001
@@ -7885,6 +8089,7 @@ so= SMR00016
 so= SMR00553
 so= SMR00993
 so= SMR00998
+en= Refugees in detention
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01002
@@ -7892,49 +8097,56 @@ te= Regional autonomy
 so= SMR00714
 so= SMR01105
 so= SMR01106
+en= Regional autonomy
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01003
 te= Regional cooperation
+en= Regional cooperation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01004
 te= Regional human rights instruments
+en= Regional human rights instruments
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01005
 te= Regional human rights protection mechanisms
 so= SMR00609
 so= SMR01006
+en= Regional human rights protection mechanisms
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01006
 te= Regional IGOs
 so= SMR00611
 so= SMR01005
+en= Regional IGOs
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01007
 te= Regional security
 so= SMR00621
 so= SMR00792
+en= Regional security
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01008
 te= Regulations
 so= SMR00015
 so= SMR00697
+en= Regulations
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01009
 te= Rehabilitation
 so= SMR01135
 so= SMR01275
+en= Rehabilitation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01010
 te= Religions
-bf= Belief systems
 so= SMR00465
 so= SMR01011
 so= SMR01012
@@ -7942,6 +8154,8 @@ so= SMR01013
 so= SMR01015
 so= SMR01017
 so= SMR01019
+en= Religions
+en= Belief systems
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01011
@@ -7953,21 +8167,23 @@ so= SMR00629
 so= SMR01016
 so= SMR01017
 so= SMR01018
+en= Religious conflicts
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01012
 te= Religious discrimination
-bf= Discrimination based on conviction
-bf= Discrimination based on creed
-bf= Discrimination based on religion
-bf= Discrimination based on religious activity
-bf= Discrimination based on religious belief
 so= SMR00039
 so= SMR00383
 so= SMR00465
 so= SMR00629
 so= SMR01016
 so= SMR01018
+en= Religious discrimination
+en= Discrimination based on conviction
+en= Discrimination based on creed
+en= Discrimination based on religion
+en= Discrimination based on religious activity
+en= Discrimination based on religious belief
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01013
@@ -7981,10 +8197,12 @@ so= SMR00532
 so= SMR01016
 so= SMR01019
 so= SMR01092
+en= Religious education
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01014
 te= Religious institutions
+en= Religious institutions
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01015
@@ -7993,11 +8211,11 @@ so= SMR00142
 so= SMR01016
 so= SMR01017
 so= SMR01220
+en= Religious leaders
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01016
 te= Religious minorities
-bf= Religious groups
 so= SMR00142
 so= SMR00246
 so= SMR00268
@@ -8009,6 +8227,8 @@ so= SMR01013
 so= SMR01015
 so= SMR01017
 so= SMR01018
+en= Religious minorities
+en= Religious groups
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01017
@@ -8017,6 +8237,7 @@ so= SMR00470
 so= SMR01011
 so= SMR01015
 so= SMR01016
+en= Religious movements
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01018
@@ -8028,6 +8249,7 @@ so= SMR01011
 so= SMR01012
 so= SMR01015
 so= SMR01016
+en= Religious persecution
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01019
@@ -8036,10 +8258,12 @@ so= SMR00465
 so= SMR01013
 so= SMR01086
 so= SMR01092
+en= Religious practices
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01020
 te= Religious theories
+en= Religious theories
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01021
@@ -8052,6 +8276,7 @@ so= SMR00615
 so= SMR00819
 so= SMR01000
 so= SMR01057
+en= Repatriation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01022
@@ -8064,17 +8289,18 @@ so= SMR00630
 so= SMR00535
 so= SMR00537
 so= SMR01205
+en= Reports on human rights violations
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01023
 te= Repression methods
 so= SMR00768
 so= SMR00909
+en= Repression methods
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01024
 te= Reproductive rights
-bf= Right to procreate
 so= SMR00002
 so= SMR00085
 so= SMR00421
@@ -8084,6 +8310,8 @@ so= SMR00931
 so= SMR00932
 so= SMR01025
 so= SMR01295
+en= Reproductive rights
+en= Right to procreate
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01025
@@ -8096,10 +8324,12 @@ so= SMR00433
 so= SMR00931
 so= SMR00932
 so= SMR01024
+en= Reproductive technologies
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01026
 te= Research
+en= Research
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01027
@@ -8108,6 +8338,7 @@ so= SMR00270
 so= SMR00600
 so= SMR00608
 so= SMR00707
+en= Reservations
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01028
@@ -8119,6 +8350,7 @@ so= SMR00996
 so= SMR01000
 so= SMR01021
 so= SMR01029
+en= Resettlement
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01029
@@ -8132,6 +8364,7 @@ so= SMR01000
 so= SMR01028
 so= SMR01179
 so= SMR01231
+en= Residence permit
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01030
@@ -8140,6 +8373,7 @@ so= SMR00048
 so= SMR00791
 so= SMR00843
 so= SMR01070
+en= Resistance movements
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01031
@@ -8148,11 +8382,14 @@ so= SMR00205
 so= SMR00230
 so= SMR00571
 so= SMR01175
+en= Responsibility
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01032
 te= Responsibility to protect
+so= SMR001328
 tio= 2016-01-26T13:37:12Z
+tie= 2016-04-19T14:40:23Z
 
 id= SMR01033
 te= Restitution
@@ -8166,6 +8403,7 @@ so= SMR00949
 so= SMR01280
 so= SMR01282
 so= SMR01268
+en= Restitution
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01034
@@ -8175,6 +8413,7 @@ so= SMR00437
 so= SMR00891
 so= SMR00938
 so= SMR01059
+en= Restraint methods
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01035
@@ -8186,6 +8425,7 @@ so= SMR00495
 so= SMR00791
 so= SMR00818
 so= SMR01070
+en= Revolutions
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01036
@@ -8194,6 +8434,7 @@ so= SMR00056
 so= SMR00615
 so= SMR01071
 so= SMR01000
+en= Right of asylum
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01037
@@ -8201,6 +8442,7 @@ te= Right to a fair hearing
 so= SMR00011
 so= SMR00328
 so= SMR00564
+en= Right to a fair hearing
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01038
@@ -8212,11 +8454,11 @@ so= SMR00420
 so= SMR00422
 so= SMR00455
 so= SMR00857
+en= Right to a family
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01039
 te= Right to a healthy environment
-bf= Right to an environment
 so= SMR00374
 so= SMR00375
 so= SMR00502
@@ -8231,11 +8473,14 @@ so= SMR01055
 so= SMR01074
 so= SMR01189
 so= SMR01293
+en= Right to a healthy environment
+en= Right to an environment
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01040
 te= Right to a name
 so= SMR00135
+en= Right to a name
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01041
@@ -8244,6 +8489,7 @@ so= SMR00144
 so= SMR00794
 so= SMR00798
 so= SMR01179
+en= Right to a nationality
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01042
@@ -8253,6 +8499,7 @@ so= SMR00367
 so= SMR00462
 so= SMR01057
 so= SMR01231
+en= Right to a passport
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01043
@@ -8263,6 +8510,7 @@ so= SMR00940
 so= SMR00562
 so= SMR00587
 so= SMR01038
+en= Right to access one's family
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01044
@@ -8274,11 +8522,11 @@ so= SMR00527
 so= SMR00528
 so= SMR00928
 so= SMR01258
+en= Right to adequate housing
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01045
 te= Right to an adequate standard of living
-bf= Right to adequate living standards
 so= SMR00072
 so= SMR00528
 so= SMR00980
@@ -8286,11 +8534,14 @@ so= SMR01044
 so= SMR01053
 so= SMR01055
 so= SMR01072
+en= Right to an adequate standard of living
+en= Right to adequate living standards
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01046
 te= Right to an interpreter
 so= SMR00677
+en= Right to an interpreter
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01047
@@ -8300,6 +8551,7 @@ so= SMR00254
 so= SMR00589
 so= SMR01095
 so= SMR01202
+en= Right to benefit from scientific advancements
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01048
@@ -8310,12 +8562,11 @@ so= SMR00509
 so= SMR00945
 so= SMR00951
 so= SMR01065
+en= Right to confidentiality
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01049
 te= Right to control natural resources
-bf= Right to freely dispose of natural wealth and resources
-bf= Sovereignty over natural resources
 so= SMR00374
 so= SMR00408
 so= SMR00438
@@ -8330,6 +8581,9 @@ so= SMR01066
 so= SMR01105
 so= SMR01189
 so= SMR01203
+en= Right to control natural resources
+en= Right to freely dispose of natural wealth and resources
+en= Sovereignty over natural resources
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01050
@@ -8347,6 +8601,7 @@ so= SMR01049
 so= SMR01133
 so= SMR01189
 so= SMR01296
+en= Right to development
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01051
@@ -8355,11 +8610,11 @@ so= SMR00192
 so= SMR00399
 so= SMR01060
 so= SMR01187
+en= Right to die
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01052
 te= Right to education
-bf= Access to education
 so= SMR00306
 so= SMR00352
 so= SMR00548
@@ -8367,6 +8622,8 @@ so= SMR00771
 so= SMR01166
 so= SMR01275
 so= SMR01299
+en= Right to education
+en= Access to education
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01053
@@ -8382,16 +8639,18 @@ so= SMR00723
 so= SMR00928
 so= SMR01045
 so= SMR01055
+en= Right to food
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01054
 te= Right to gain one's living
-bf= Right to gain one's livelihood
-bf= Right to earn one's living
 so= SMR00379
 so= SMR00370
 so= SMR00561
 so= SMR00669
+en= Right to gain one's living
+en= Right to gain one's livelihood
+en= Right to earn one's living
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01055
@@ -8410,6 +8669,7 @@ so= SMR01039
 so= SMR01062
 so= SMR01074
 so= SMR01089
+en= Right to health
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01056
@@ -8421,12 +8681,11 @@ so= SMR00528
 so= SMR00928
 so= SMR01044
 so= SMR01258
+en= Right to housing
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01057
 te= Right to leave and return
-bf= Right to leave
-bf= Right to return
 so= SMR00213
 so= SMR00367
 so= SMR00462
@@ -8435,11 +8694,13 @@ so= SMR00615
 so= SMR00755
 so= SMR01021
 so= SMR01042
+en= Right to leave and return
+en= Right to leave
+en= Right to return
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01058
 te= Right to legal assistance
-bf= Right to counsel
 so= SMR00008
 so= SMR00011
 so= SMR00053
@@ -8449,12 +8710,12 @@ so= SMR00562
 so= SMR00687
 so= SMR00690
 so= SMR00893
+en= Right to legal assistance
+en= Right to counsel
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01059
 te= Right to liberty
-bf= Right to personal liberty
-bf= Right to physical liberty
 so= SMR00042
 so= SMR00043
 so= SMR00088
@@ -8467,6 +8728,9 @@ so= SMR01034
 so= SMR01113
 so= SMR01126
 so= SMR01127
+en= Right to liberty
+en= Right to personal liberty
+en= Right to physical liberty
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01060
@@ -8478,20 +8742,20 @@ so= SMR00528
 so= SMR00980
 so= SMR01051
 so= SMR01074
+en= Right to life
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01061
 te= Right to marry
-bf= Right to enter into marriage
-bf= Right to marriage
 so= SMR00191
 so= SMR00727
+en= Right to marry
+en= Right to enter into marriage
+en= Right to marriage
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01062
 te= Right to medical care
-bf= Right to health care
-bf= Right to medical assistance
 so= SMR00072
 so= SMR00506
 so= SMR00745
@@ -8500,6 +8764,9 @@ so= SMR00966
 so= SMR01055
 so= SMR01074
 so= SMR01306
+en= Right to medical care
+en= Right to health care
+en= Right to medical assistance
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01063
@@ -8515,11 +8782,11 @@ so= SMR00848
 so= SMR00865
 so= SMR00866
 so= SMR01074
+en= Right to peace
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01064
 te= Right to privacy
-bf= Invasion of privacy
 so= SMR00254
 so= SMR00364
 so= SMR00509
@@ -8527,13 +8794,16 @@ so= SMR00744
 so= SMR00945
 so= SMR00976
 so= SMR01074
+en= Right to privacy
+en= Invasion of privacy
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01065
 te= Right to privacy of one's home
-bf= Inviolability of one's home
 so= SMR00364
 so= SMR01048
+en= Right to privacy of one's home
+en= Inviolability of one's home
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01066
@@ -8546,6 +8816,7 @@ so= SMR00795
 so= SMR00949
 so= SMR00970
 so= SMR01049
+en= Right to property
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01067
@@ -8561,6 +8832,7 @@ so= SMR01072
 so= SMR01074
 so= SMR01143
 so= SMR01306
+en= Right to protection
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01068
@@ -8571,10 +8843,12 @@ so= SMR00229
 so= SMR00235
 so= SMR00402
 so= SMR01107
+en= Right to remain silent
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01069
 te= Right to reply
+en= Right to reply
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01070
@@ -8590,6 +8864,7 @@ so= SMR00876
 so= SMR01035
 so= SMR01105
 so= SMR01256
+en= Right to resist oppression
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01071
@@ -8598,6 +8873,7 @@ so= SMR00056
 so= SMR00615
 so= SMR01036
 so= SMR01000
+en= Right to seek asylum
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01072
@@ -8609,6 +8885,7 @@ so= SMR01067
 so= SMR01130
 so= SMR01143
 so= SMR01286
+en= Right to social security
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01073
@@ -8620,6 +8897,7 @@ so= SMR00670
 so= SMR00961
 so= SMR01219
 so= SMR01303
+en= Right to strike
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01074
@@ -8642,6 +8920,7 @@ so= SMR01063
 so= SMR01064
 so= SMR01067
 so= SMR01214
+en= Right to the security of the person
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01075
@@ -8652,6 +8931,7 @@ so= SMR00362
 so= SMR00365
 so= SMR00901
 so= SMR01297
+en= Right to vote
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01076
@@ -8663,19 +8943,18 @@ so= SMR00755
 so= SMR01054
 so= SMR01245
 so= SMR01300
+en= Right to work
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01077
 te= Roma
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01078
-te= Romania
+en= Roma
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01079
 te= Rule of law
 so= SMR00262
+en= Rule of law
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01080
@@ -8690,12 +8969,14 @@ so= SMR01081
 so= SMR01082
 so= SMR01083
 so= SMR01260
+en= Rural areas
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01081
 te= Rural population
 so= SMR01080
 so= SMR01082
+en= Rural population
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01082
@@ -8708,6 +8989,7 @@ so= SMR00674
 so= SMR00872
 so= SMR01081
 so= SMR01080
+en= Rural poverty
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01083
@@ -8717,14 +8999,7 @@ so= SMR00425
 so= SMR00872
 so= SMR01080
 so= SMR01296
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01084
-te= Russian Federation
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01085
-te= Rwanda
+en= Rural women
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01086
@@ -8733,10 +9008,12 @@ so= SMR00240
 so= SMR00246
 so= SMR00465
 so= SMR01019
+en= Sacred grounds
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01087
 te= Sami
+en= Sami
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01088
@@ -8746,6 +9023,7 @@ so= SMR00450
 so= SMR00452
 so= SMR00453
 so= SMR00622
+en= Sanctions
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01089
@@ -8754,18 +9032,12 @@ so= SMR00323
 so= SMR00507
 so= SMR00835
 so= SMR01055
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01090
-te= Sao Tome and Principe
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01091
-te= Saudi Arabia
+en= Sanitation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01092
 te= School prayers
+en= School prayers
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01093
@@ -8774,6 +9046,7 @@ so= SMR00353
 so= SMR00936
 so= SMR01098
 so= SMR01166
+en= Schools
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01094
@@ -8781,6 +9054,7 @@ te= Science and technology
 so= SMR01047
 so= SMR01095
 so= SMR01202
+en= Science and technology
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01095
@@ -8792,10 +9066,12 @@ so= SMR00590
 so= SMR00951
 so= SMR01047
 so= SMR01254
+en= Scientific freedom
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01096
 te= Search strategies
+en= Search strategies
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01097
@@ -8807,12 +9083,14 @@ so= SMR00876
 so= SMR01105
 so= SMR01111
 so= SMR01203
+en= Secession
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01098
 te= Secondary education
 so= SMR00927
 so= SMR00936
+en= Secondary education
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01099
@@ -8820,6 +9098,7 @@ te= Secularism
 so= SMR00460
 so= SMR00465
 so= SMR00468
+en= Secularism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01100
@@ -8831,6 +9110,7 @@ so= SMR00792
 so= SMR00835
 so= SMR01007
 so= SMR01074
+en= Security
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01101
@@ -8840,14 +9120,17 @@ so= SMR00792
 so= SMR00854
 so= SMR00890
 so= SMR01262
+en= Security forces
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01102
 te= Security policy
+en= Security policy
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01103
 te= Sedition
+en= Sedition
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01104
@@ -8856,11 +9139,11 @@ so= SMR00040
 so= SMR00393
 so= SMR00481
 so= SMR00981
+en= Segregation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01105
 te= Self-determination
-bf= Right to self-determination
 so= SMR00048
 so= SMR00259
 so= SMR00563
@@ -8874,17 +9157,20 @@ so= SMR01070
 so= SMR01097
 so= SMR01106
 so= SMR01111
+en= Self-determination
+en= Right to self-determination
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01106
 te= Self-government
-bf= Internal autonomy
 so= SMR00263
 so= SMR00568
 so= SMR00714
 so= SMR00820
 so= SMR01105
 so= SMR01220
+en= Self-government
+en= Internal autonomy
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01107
@@ -8895,15 +9181,13 @@ so= SMR00402
 so= SMR00626
 so= SMR01068
 so= SMR01294
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01108
-te= Senegal
+en= Self-incrimination
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01109
 te= Sentencing
 so= SMR00236
+en= Sentencing
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01110
@@ -8913,6 +9197,7 @@ so= SMR00484
 so= SMR00564
 so= SMR00647
 so= SMR00698
+en= Separation of powers
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01111
@@ -8924,10 +9209,7 @@ so= SMR00793
 so= SMR00876
 so= SMR01105
 so= SMR01097
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01112
-te= Serbia
+en= Separatism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01113
@@ -8935,6 +9217,7 @@ te= Serfdom
 so= SMR00088
 so= SMR00442
 so= SMR01059
+en= Serfdom
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01114
@@ -8944,16 +9227,19 @@ so= SMR00598
 so= SMR00672
 so= SMR00675
 so= SMR00923
+en= Settlers
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01115
 te= Sex tourism
 so= SMR00956
 so= SMR01119
+en= Sex tourism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01116
 te= Sexism
+en= Sexism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01117
@@ -8962,16 +9248,18 @@ so= SMR00121
 so= SMR01118
 so= SMR01119
 so= SMR01120
+en= Sexual abuse
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01118
 te= Sexual assault
-bf= Rape
 so= SMR00004
 so= SMR00121
 so= SMR00885
 so= SMR01119
 so= SMR01120
+en= Sexual assault
+en= Rape
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01119
@@ -8984,6 +9272,7 @@ so= SMR01118
 so= SMR01120
 so= SMR01223
 so= SMR01272
+en= Sexual exploitation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01120
@@ -8994,26 +9283,22 @@ so= SMR01119
 so= SMR01272
 so= SMR01300
 so= SMR01304
+en= Sexual harassment
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01121
 te= Sexual rights
+en= Sexual rights
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01122
 te= Sharia
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01123
-te= Sierra Leone
+en= Sharia
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01124
 te= Sikhism
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01125
-te= Singapore
+en= Sikhism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01126
@@ -9022,6 +9307,7 @@ so= SMR00442
 so= SMR01059
 so= SMR01113
 so= SMR01223
+en= Slave trade
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01127
@@ -9031,14 +9317,7 @@ so= SMR00442
 so= SMR01059
 so= SMR01113
 so= SMR01223
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01128
-te= Slovakia
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01129
-te= Slovenia
+en= Slavery
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01130
@@ -9051,6 +9330,7 @@ so= SMR01072
 so= SMR01143
 so= SMR01144
 so= SMR01286
+en= Social assistance
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01131
@@ -9058,6 +9338,7 @@ te= Social change
 so= SMR01133
 so= SMR01136
 so= SMR01140
+en= Social change
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01132
@@ -9065,6 +9346,7 @@ te= Social cost
 so= SMR01140
 so= SMR01183
 so= SMR01189
+en= Social cost
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01133
@@ -9077,6 +9359,7 @@ so= SMR01050
 so= SMR01131
 so= SMR01140
 so= SMR01296
+en= Social development
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01134
@@ -9089,6 +9372,7 @@ so= SMR00383
 so= SMR01135
 so= SMR01136
 so= SMR01140
+en= Social inequality
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01135
@@ -9103,6 +9387,7 @@ so= SMR00379
 so= SMR01134
 so= SMR01136
 so= SMR01275
+en= Social integration
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01136
@@ -9117,20 +9402,24 @@ so= SMR01134
 so= SMR01135
 so= SMR01140
 so= SMR01143
+en= Social justice
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01137
 te= Social law
+en= Social law
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01138
 te= Social mobility
+en= Social mobility
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01139
 te= Social movements
 so= SMR00812
 so= SMR00902
+en= Social movements
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01140
@@ -9142,15 +9431,18 @@ so= SMR01136
 so= SMR01141
 so= SMR01143
 so= SMR01287
+en= Social policy
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01141
 te= Social problems
 so= SMR01140
+en= Social problems
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01142
 te= Social sciences
+en= Social sciences
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01143
@@ -9164,6 +9456,7 @@ so= SMR01072
 so= SMR01130
 so= SMR01136
 so= SMR01140
+en= Social security
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01144
@@ -9171,12 +9464,14 @@ te= Social services
 so= SMR00506
 so= SMR01130
 so= SMR01148
+en= Social services
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01145
 te= Social status
 so= SMR00154
 so= SMR00305
+en= Social status
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01146
@@ -9187,6 +9482,7 @@ so= SMR00969
 so= SMR00985
 so= SMR00986
 so= SMR01259
+en= Social unrest
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01147
@@ -9196,105 +9492,76 @@ so= SMR01130
 so= SMR01140
 so= SMR01143
 so= SMR01287
+en= Social welfare
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01148
 te= Social workers
 so= SMR00175
 so= SMR01144
+en= Social workers
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01149
 te= Socialism
 so= SMR00172
 so= SMR00730
+en= Socialism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01150
 te= Socialization
+en= Socialization
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01151
 te= Society
 so= SMR00150
 so= SMR00154
+en= Society
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01152
 te= Sociology
+en= Sociology
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01153
 te= Sociology of law
+en= Sociology of law
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01154
 te= Solitary confinement
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01155
-te= Solomon Islands
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01156
-te= Somalia
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01157
-te= South Africa
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01158
-te= South America
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01159
-te= South Asia
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01160
-te= South Sudan
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01161
-te= South-East Asia
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01162
-te= Southern Africa
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01163
-te= Southern Europe
+en= Solitary confinement
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01164
 te= Sovereignty
 so= SMR00563
 so= SMR01176
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01165
-te= Spain
+en= Sovereignty
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01166
 te= Special education
 so= SMR00136
 so= SMR01052
+en= Special education
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01167
 te= Special rapporteurs
+en= Special rapporteurs
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01168
 te= Sports and human rights
+en= Sports and human rights
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01169
 te= Spousal equality
-bf= Equal rights of spouses
 so= SMR00124
 so= SMR00191
 so= SMR00313
@@ -9302,10 +9569,8 @@ so= SMR00383
 so= SMR00443
 so= SMR00727
 so= SMR00738
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01170
-te= Sri Lanka
+en= Spousal equality
+en= Equal rights of spouses
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01171
@@ -9313,21 +9578,22 @@ te= Standard of living
 so= SMR00072
 so= SMR00337
 so= SMR01045
+en= Standard of living
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01172
 te= Standard-setting
 so= SMR00608
+en= Standard-setting
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01173
 te= State
+en= State
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01174
 te= State of emergency
-bf= State of siege
-bf= State of exception
 so= SMR00270
 so= SMR00366
 so= SMR00765
@@ -9335,6 +9601,9 @@ so= SMR00792
 so= SMR00796
 so= SMR00914
 so= SMR00969
+en= State of emergency
+en= State of siege
+en= State of exception
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01175
@@ -9344,6 +9613,7 @@ so= SMR00559
 so= SMR00571
 so= SMR01178
 so= SMR01268
+en= State responsibility
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01176
@@ -9352,6 +9622,7 @@ so= SMR00449
 so= SMR00563
 so= SMR00618
 so= SMR01203
+en= State sovereignty
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01177
@@ -9363,6 +9634,7 @@ so= SMR00891
 so= SMR00914
 so= SMR01023
 so= SMR01101
+en= State terror
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01178
@@ -9372,6 +9644,7 @@ so= SMR00535
 so= SMR00570
 so= SMR00593
 so= SMR01175
+en= State's obligations
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01179
@@ -9386,16 +9659,14 @@ so= SMR01000
 so= SMR01029
 so= SMR01041
 so= SMR01231
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01180
-te= Statistics
+en= Stateless persons
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01181
 te= Stereotyping
 so= SMR00308
 so= SMR00933
+en= Stereotyping
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01182
@@ -9407,6 +9678,7 @@ so= SMR00520
 so= SMR01257
 so= SMR01258
 so= SMR01312
+en= Street children
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01183
@@ -9418,11 +9690,13 @@ so= SMR00448
 so= SMR00606
 so= SMR00803
 so= SMR01132
+en= Structural adjustment
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01184
 te= Student movements
 so= SMR00812
+en= Student movements
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01185
@@ -9431,20 +9705,14 @@ so= SMR00352
 so= SMR01184
 so= SMR01254
 so= SMR01312
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01186
-te= Sudan
+en= Students
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01187
 te= Suicide
 so= SMR00399
 so= SMR01051
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01188
-te= Suriname
+en= Suicide
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01189
@@ -9455,22 +9723,7 @@ so= SMR01039
 so= SMR01050
 so= SMR01049
 so= SMR01293
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01190
-te= Swaziland
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01191
-te= Sweden
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01192
-te= Switzerland
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01193
-te= Syrian Arab Republic
+en= Sustainable development
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01194
@@ -9480,60 +9733,55 @@ so= SMR00289
 so= SMR00369
 so= SMR00379
 so= SMR01300
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01195
-te= Taiwan, Province of China
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01196
-te= Tajikistan
+en= Systemic discrimination
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01197
 te= Taliban
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01198
-te= Tanzania, United Republic of
+en= Taliban
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01199
 te= Teachers training
 so= SMR00532
 so= SMR01275
+en= Teachers training
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01200
 te= Teaching methods
 so= SMR00353
+en= Teaching methods
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01201
 te= Technical cooperation
-bf= Technical assistance
 so= SMR00078
 so= SMR00278
 so= SMR00282
 so= SMR00447
 so= SMR00605
 so= SMR00759
+en= Technical cooperation
+en= Technical assistance
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01202
 te= Technological change
 so= SMR01047
 so= SMR01275
+en= Technological change
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01203
 te= Territorial integrity
-bf= Right to the territorial integrity
 so= SMR00449
 so= SMR00675
 so= SMR01049
 so= SMR01097
 so= SMR01176
+en= Territorial integrity
+en= Right to the territorial integrity
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01204
@@ -9542,6 +9790,7 @@ so= SMR00495
 so= SMR00914
 so= SMR01177
 so= SMR01259
+en= Terrorism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01205
@@ -9550,10 +9799,7 @@ so= SMR00413
 so= SMR00630
 so= SMR00893
 so= SMR01294
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01206
-te= Thailand
+en= Testimonies
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01207
@@ -9561,35 +9807,32 @@ te= Theories
 so= SMR00546
 so= SMR00536
 so= SMR01020
+en= Theories
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01208
 te= Third generation of human rights
-bf= Solidarity rights
 so= SMR00512
 so= SMR00573
 so= SMR00594
+en= Third generation of human rights
+en= Solidarity rights
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01209
 te= Third World
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01210
-te= Tibet [China]
+en= Third World
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01211
 te= Tigrinya
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01212
-te= Togo
+en= Tigrinya
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01213
 te= Tolerance
 so= SMR00629
+en= Tolerance
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01214
@@ -9607,6 +9850,7 @@ so= SMR01034
 so= SMR01074
 so= SMR01215
 so= SMR01217
+en= Torture
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01215
@@ -9617,6 +9861,7 @@ so= SMR00940
 so= SMR01214
 so= SMR01217
 so= SMR01268
+en= Torture victims
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01216
@@ -9624,22 +9869,23 @@ te= Torture victims treatment
 so= SMR00506
 so= SMR00745
 so= SMR00750
+en= Torture victims treatment
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01217
 te= Torturers
 so= SMR01214
+en= Torturers
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01218
 te= Totalitarianism
 so= SMR00284
+en= Totalitarianism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01219
 te= Trade unions
-bf= Labour movement
-bf= Workers' organizations
 so= SMR00158
 so= SMR00415
 so= SMR00459
@@ -9648,11 +9894,13 @@ so= SMR00667
 so= SMR00670
 so= SMR00950
 so= SMR01073
+en= Trade unions
+en= Labour movement
+en= Workers' organizations
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01220
 te= Traditional authorities
-bf= Tribal chiefs
 so= SMR00240
 so= SMR00248
 so= SMR00568
@@ -9660,12 +9908,15 @@ so= SMR01015
 so= SMR01106
 so= SMR01221
 so= SMR01237
+en= Traditional authorities
+en= Tribal chiefs
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01221
 te= Traditional justice
 so= SMR00568
 so= SMR01220
+en= Traditional justice
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01222
@@ -9678,6 +9929,7 @@ so= SMR00885
 so= SMR00917
 so= SMR00964
 so= SMR01295
+en= Traditional practices affecting women
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01223
@@ -9688,12 +9940,14 @@ so= SMR00956
 so= SMR01119
 so= SMR01126
 so= SMR01127
+en= Traffic in persons
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01224
 te= Trafficking
 so= SMR00327
 so= SMR01223
+en= Trafficking
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01225
@@ -9702,16 +9956,19 @@ so= SMR00679
 so= SMR00894
 so= SMR01199
 so= SMR01275
+en= Training
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01226
 te= Transitional justice
 so= SMR00186
+en= Transitional justice
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01227
 te= Translation
 so= SMR00625
+en= Translation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01228
@@ -9722,11 +9979,13 @@ so= SMR00450
 so= SMR00453
 so= SMR00622
 so= SMR00801
+en= Transnational corporations
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01229
 te= Transsexuals
 so= SMR00303
+en= Transsexuals
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01230
@@ -9735,6 +9994,7 @@ so= SMR00608
 so= SMR00697
 so= SMR01004
 so= SMR01233
+en= Travaux preparatoires
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01231
@@ -9744,10 +10004,7 @@ so= SMR01000
 so= SMR01029
 so= SMR01042
 so= SMR01179
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01232
-te= Travel guides
+en= Travel documents
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01233
@@ -9755,18 +10012,21 @@ te= Treaties
 so= SMR00600
 so= SMR00608
 so= SMR01004
+en= Treaties
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01234
 te= Trial observer missions
 so= SMR00534
 so= SMR00913
+en= Trial observer missions
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01235
 te= Trial within a reasonable time
-bf= Speedy trial
-bf= Prompt trial
+en= Trial within a reasonable time
+en= Speedy trial
+en= Prompt trial
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01236
@@ -9775,6 +10035,7 @@ so= SMR00416
 so= SMR00913
 so= SMR01234
 so= SMR01235
+en= Trials
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01237
@@ -9783,10 +10044,7 @@ so= SMR00240
 so= SMR00248
 so= SMR01220
 so= SMR01221
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01238
-te= Trinidad and Tobago
+en= Tribalism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01239
@@ -9795,6 +10053,7 @@ so= SMR00259
 so= SMR00820
 so= SMR01105
 so= SMR01106
+en= Trust territories
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01240
@@ -9803,56 +10062,34 @@ so= SMR00168
 so= SMR00630
 so= SMR00989
 so= SMR01226
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01241
-te= Tunisia
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01242
-te= Turkey
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01243
-te= Uganda
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01244
-te= Ukraine
+en= Truth commissions
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01245
 te= Unemployment
 so= SMR00669
 so= SMR01076
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01246
-te= United Arab Emirates
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01247
-te= United Kingdom
+en= Unemployment
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01248
 te= United Nations charter-based bodies
+en= United Nations charter-based bodies
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01249
 te= United Nations treaty-based bodies
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01250
-te= United States
+en= United Nations treaty-based bodies
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01251
 te= Universal
+en= Universal
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01252
 te= Universalism
+en= Universalism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01253
@@ -9861,6 +10098,7 @@ so= SMR00245
 so= SMR00316
 so= SMR00536
 so= SMR00607
+en= Universality of human rights
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01254
@@ -9870,17 +10108,18 @@ so= SMR00927
 so= SMR01095
 so= SMR01185
 so= SMR01255
+en= Universities
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01255
 te= University teachers
 so= SMR00590
 so= SMR01254
+en= University teachers
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01256
 te= Uprising
-bf= Insurgency
 so= SMR00048
 so= SMR00151
 so= SMR00214
@@ -9889,17 +10128,20 @@ so= SMR00791
 so= SMR00818
 so= SMR01035
 so= SMR01070
+en= Uprising
+en= Insurgency
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01257
 te= Urban areas
-bf= Urban communities
 so= SMR00174
 so= SMR00714
 so= SMR01182
 so= SMR01258
 so= SMR01259
 so= SMR01260
+en= Urban areas
+en= Urban communities
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01258
@@ -9910,6 +10152,7 @@ so= SMR00928
 so= SMR01044
 so= SMR01257
 so= SMR01259
+en= Urban poor
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01259
@@ -9922,16 +10165,14 @@ so= SMR01146
 so= SMR01204
 so= SMR01257
 so= SMR01258
+en= Urban violence
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01260
 te= Urbanization
 so= SMR00598
 so= SMR01257
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01261
-te= Uruguay
+en= Urbanization
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01262
@@ -9942,14 +10183,12 @@ so= SMR00764
 so= SMR00891
 so= SMR00892
 so= SMR01101
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01263
-te= Uzbekistan
+en= Use of force
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01264
 te= Valuation
+en= Valuation
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01265
@@ -9959,10 +10198,7 @@ so= SMR00933
 so= SMR00951
 so= SMR00959
 so= SMR01010
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01266
-te= Venezuela
+en= Value systems
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01267
@@ -9971,6 +10207,7 @@ so= SMR00223
 so= SMR01215
 so= SMR01268
 so= SMR01282
+en= Victims
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01268
@@ -9982,6 +10219,7 @@ so= SMR00537
 so= SMR01033
 so= SMR01175
 so= SMR01215
+en= Victims of abuse of power
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01269
@@ -9989,10 +10227,7 @@ te= Video surveillance
 so= SMR00364
 so= SMR00534
 so= SMR01022
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01270
-te= Viet Nam
+en= Video surveillance
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01271
@@ -10010,19 +10245,22 @@ so= SMR01177
 so= SMR01204
 so= SMR01214
 so= SMR01272
+en= Violence
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01272
 te= Violence against women
-bf= Gender-based violence
 so= SMR00004
 so= SMR00319
 so= SMR01119
 so= SMR01120
+en= Violence against women
+en= Gender-based violence
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01273
 te= Visas
+en= Visas
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01274
@@ -10031,6 +10269,7 @@ so= SMR00124
 so= SMR00274
 so= SMR00562
 so= SMR01043
+en= Visitation rights
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01275
@@ -10040,28 +10279,28 @@ so= SMR01052
 so= SMR01135
 so= SMR01202
 so= SMR01300
+en= Vocational training
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01276
 te= Voting
+en= Voting
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01277
 te= Vulnerable groups
 so= SMR00289
+en= Vulnerable groups
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01278
 te= Wages
-bf= Earnings
-bf= Remuneration
-bf= Salaries
 so= SMR00821
 so= SMR00863
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01279
-te= Wales
+en= Wages
+en= Earnings
+en= Remuneration
+en= Salaries
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01280
@@ -10074,17 +10313,18 @@ so= SMR00733
 so= SMR01281
 so= SMR01282
 so= SMR01285
+en= War crimes
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01281
 te= War criminals
 so= SMR00046
 so= SMR01280
+en= War criminals
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01282
 te= War victims
-bf= Victims of war
 so= SMR00046
 so= SMR00152
 so= SMR00311
@@ -10094,6 +10334,8 @@ so= SMR00942
 so= SMR01033
 so= SMR01280
 so= SMR01306
+en= War victims
+en= Victims of war
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01283
@@ -10101,6 +10343,7 @@ te= Water rights
 so= SMR00025
 so= SMR00323
 so= SMR00438
+en= Water rights
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01284
@@ -10108,6 +10351,7 @@ te= Weapons
 so= SMR00051
 so= SMR00052
 so= SMR00291
+en= Weapons
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01285
@@ -10115,6 +10359,7 @@ te= Weapons of mass destruction
 so= SMR00291
 so= SMR00724
 so= SMR01280
+en= Weapons of mass destruction
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01286
@@ -10124,31 +10369,23 @@ so= SMR00304
 so= SMR00928
 so= SMR01072
 so= SMR01130
+en= Welfare recipients
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01287
 te= Welfare state
 so= SMR01140
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01288
-te= West Bank
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01289
-te= Western Africa
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01290
-te= Western Europe
+en= Welfare state
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01291
 te= Whistleblowing
+en= Whistleblowing
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01292
 te= White papers
+en= White papers
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01293
@@ -10160,6 +10397,7 @@ so= SMR00796
 so= SMR00987
 so= SMR01039
 so= SMR01189
+en= Wildlife protection
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01294
@@ -10173,6 +10411,7 @@ so= SMR00630
 so= SMR00893
 so= SMR01107
 so= SMR01205
+en= Witnesses
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01295
@@ -10190,6 +10429,7 @@ so= SMR01272
 so= SMR01299
 so= SMR01300
 so= SMR01301
+en= Women
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01296
@@ -10198,6 +10438,7 @@ so= SMR00371
 so= SMR01133
 so= SMR01050
 so= SMR01083
+en= Women in development
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01297
@@ -10208,12 +10449,14 @@ so= SMR00264
 so= SMR00901
 so= SMR01075
 so= SMR01301
+en= Women in politics
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01298
 te= Women prisoners
 so= SMR00129
 so= SMR00938
+en= Women prisoners
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01299
@@ -10222,11 +10465,11 @@ so= SMR00306
 so= SMR01052
 so= SMR01275
 so= SMR01295
+en= Women's education
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01300
 te= Women's employment
-bf= Women workers
 so= SMR00019
 so= SMR00307
 so= SMR00369
@@ -10240,6 +10483,8 @@ so= SMR01120
 so= SMR01194
 so= SMR01275
 so= SMR01295
+en= Women's employment
+en= Women workers
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01301
@@ -10247,10 +10492,12 @@ te= Women's organizations
 so= SMR00432
 so= SMR00489
 so= SMR01297
+en= Women's organizations
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01302
 te= Women's rights
+en= Women's rights
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01303
@@ -10262,19 +10509,22 @@ so= SMR00613
 so= SMR00835
 so= SMR01073
 so= SMR01304
+en= Workers
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01304
 te= Working conditions
-bf= Quality of working life
 so= SMR00158
 so= SMR00613
 so= SMR00670
 so= SMR01120
+en= Working conditions
+en= Quality of working life
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01305
 te= World War II
+en= World War II
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01306
@@ -10287,12 +10537,14 @@ so= SMR00874
 so= SMR01062
 so= SMR01067
 so= SMR01282
+en= Wounded persons
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01307
 te= Writers
 so= SMR00589
 so= SMR00709
+en= Writers
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01308
@@ -10306,58 +10558,34 @@ so= SMR00982
 so= SMR00984
 so= SMR00985
 so= SMR00986
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01309
-te= Yearbooks
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01310
-te= Yemen
+en= Xenophobia
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01311
 te= Young women
 so= SMR01295
 so= SMR01312
+en= Young women
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01312
 te= Youth
-bf= Adolescents
-bf= Juveniles
-bf= Minors
-bf= Young persons
 so= SMR00022
 so= SMR00135
 so= SMR00653
 so= SMR01185
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01313
-te= Yugoslavia
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01314
-te= Zaire
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01315
-te= Zambia
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01316
-te= Zanzibar
-tio= 2016-01-26T13:37:12Z
-
-id= SMR01317
-te= Zimbabwe
+en= Youth
+en= Adolescents
+en= Juveniles
+en= Minors
+en= Young persons
 tio= 2016-01-26T13:37:12Z
 
 id= SMR01318
 te= Zionism
 so= SMR00546
 so= SMR00793
+en= Zionism
 tio= 2016-01-26T13:37:12Z
 
 id= SMR00143
@@ -10366,20 +10594,36 @@ so= SMR00111
 so= SMR00142
 so= SMR00703
 so= SMR01013
+en= Churches and human rights
 tio= 2016-01-26T13:37:12Z
 tie= 2016-01-26T13:38:04Z
 
 id= SMR01319
 te= Responsible to protect
-bf= R2P
 tio= 2016-01-26T14:06:30Z
+tie= 2016-04-19T08:32:46Z
+tis= 2016-04-19T08:36:54Z
 
 id= SMR01320
 te= Knut1
 tio= 2016-02-05T08:04:43Z
-tis= 2016-02-05T08:04:43Z
+tie= 2016-04-15T10:20:24Z
+tis= 2016-04-15T10:25:45Z
 
 id= SMR01321
 te= East Asia
+en= East Asia
 tio= 2016-02-19T13:39:19Z
+
+id= SMR001325
+te= Knuts testterm
+en= Knuts exercise
+tio= 2016-04-15T10:17:02Z
+tie= 2016-04-15T10:17:32Z
+
+id= SMR001328
+te= R2P
+so= SMR01032
+tio= 2016-04-19T08:36:07Z
+tie= 2016-04-19T14:39:48Z
 

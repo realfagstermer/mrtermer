@@ -1,0 +1,101 @@
+id= SMR00060
+te= Autobiographies
+en= Autobiographies
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00077
+te= Bibliographies
+en= Bibliographies
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00082
+te= Biographies
+en= Biographies
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00109
+te= Case studies
+en= Case studies
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00166
+te= Commentaries
+en= Commentaries
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00176
+te= Comparative analysis
+en= Comparative analysis
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00220
+te= Covenants
+en= Covenants
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00285
+te= Dictionaries
+en= Dictionaries
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00287
+te= Directories
+en= Directories
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00372
+te= Encyclopedias
+en= Encyclopedias
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00434
+te= Fiction
+en= Fiction
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00496
+te= Guidelines
+en= Guidelines
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00644
+te= Journals
+en= Journals
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00725
+te= Manuals
+en= Manuals
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00734
+te= Master thesis NCHR
+en= Master thesis NCHR
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00752
+te= Methods
+en= Methods
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01180
+te= Statistics
+en= Statistics
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01232
+te= Travel guides
+en= Travel guides
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01309
+te= Yearbooks
+en= Yearbooks
+tio= 2016-01-26T13:37:12Z
+
+id= SMR001326
+te= Doctoral thesis NCHR
+en= Doctoral thesis NCHR
+tio= 2016-04-15T10:18:32Z
+tie= 2016-04-18T14:45:55Z
+

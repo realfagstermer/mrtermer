@@ -1,0 +1,1005 @@
+id= SMR00012
+te= Aceh
+en= Aceh
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00020
+te= Afghanistan
+en= Afghanistan
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00021
+te= Africa
+en= Africa
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00027
+te= Albania
+en= Albania
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00028
+te= Algeria
+en= Algeria
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00031
+te= America
+en= America
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00032
+te= Americas
+en= Americas
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00037
+te= Angola
+en= Angola
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00045
+te= Argentina
+en= Argentina
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00049
+te= Armenia
+en= Armenia
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00055
+te= Asia
+en= Asia
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00058
+te= Australia
+en= Australia
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00059
+te= Austria
+en= Austria
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00062
+te= Azerbaijan
+en= Azerbaijan
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00064
+te= Bahrain
+en= Bahrain
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00065
+te= Bali
+en= Bali
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00066
+te= Balkans
+en= Balkans
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00068
+te= Bangladesh
+en= Bangladesh
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00073
+te= Belarus
+en= Belarus
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00074
+te= Belgium
+en= Belgium
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00075
+te= Belize
+en= Belize
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00087
+te= Bolivia
+en= Bolivia
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00089
+te= Bosnia And Herzegovina
+en= Bosnia And Herzegovina
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00090
+te= Botswana
+en= Botswana
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00093
+te= Brazil
+en= Brazil
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00096
+te= Bulgaria
+en= Bulgaria
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00098
+te= Burkina Faso
+en= Burkina Faso
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00099
+te= Burma
+so= SMR001327
+en= Burma
+tio= 2016-01-26T13:37:12Z
+tie= 2016-04-18T15:05:16Z
+
+id= SMR00100
+te= Burundi
+en= Burundi
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00102
+te= Cambodia
+en= Cambodia
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00103
+te= Cameroon
+en= Cameroon
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00104
+te= Canada
+en= Canada
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00107
+te= Caribbean
+en= Caribbean
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00113
+te= Caucasus
+en= Caucasus
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00117
+te= Central African Republic
+en= Central African Republic
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00118
+te= Central America
+en= Central America
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00138
+te= Chile
+en= Chile
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00139
+te= China
+en= China
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00161
+te= Colombia
+en= Colombia
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00188
+te= Congo
+en= Congo
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00189
+te= Congo, The Democratic Republic Of
+en= Congo, The Democratic Republic Of
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00210
+te= Costa Rica
+en= Costa Rica
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00211
+te= Cote D'Ivoire
+en= Cote D'Ivoire
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00231
+te= Croatia
+en= Croatia
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00238
+te= Cuba
+en= Cuba
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00250
+te= Cyprus
+en= Cyprus
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00251
+te= Czech Republic
+en= Czech Republic
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00267
+te= Denmark
+en= Denmark
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00321
+te= Dominican Republic
+en= Dominican Republic
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00331
+te= East Timor
+en= East Timor
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00333
+te= Eastern Africa
+en= Eastern Africa
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00334
+te= Eastern Asia
+en= Eastern Asia
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00335
+te= Eastern Europe
+en= Eastern Europe
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00349
+te= Ecuador
+en= Ecuador
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00354
+te= Egypt
+en= Egypt
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00355
+te= El Salvador
+en= El Salvador
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00384
+te= Eritrea
+en= Eritrea
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00385
+te= Estonia
+en= Estonia
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00388
+te= Ethiopia
+en= Ethiopia
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00398
+te= Europe
+en= Europe
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00436
+te= Finland
+en= Finland
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00456
+te= France
+en= France
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00472
+te= Gambia
+en= Gambia
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00477
+te= Georgia
+en= Georgia
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00478
+te= German Democratic Republic
+en= German Democratic Republic
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00479
+te= Germany
+en= Germany
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00480
+te= Ghana
+en= Ghana
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00490
+te= Greece
+en= Greece
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00491
+te= Greenland [Denmark]
+en= Greenland [Denmark]
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00494
+te= Guatemala
+en= Guatemala
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00497
+te= Guyana
+en= Guyana
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00499
+te= Haiti
+en= Haiti
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00522
+te= Honduras
+en= Honduras
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00523
+te= Hong Kong
+en= Hong Kong
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00542
+te= Hungary
+en= Hungary
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00544
+te= Iceland
+en= Iceland
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00565
+te= India
+en= India
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00575
+te= Indonesia
+en= Indonesia
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00631
+te= Iran, Islamic Republic Of
+en= Iran, Islamic Republic Of
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00632
+te= Iraq
+en= Iraq
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00633
+te= Ireland
+en= Ireland
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00636
+te= Israel
+en= Israel
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00637
+te= Italy
+en= Italy
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00638
+te= Jamaica
+en= Jamaica
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00639
+te= Japan
+en= Japan
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00640
+te= Jerusalem
+en= Jerusalem
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00642
+te= Jordan
+en= Jordan
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00655
+te= Kashmir
+en= Kashmir
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00656
+te= Kazakhstan
+en= Kazakhstan
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00657
+te= Kenya
+en= Kenya
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00659
+te= Korea, Democratic People's Republic Of
+en= Korea, Democratic People's Republic Of
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00660
+te= Korea, Republic Of
+en= Korea, Republic Of
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00661
+te= Kosovo
+en= Kosovo
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00662
+te= Kurdistan
+en= Kurdistan
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00664
+te= Kuwait
+en= Kuwait
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00665
+te= Kyrgyzstan
+en= Kyrgyzstan
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00680
+te= Lao People's Democratic Republic
+en= Lao People's Democratic Republic
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00681
+te= Latin America
+so= SMR00118
+so= SMR01158
+en= Latin America
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00682
+te= Latvia
+en= Latvia
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00689
+te= Lebanon
+en= Lebanon
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00701
+te= Lesotho
+en= Lesotho
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00704
+te= Liberia
+en= Liberia
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00710
+te= Lithuania
+en= Lithuania
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00716
+te= Macedonia, Former Yugoslav Republic Of
+en= Macedonia, Former Yugoslav Republic Of
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00717
+te= Madagascar
+en= Madagascar
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00720
+te= Malawi
+en= Malawi
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00721
+te= Malaysia
+en= Malaysia
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00722
+te= Mali
+en= Mali
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00739
+te= Mauritania
+en= Mauritania
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00740
+te= Mauritius
+en= Mauritius
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00753
+te= Mexico
+en= Mexico
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00754
+te= Middle East
+en= Middle East
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00775
+te= Moldova, Republic Of
+en= Moldova, Republic Of
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00776
+te= Mongolia
+en= Mongolia
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00778
+te= Montenegro
+en= Montenegro
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00779
+te= Morocco
+en= Morocco
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00780
+te= Mozambique
+en= Mozambique
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00785
+te= Namibia
+en= Namibia
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00804
+te= Nepal
+en= Nepal
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00805
+te= Netherlands
+en= Netherlands
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00808
+te= New Zealand
+en= New Zealand
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00813
+te= Nicaragua
+en= Nicaragua
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00814
+te= Niger
+en= Niger
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00815
+te= Nigeria
+en= Nigeria
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00822
+te= Nordic Countries
+en= Nordic Countries
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00824
+te= Northern Africa
+en= Northern Africa
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00825
+te= Northern America
+en= Northern America
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00826
+te= Northern Europe
+en= Northern Europe
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00827
+te= Northern Ireland [United Kingdom]
+en= Northern Ireland [United Kingdom]
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00828
+te= Norway
+en= Norway
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00836
+te= Occupied Palestinian Territory
+en= Occupied Palestinian Territory
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00837
+te= Oceania
+en= Oceania
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00847
+te= Pacific Region
+en= Pacific Region
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00849
+te= Pakistan
+en= Pakistan
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00851
+te= Panama
+en= Panama
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00852
+te= Papua New Guinea
+en= Papua New Guinea
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00853
+te= Paraguay
+en= Paraguay
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00879
+te= Peru
+en= Peru
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00881
+te= Philippines
+en= Philippines
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00889
+te= Poland
+en= Poland
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00918
+te= Polynesia
+en= Polynesia
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00925
+te= Portugal
+en= Portugal
+tio= 2016-01-26T13:37:12Z
+
+id= SMR00978
+te= Qatar
+en= Qatar
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01078
+te= Romania
+en= Romania
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01084
+te= Russian Federation
+en= Russian Federation
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01085
+te= Rwanda
+en= Rwanda
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01090
+te= Sao Tome And Principe
+en= Sao Tome And Principe
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01091
+te= Saudi Arabia
+en= Saudi Arabia
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01108
+te= Senegal
+en= Senegal
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01112
+te= Serbia
+en= Serbia
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01123
+te= Sierra Leone
+en= Sierra Leone
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01125
+te= Singapore
+en= Singapore
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01128
+te= Slovakia
+en= Slovakia
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01129
+te= Slovenia
+en= Slovenia
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01155
+te= Solomon Islands
+en= Solomon Islands
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01156
+te= Somalia
+en= Somalia
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01157
+te= South Africa
+en= South Africa
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01158
+te= South America
+en= South America
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01159
+te= South Asia
+en= South Asia
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01160
+te= South Sudan
+en= South Sudan
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01161
+te= South-East Asia
+en= South-East Asia
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01162
+te= Southern Africa
+en= Southern Africa
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01163
+te= Southern Europe
+en= Southern Europe
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01165
+te= Spain
+en= Spain
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01170
+te= Sri Lanka
+en= Sri Lanka
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01186
+te= Sudan
+en= Sudan
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01188
+te= Suriname
+en= Suriname
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01190
+te= Swaziland
+en= Swaziland
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01191
+te= Sweden
+en= Sweden
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01192
+te= Switzerland
+en= Switzerland
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01193
+te= Syrian Arab Republic
+en= Syrian Arab Republic
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01195
+te= Taiwan, Province Of China
+en= Taiwan, Province Of China
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01196
+te= Tajikistan
+en= Tajikistan
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01198
+te= Tanzania, United Republic Of
+en= Tanzania, United Republic Of
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01206
+te= Thailand
+en= Thailand
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01210
+te= Tibet [China]
+en= Tibet [China]
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01212
+te= Togo
+en= Togo
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01238
+te= Trinidad And Tobago
+en= Trinidad And Tobago
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01241
+te= Tunisia
+en= Tunisia
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01242
+te= Turkey
+en= Turkey
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01243
+te= Uganda
+en= Uganda
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01244
+te= Ukraine
+en= Ukraine
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01246
+te= United Arab Emirates
+en= United Arab Emirates
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01247
+te= United Kingdom
+en= United Kingdom
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01250
+te= United States
+en= United States
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01261
+te= Uruguay
+en= Uruguay
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01263
+te= Uzbekistan
+en= Uzbekistan
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01266
+te= Venezuela
+en= Venezuela
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01270
+te= Viet Nam
+en= Viet Nam
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01279
+te= Wales
+en= Wales
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01288
+te= West Bank
+en= West Bank
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01289
+te= Western Africa
+en= Western Africa
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01290
+te= Western Europe
+en= Western Europe
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01310
+te= Yemen
+en= Yemen
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01313
+te= Yugoslavia
+en= Yugoslavia
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01314
+te= Zaire
+en= Zaire
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01315
+te= Zambia
+en= Zambia
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01316
+te= Zanzibar
+en= Zanzibar
+tio= 2016-01-26T13:37:12Z
+
+id= SMR01317
+te= Zimbabwe
+en= Zimbabwe
+tio= 2016-01-26T13:37:12Z
+
+id= SMR001327
+te= Myanmar
+so= SMR00099
+tio= 2016-04-18T15:05:16Z
+tie= 2016-04-18T15:05:30Z
+
