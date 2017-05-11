@@ -20,7 +20,7 @@ config = {
 }
 
 
-def task_fetch():
+def task_fetch_core():
 
     yield {
         'doc': 'Fetch remote files that have changed',

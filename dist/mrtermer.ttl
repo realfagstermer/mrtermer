@@ -26,7 +26,7 @@ mrtermer: a void:Dataset,
         "Menneskerettighetstermer er et kontrollert, pre-koordinert emneordsvokabular som forvaltes og videreutvikles av Norsk senter for menneskerettigheters (SMR) bibliotek."@nb ;
     dcterms:language lexvo:eng ;
     dcterms:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
-    dcterms:modified "2016-04-19T19:53:08+00:00"^^xsd:dateTime ;
+    dcterms:modified "2017-05-11T09:26:01+00:00"^^xsd:dateTime ;
     dcterms:publisher library:k ;
     dcterms:title "Human Rights Terms"@en,
         "Menneskerettighetstermer"@nb ;
@@ -63,6 +63,9 @@ library:k a foaf:Organization ;
 <http://data.ub.uio.no/sparql/graphs/mrtermer> a sd:NamedGraph ;
     sd:graph mrtermer: ;
     sd:name mrtermer: .
+
+ubo: a owl:Ontology ;
+    owl:versionInfo "0.1.0" .
 
 ubo:CompoundConcept a owl:Class ;
     rdfs:label "Compound concept"@en,
@@ -17077,7 +17080,7 @@ mrtermer:c01319 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T14:06:30+00:00"^^xsd:dateTime ;
     dcterms:identifier "SMR01319" ;
-    dcterms:modified "2016-04-19T08:32:46+00:00"^^xsd:dateTime ;
+    dcterms:modified "2016-04-19T08:36:54+00:00"^^xsd:dateTime ;
     owl:deprecated true ;
     skos:historyNote "Deprecated on 2016-04-19T08:36:54Z" ;
     skos:inScheme mrtermer: ;
@@ -17087,7 +17090,7 @@ mrtermer:c01320 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-02-05T08:04:43+00:00"^^xsd:dateTime ;
     dcterms:identifier "SMR01320" ;
-    dcterms:modified "2016-04-15T10:20:24+00:00"^^xsd:dateTime ;
+    dcterms:modified "2016-04-15T10:25:45+00:00"^^xsd:dateTime ;
     owl:deprecated true ;
     skos:historyNote "Deprecated on 2016-04-15T10:25:45Z" ;
     skos:inScheme mrtermer: ;
