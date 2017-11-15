@@ -32,7 +32,7 @@ mrtermer: a skos:ConceptScheme, void:Dataset, sd:Graph ;
     void:sparqlEndpoint <http://data.ub.uio.no/sparql> ;
     void:dataDump <http://data.ub.uio.no/dumps/mrtermer.ttl> ;
     void:uriSpace mrtermer: ;
-    void:exampleResource mrtermer:c012676 ;
+    void:exampleResource mrtermer:c00007 ;
     void:vocabulary skos: , mads: .
 
 library:k a foaf:Organization ;
