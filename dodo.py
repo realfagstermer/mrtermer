@@ -46,15 +46,7 @@ def task_fetch_core():
              'local': 'src/ub-onto.ttl'
         }
     ]:
-        yield {
-            'name': file['local'],
-            'actions': [(data_ub_tasks.fetch_remote, [], {
-                'remote': file['remote'],
-                'etag_cache': '{}.etag'.format(file['local'])
-            })],
-            'task_dep': ['fetch_core:git-pull'],
-            'targets': [file['local']]
-        }
+        yield data_ub_tasks.fetch_remote_gen(file['remote'], file['local'], ['fetch_core:git-pull'])
 
 
 def task_build():
