@@ -15,1988 +15,105 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-mrtermer:c00060 a ubo:GenreForm,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00060" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Autobiographies"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Autobiographies"@en .
-
-mrtermer:c00077 a ubo:GenreForm,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00077" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Bibliographies"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Bibliographies"@en .
-
-mrtermer:c00082 a ubo:GenreForm,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00082" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Biographies"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Biographies"@en .
-
-mrtermer:c00109 a ubo:GenreForm,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00109" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Case studies"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Case studies"@en .
-
-mrtermer:c001326 a ubo:GenreForm,
-        skos:Concept ;
-    dcterms:created "2016-04-15T10:18:32+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR001326" ;
-    dcterms:modified "2016-04-18T14:45:55+00:00"^^xsd:dateTime ;
-    skos:altLabel "Doctoral thesis NCHR"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Doctoral thesis NCHR"@en .
-
-mrtermer:c00166 a ubo:GenreForm,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00166" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Commentaries"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Commentaries"@en .
-
-mrtermer:c00176 a ubo:GenreForm,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00176" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Comparative analysis"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Comparative analysis"@en .
-
-mrtermer:c00220 a ubo:GenreForm,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00220" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Covenants"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Covenants"@en .
-
-mrtermer:c00285 a ubo:GenreForm,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00285" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Dictionaries"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Dictionaries"@en .
-
-mrtermer:c00287 a ubo:GenreForm,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00287" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Directories"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Directories"@en .
-
-mrtermer:c00372 a ubo:GenreForm,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00372" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Encyclopedias"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Encyclopedias"@en .
-
-mrtermer:c00434 a ubo:GenreForm,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00434" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Fiction"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Fiction"@en .
-
-mrtermer:c00496 a ubo:GenreForm,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00496" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Guidelines"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Guidelines"@en .
-
-mrtermer:c00644 a ubo:GenreForm,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00644" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Journals"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Journals"@en .
-
-mrtermer:c00725 a ubo:GenreForm,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00725" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Manuals"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Manuals"@en .
-
-mrtermer:c00734 a ubo:GenreForm,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00734" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Master thesis NCHR"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Master thesis NCHR"@en .
-
-mrtermer:c00752 a ubo:GenreForm,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00752" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Methods"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Methods"@en .
-
-mrtermer:c01180 a ubo:GenreForm,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01180" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Statistics"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Statistics"@en .
-
-mrtermer:c01232 a ubo:GenreForm,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01232" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Travel guides"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Travel guides"@en .
-
-mrtermer:c01309 a ubo:GenreForm,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01309" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Yearbooks"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Yearbooks"@en .
-
-mrtermer:c00012 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00012" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Aceh"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Aceh"@en .
-
-mrtermer:c00020 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00020" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Afghanistan"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Afghanistan"@en .
-
-mrtermer:c00021 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00021" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Africa"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Africa"@en .
-
-mrtermer:c00027 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00027" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Albania"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Albania"@en .
-
-mrtermer:c00028 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00028" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Algeria"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Algeria"@en .
-
-mrtermer:c00031 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00031" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "America"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "America"@en .
-
-mrtermer:c00032 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00032" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Americas"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Americas"@en .
-
-mrtermer:c00037 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00037" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Angola"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Angola"@en .
-
-mrtermer:c00045 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00045" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Argentina"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Argentina"@en .
-
-mrtermer:c00049 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00049" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Armenia"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Armenia"@en .
-
-mrtermer:c00055 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00055" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Asia"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Asia"@en .
-
-mrtermer:c00058 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00058" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Australia"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Australia"@en .
-
-mrtermer:c00059 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00059" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Austria"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Austria"@en .
-
-mrtermer:c00062 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00062" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Azerbaijan"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Azerbaijan"@en .
-
-mrtermer:c00064 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00064" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Bahrain"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Bahrain"@en .
-
-mrtermer:c00065 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00065" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Bali"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Bali"@en .
-
-mrtermer:c00066 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00066" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Balkans"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Balkans"@en .
-
-mrtermer:c00068 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00068" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Bangladesh"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Bangladesh"@en .
-
-mrtermer:c00073 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00073" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Belarus"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Belarus"@en .
-
-mrtermer:c00074 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00074" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Belgium"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Belgium"@en .
-
-mrtermer:c00075 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00075" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Belize"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Belize"@en .
-
-mrtermer:c00087 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00087" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Bolivia"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Bolivia"@en .
-
-mrtermer:c00089 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00089" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Bosnia And Herzegovina"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Bosnia And Herzegovina"@en .
-
-mrtermer:c00090 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00090" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Botswana"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Botswana"@en .
-
-mrtermer:c00093 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00093" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Brazil"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Brazil"@en .
-
-mrtermer:c00096 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00096" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Bulgaria"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Bulgaria"@en .
-
-mrtermer:c00098 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00098" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Burkina Faso"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Burkina Faso"@en .
-
-mrtermer:c00099 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00099" ;
-    dcterms:modified "2016-04-18T15:05:16+00:00"^^xsd:dateTime ;
-    skos:altLabel "Burma"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Burma"@en ;
-    skos:related mrtermer:c001327 .
-
-mrtermer:c00100 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00100" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Burundi"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Burundi"@en .
-
-mrtermer:c00102 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00102" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Cambodia"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Cambodia"@en .
-
-mrtermer:c00103 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00103" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Cameroon"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Cameroon"@en .
-
-mrtermer:c00104 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00104" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Canada"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Canada"@en .
-
-mrtermer:c00107 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00107" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Caribbean"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Caribbean"@en .
-
-mrtermer:c00113 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00113" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Caucasus"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Caucasus"@en .
-
-mrtermer:c00117 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00117" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Central African Republic"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Central African Republic"@en .
-
-mrtermer:c00118 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00118" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Central America"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Central America"@en .
-
-mrtermer:c001327 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-04-18T15:05:16+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR001327" ;
-    dcterms:modified "2016-04-18T15:05:30+00:00"^^xsd:dateTime ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Myanmar"@en ;
-    skos:related mrtermer:c00099 .
-
-mrtermer:c00138 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00138" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Chile"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Chile"@en .
-
-mrtermer:c00139 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00139" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "China"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "China"@en .
-
-mrtermer:c00161 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00161" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Colombia"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Colombia"@en .
-
-mrtermer:c00188 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00188" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Congo"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Congo"@en .
-
-mrtermer:c00189 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00189" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Congo, The Democratic Republic Of"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Congo, The Democratic Republic Of"@en .
-
-mrtermer:c00210 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00210" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Costa Rica"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Costa Rica"@en .
-
-mrtermer:c00211 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00211" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Cote D'Ivoire"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Cote D'Ivoire"@en .
-
-mrtermer:c00231 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00231" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Croatia"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Croatia"@en .
-
-mrtermer:c00238 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00238" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Cuba"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Cuba"@en .
-
-mrtermer:c00250 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00250" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Cyprus"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Cyprus"@en .
-
-mrtermer:c00251 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00251" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Czech Republic"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Czech Republic"@en .
-
-mrtermer:c00267 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00267" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Denmark"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Denmark"@en .
-
-mrtermer:c00321 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00321" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Dominican Republic"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Dominican Republic"@en .
-
-mrtermer:c00331 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00331" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "East Timor"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "East Timor"@en .
-
-mrtermer:c00333 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00333" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Eastern Africa"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Eastern Africa"@en .
-
-mrtermer:c00334 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00334" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Eastern Asia"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Eastern Asia"@en .
-
-mrtermer:c00335 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00335" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Eastern Europe"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Eastern Europe"@en .
-
-mrtermer:c00349 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00349" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Ecuador"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Ecuador"@en .
-
-mrtermer:c00354 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00354" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Egypt"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Egypt"@en .
-
-mrtermer:c00355 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00355" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "El Salvador"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "El Salvador"@en .
-
-mrtermer:c00384 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00384" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Eritrea"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Eritrea"@en .
-
-mrtermer:c00385 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00385" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Estonia"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Estonia"@en .
-
-mrtermer:c00388 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00388" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Ethiopia"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Ethiopia"@en .
-
-mrtermer:c00398 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00398" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Europe"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Europe"@en .
-
-mrtermer:c00436 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00436" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Finland"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Finland"@en .
-
-mrtermer:c00456 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00456" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "France"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "France"@en .
-
-mrtermer:c00472 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00472" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Gambia"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Gambia"@en .
-
-mrtermer:c00477 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00477" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Georgia"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Georgia"@en .
-
-mrtermer:c00478 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00478" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "German Democratic Republic"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "German Democratic Republic"@en .
-
-mrtermer:c00479 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00479" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Germany"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Germany"@en .
-
-mrtermer:c00480 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00480" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Ghana"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Ghana"@en .
-
-mrtermer:c00490 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00490" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Greece"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Greece"@en .
-
-mrtermer:c00491 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00491" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Greenland [Denmark]"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Greenland [Denmark]"@en .
-
-mrtermer:c00494 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00494" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Guatemala"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Guatemala"@en .
-
-mrtermer:c00497 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00497" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Guyana"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Guyana"@en .
-
-mrtermer:c00499 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00499" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Haiti"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Haiti"@en .
-
-mrtermer:c00522 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00522" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Honduras"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Honduras"@en .
-
-mrtermer:c00523 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00523" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Hong Kong"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Hong Kong"@en .
-
-mrtermer:c00542 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00542" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Hungary"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Hungary"@en .
-
-mrtermer:c00544 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00544" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Iceland"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Iceland"@en .
-
-mrtermer:c00565 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00565" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "India"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "India"@en .
-
-mrtermer:c00575 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00575" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Indonesia"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Indonesia"@en .
-
-mrtermer:c00631 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00631" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Iran, Islamic Republic Of"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Iran, Islamic Republic Of"@en .
-
-mrtermer:c00632 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00632" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Iraq"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Iraq"@en .
-
-mrtermer:c00633 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00633" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Ireland"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Ireland"@en .
-
-mrtermer:c00636 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00636" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Israel"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Israel"@en .
-
-mrtermer:c00637 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00637" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Italy"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Italy"@en .
-
-mrtermer:c00638 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00638" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Jamaica"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Jamaica"@en .
-
-mrtermer:c00639 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00639" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Japan"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Japan"@en .
-
-mrtermer:c00640 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00640" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Jerusalem"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Jerusalem"@en .
-
-mrtermer:c00642 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00642" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Jordan"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Jordan"@en .
-
-mrtermer:c00655 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00655" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Kashmir"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Kashmir"@en .
-
-mrtermer:c00656 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00656" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Kazakhstan"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Kazakhstan"@en .
-
-mrtermer:c00657 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00657" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Kenya"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Kenya"@en .
-
-mrtermer:c00659 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00659" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Korea, Democratic People's Republic Of"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Korea, Democratic People's Republic Of"@en .
-
-mrtermer:c00660 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00660" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Korea, Republic Of"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Korea, Republic Of"@en .
-
-mrtermer:c00661 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00661" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Kosovo"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Kosovo"@en .
-
-mrtermer:c00662 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00662" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Kurdistan"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Kurdistan"@en .
-
-mrtermer:c00664 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00664" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Kuwait"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Kuwait"@en .
-
-mrtermer:c00665 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00665" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Kyrgyzstan"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Kyrgyzstan"@en .
-
-mrtermer:c00680 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00680" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Lao People's Democratic Republic"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Lao People's Democratic Republic"@en .
-
-mrtermer:c00681 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00681" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Latin America"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Latin America"@en ;
-    skos:related mrtermer:c00118,
-        mrtermer:c01158 .
-
-mrtermer:c00682 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00682" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Latvia"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Latvia"@en .
-
-mrtermer:c00689 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00689" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Lebanon"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Lebanon"@en .
-
-mrtermer:c00701 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00701" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Lesotho"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Lesotho"@en .
-
-mrtermer:c00704 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00704" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Liberia"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Liberia"@en .
-
-mrtermer:c00710 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00710" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Lithuania"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Lithuania"@en .
-
-mrtermer:c00716 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00716" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Macedonia, Former Yugoslav Republic Of"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Macedonia, Former Yugoslav Republic Of"@en .
-
-mrtermer:c00717 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00717" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Madagascar"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Madagascar"@en .
-
-mrtermer:c00720 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00720" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Malawi"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Malawi"@en .
-
-mrtermer:c00721 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00721" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Malaysia"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Malaysia"@en .
-
-mrtermer:c00722 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00722" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Mali"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Mali"@en .
-
-mrtermer:c00739 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00739" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Mauritania"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Mauritania"@en .
-
-mrtermer:c00740 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00740" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Mauritius"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Mauritius"@en .
-
-mrtermer:c00753 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00753" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Mexico"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Mexico"@en .
-
-mrtermer:c00754 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00754" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Middle East"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Middle East"@en .
-
-mrtermer:c00775 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00775" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Moldova, Republic Of"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Moldova, Republic Of"@en .
-
-mrtermer:c00776 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00776" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Mongolia"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Mongolia"@en .
-
-mrtermer:c00778 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00778" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Montenegro"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Montenegro"@en .
-
-mrtermer:c00779 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00779" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Morocco"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Morocco"@en .
-
-mrtermer:c00780 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00780" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Mozambique"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Mozambique"@en .
-
-mrtermer:c00785 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00785" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Namibia"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Namibia"@en .
-
-mrtermer:c00804 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00804" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Nepal"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Nepal"@en .
-
-mrtermer:c00805 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00805" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Netherlands"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Netherlands"@en .
-
-mrtermer:c00808 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00808" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "New Zealand"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "New Zealand"@en .
-
-mrtermer:c00813 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00813" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Nicaragua"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Nicaragua"@en .
-
-mrtermer:c00814 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00814" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Niger"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Niger"@en .
-
-mrtermer:c00815 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00815" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Nigeria"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Nigeria"@en .
-
-mrtermer:c00822 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00822" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Nordic Countries"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Nordic Countries"@en .
-
-mrtermer:c00824 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00824" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Northern Africa"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Northern Africa"@en .
-
-mrtermer:c00825 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00825" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Northern America"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Northern America"@en .
-
-mrtermer:c00826 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00826" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Northern Europe"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Northern Europe"@en .
-
-mrtermer:c00827 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00827" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Northern Ireland [United Kingdom]"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Northern Ireland [United Kingdom]"@en .
-
-mrtermer:c00828 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00828" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Norway"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Norway"@en .
-
-mrtermer:c00836 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00836" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Occupied Palestinian Territory"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Occupied Palestinian Territory"@en .
-
-mrtermer:c00837 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00837" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Oceania"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Oceania"@en .
-
-mrtermer:c00847 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00847" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Pacific Region"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Pacific Region"@en .
-
-mrtermer:c00849 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00849" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Pakistan"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Pakistan"@en .
-
-mrtermer:c00851 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00851" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Panama"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Panama"@en .
-
-mrtermer:c00852 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00852" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Papua New Guinea"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Papua New Guinea"@en .
-
-mrtermer:c00853 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00853" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Paraguay"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Paraguay"@en .
-
-mrtermer:c00879 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00879" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Peru"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Peru"@en .
-
-mrtermer:c00881 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00881" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Philippines"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Philippines"@en .
-
-mrtermer:c00889 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00889" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Poland"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Poland"@en .
-
-mrtermer:c00918 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00918" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Polynesia"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Polynesia"@en .
-
-mrtermer:c00925 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00925" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Portugal"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Portugal"@en .
-
-mrtermer:c00978 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR00978" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Qatar"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Qatar"@en .
-
-mrtermer:c01078 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01078" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Romania"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Romania"@en .
-
-mrtermer:c01084 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01084" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Russian Federation"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Russian Federation"@en .
-
-mrtermer:c01085 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01085" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Rwanda"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Rwanda"@en .
-
-mrtermer:c01090 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01090" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Sao Tome And Principe"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Sao Tome And Principe"@en .
-
-mrtermer:c01091 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01091" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Saudi Arabia"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Saudi Arabia"@en .
-
-mrtermer:c01108 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01108" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Senegal"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Senegal"@en .
-
-mrtermer:c01112 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01112" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Serbia"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Serbia"@en .
-
-mrtermer:c01123 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01123" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Sierra Leone"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Sierra Leone"@en .
-
-mrtermer:c01125 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01125" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Singapore"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Singapore"@en .
-
-mrtermer:c01128 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01128" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Slovakia"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Slovakia"@en .
-
-mrtermer:c01129 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01129" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Slovenia"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Slovenia"@en .
-
-mrtermer:c01155 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01155" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Solomon Islands"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Solomon Islands"@en .
-
-mrtermer:c01156 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01156" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Somalia"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Somalia"@en .
-
-mrtermer:c01157 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01157" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "South Africa"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "South Africa"@en .
-
-mrtermer:c01158 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01158" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "South America"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "South America"@en .
-
-mrtermer:c01159 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01159" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "South Asia"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "South Asia"@en .
-
-mrtermer:c01160 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01160" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "South Sudan"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "South Sudan"@en .
-
-mrtermer:c01161 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01161" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "South-East Asia"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "South-East Asia"@en .
-
-mrtermer:c01162 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01162" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Southern Africa"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Southern Africa"@en .
-
-mrtermer:c01163 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01163" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Southern Europe"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Southern Europe"@en .
-
-mrtermer:c01165 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01165" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Spain"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Spain"@en .
-
-mrtermer:c01170 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01170" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Sri Lanka"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Sri Lanka"@en .
-
-mrtermer:c01186 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01186" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Sudan"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Sudan"@en .
-
-mrtermer:c01188 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01188" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Suriname"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Suriname"@en .
-
-mrtermer:c01190 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01190" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Swaziland"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Swaziland"@en .
-
-mrtermer:c01191 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01191" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Sweden"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Sweden"@en .
-
-mrtermer:c01192 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01192" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Switzerland"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Switzerland"@en .
-
-mrtermer:c01193 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01193" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Syrian Arab Republic"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Syrian Arab Republic"@en .
-
-mrtermer:c01195 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01195" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Taiwan, Province Of China"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Taiwan, Province Of China"@en .
-
-mrtermer:c01196 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01196" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Tajikistan"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Tajikistan"@en .
-
-mrtermer:c01198 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01198" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Tanzania, United Republic Of"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Tanzania, United Republic Of"@en .
-
-mrtermer:c01206 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01206" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Thailand"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Thailand"@en .
-
-mrtermer:c01210 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01210" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Tibet [China]"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Tibet [China]"@en .
-
-mrtermer:c01212 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01212" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Togo"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Togo"@en .
-
-mrtermer:c01238 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01238" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Trinidad And Tobago"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Trinidad And Tobago"@en .
-
-mrtermer:c01241 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01241" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Tunisia"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Tunisia"@en .
-
-mrtermer:c01242 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01242" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Turkey"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Turkey"@en .
-
-mrtermer:c01243 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01243" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Uganda"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Uganda"@en .
-
-mrtermer:c01244 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01244" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Ukraine"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Ukraine"@en .
-
-mrtermer:c01246 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01246" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "United Arab Emirates"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "United Arab Emirates"@en .
-
-mrtermer:c01247 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01247" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "United Kingdom"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "United Kingdom"@en .
-
-mrtermer:c01250 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01250" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "United States"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "United States"@en .
-
-mrtermer:c01261 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01261" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Uruguay"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Uruguay"@en .
-
-mrtermer:c01263 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01263" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Uzbekistan"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Uzbekistan"@en .
-
-mrtermer:c01266 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01266" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Venezuela"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Venezuela"@en .
-
-mrtermer:c01270 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01270" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Viet Nam"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Viet Nam"@en .
-
-mrtermer:c01279 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01279" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Wales"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Wales"@en .
-
-mrtermer:c01288 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01288" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "West Bank"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "West Bank"@en .
-
-mrtermer:c01289 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01289" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Western Africa"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Western Africa"@en .
-
-mrtermer:c01290 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01290" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Western Europe"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Western Europe"@en .
-
-mrtermer:c01310 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01310" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Yemen"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Yemen"@en .
-
-mrtermer:c01313 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01313" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Yugoslavia"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Yugoslavia"@en .
-
-mrtermer:c01314 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01314" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Zaire"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Zaire"@en .
-
-mrtermer:c01315 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01315" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Zambia"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Zambia"@en .
-
-mrtermer:c01316 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01316" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Zanzibar"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Zanzibar"@en .
-
-mrtermer:c01317 a ubo:Place,
-        skos:Concept ;
-    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR01317" ;
-    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
-    skos:altLabel "Zimbabwe"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Zimbabwe"@en .
+mrtermer: a void:Dataset,
+        skos:ConceptScheme,
+        sd:Graph ;
+    rdfs:label "Human Rights Terms"@en,
+        "Menneskerettighetstermer"@nb ;
+    cc:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:creator library:k ;
+    dcterms:description "Human Rights Terms is a controlled subject headings vocabulary covering mainly human rights literature, and is maintained by the Human Rights Library, part of the UiO Law Library."@en,
+        "Menneskerettighetstermer er et kontrollert, pre-koordinert emneordsvokabular som forvaltes og videreutvikles av Norsk senter for menneskerettigheters (SMR) bibliotek."@nb ;
+    dcterms:language lexvo:eng ;
+    dcterms:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:modified "2018-06-12T19:01:27+00:00"^^xsd:dateTime ;
+    dcterms:publisher library:k ;
+    dcterms:title "Human Rights Terms"@en,
+        "Menneskerettighetstermer"@nb ;
+    dcterms:type <http://purl.org/dc/dcmitype/Dataset>,
+        <http://purl.org/nkos/nkostype/subject_heading_scheme> ;
+    void:dataDump <http://data.ub.uio.no/dumps/mrtermer.ttl> ;
+    void:exampleResource mrtermer:c00007 ;
+    void:sparqlEndpoint <http://data.ub.uio.no/sparql> ;
+    void:uriSpace mrtermer: ;
+    void:vocabulary mads:,
+        skos: .
+
+library:k a foaf:Organization ;
+    rdfs:label "University of Oslo Library"@en,
+        "Universitetsbiblioteket i Oslo"@nb ;
+    owl:sameAs <http://dbpedia.org/resource/University_Library_of_Oslo>,
+        <http://viaf.org/viaf/155670338/>,
+        <http://www.wikidata.org/entity/Q3354774> .
+
+<http://data.ub.uio.no/sparql> a sd:Service ;
+    sd:defaultDataset <http://data.ub.uio.no/sparql/dataset> ;
+    sd:feature sd:UnionDefaultGraph ;
+    sd:supportedLanguage sd:SPARQL11Query ;
+    sd:url <http://data.ub.uio.no/sparql> .
+
+<http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
+    dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
+    dcterms:title "data.ub.uio.no" ;
+    sd:defaultGraph <http://data.ub.uio.no/sparql/graphs/default> ;
+    sd:namedGraph <http://data.ub.uio.no/sparql/graphs/mrtermer> .
+
+<http://data.ub.uio.no/sparql/graphs/default> a sd:Graph .
+
+<http://data.ub.uio.no/sparql/graphs/mrtermer> a sd:NamedGraph ;
+    sd:graph mrtermer: ;
+    sd:name mrtermer: .
+
+ubo: a owl:Ontology ;
+    owl:versionInfo "0.1.0" .
+
+ubo:CompoundConcept a owl:Class ;
+    rdfs:label "Compound concept"@en,
+        "Emnestreng"@nb ;
+    rdfs:description "A concept composed of two or more concepts from the same vocabulary."@en ;
+    rdfs:subClassOf mads:ComplexSubject,
+        skos:Concept .
+
+ubo:GenreForm a owl:Class ;
+    rdfs:label "Form/genre"@en,
+        "Form/sjanger"@nb ;
+    rdfs:description "A genre or form."@en ;
+    rdfs:subClassOf mads:GenreForm,
+        skos:Concept .
+
+ubo:Place a owl:Class ;
+    rdfs:label "Place"@en,
+        "Sted"@nb ;
+    rdfs:description "A geographic place or feature."@en ;
+    rdfs:subClassOf mads:Geographic,
+        skos:Concept .
+
+ubo:Time a owl:Class ;
+    rdfs:label "Time period"@en,
+        "Tidsperiode"@nb ;
+    rdfs:description "A temporal entity."@en ;
+    rdfs:subClassOf mads:Temporal,
+        skos:Concept .
+
+ubo:Topic a owl:Class ;
+    rdfs:label "Topic"@en,
+        "Innholdsbeskrivende emne"@nb ;
+    rdfs:description "A topical subject senso stricto."@en ;
+    rdfs:subClassOf mads:Topic,
+        skos:Concept .
+
+ubo:VirtualCompoundConcept a owl:Class ;
+    rdfs:label "Virtual compound concept"@en,
+        "Virtuell emnestreng"@nb ;
+    rdfs:description "A compound concept used as a search guide, but indexed as separate concepts."@en ;
+    rdfs:subClassOf mads:ComplexSubject,
+        skos:Concept .
+
+ubo:elementSymbol a owl:DatatypeProperty ;
+    rdfs:label "Chemical element symbol"@en,
+        "Kjemisk symbol"@nb ;
+    rdfs:domain skos:Concept ;
+    rdfs:range rdfs:Literal .
 
 mrtermer:c00001 a ubo:Topic,
         skos:Concept ;
@@ -2163,6 +280,15 @@ mrtermer:c00011 a ubo:Topic,
         mrtermer:c01068,
         mrtermer:c01107 .
 
+mrtermer:c00012 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00012" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Aceh"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Aceh"@en .
+
 mrtermer:c00013 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -2256,6 +382,24 @@ mrtermer:c00019 a ubo:Topic,
         mrtermer:c01194,
         mrtermer:c01300 .
 
+mrtermer:c00020 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00020" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Afghanistan"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Afghanistan"@en .
+
+mrtermer:c00021 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00021" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Africa"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Africa"@en .
+
 mrtermer:c00022 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -2329,6 +473,24 @@ mrtermer:c00026 a ubo:Topic,
         mrtermer:c00517,
         mrtermer:c00873 .
 
+mrtermer:c00027 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00027" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Albania"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Albania"@en .
+
+mrtermer:c00028 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00028" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Algeria"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Algeria"@en .
+
 mrtermer:c00029 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -2363,6 +525,24 @@ mrtermer:c00030 a ubo:Topic,
     skos:prefLabel "Alternative legal services"@en ;
     skos:related mrtermer:c00008,
         mrtermer:c00690 .
+
+mrtermer:c00031 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00031" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "America"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "America"@en .
+
+mrtermer:c00032 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00032" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Americas"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Americas"@en .
 
 mrtermer:c00033 a ubo:Topic,
         skos:Concept ;
@@ -2403,6 +583,15 @@ mrtermer:c00036 a ubo:Topic,
     skos:prefLabel "Amparo"@en ;
     skos:related mrtermer:c00008,
         mrtermer:c00648 .
+
+mrtermer:c00037 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00037" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Angola"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Angola"@en .
 
 mrtermer:c00038 a ubo:Topic,
         skos:Concept ;
@@ -2501,6 +690,15 @@ mrtermer:c00044 a ubo:Topic,
         mrtermer:c00667,
         mrtermer:c00741 .
 
+mrtermer:c00045 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00045" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Argentina"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Argentina"@en .
+
 mrtermer:c00046 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -2570,6 +768,15 @@ mrtermer:c00048 a ubo:Topic,
         mrtermer:c01070,
         mrtermer:c01256 .
 
+mrtermer:c00049 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00049" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Armenia"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Armenia"@en .
+
 mrtermer:c00050 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -2637,6 +844,15 @@ mrtermer:c00054 a ubo:Topic,
     skos:prefLabel "Artists"@en ;
     skos:related mrtermer:c00589 .
 
+mrtermer:c00055 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00055" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Asia"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Asia"@en .
+
 mrtermer:c00056 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -2665,6 +881,33 @@ mrtermer:c00057 a ubo:Topic,
     skos:prefLabel "Asylum seekers"@en ;
     skos:related mrtermer:c01000 .
 
+mrtermer:c00058 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00058" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Australia"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Australia"@en .
+
+mrtermer:c00059 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00059" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Austria"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Austria"@en .
+
+mrtermer:c00060 a ubo:GenreForm,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00060" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Autobiographies"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Autobiographies"@en .
+
 mrtermer:c00061 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -2676,6 +919,15 @@ mrtermer:c00061 a ubo:Topic,
     skos:related mrtermer:c01002,
         mrtermer:c01106 .
 
+mrtermer:c00062 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00062" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Azerbaijan"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Azerbaijan"@en .
+
 mrtermer:c00063 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -2684,6 +936,33 @@ mrtermer:c00063 a ubo:Topic,
     skos:altLabel "Baha'i"@en ;
     skos:inScheme mrtermer: ;
     skos:prefLabel "Baha'i"@en .
+
+mrtermer:c00064 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00064" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Bahrain"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Bahrain"@en .
+
+mrtermer:c00065 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00065" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Bali"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Bali"@en .
+
+mrtermer:c00066 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00066" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Balkans"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Balkans"@en .
 
 mrtermer:c00067 a ubo:Topic,
         skos:Concept ;
@@ -2695,6 +974,15 @@ mrtermer:c00067 a ubo:Topic,
     skos:prefLabel "Ballot papers"@en ;
     skos:related mrtermer:c00360,
         mrtermer:c01075 .
+
+mrtermer:c00068 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00068" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Bangladesh"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Bangladesh"@en .
 
 mrtermer:c00069 a ubo:Topic,
         skos:Concept ;
@@ -2753,6 +1041,33 @@ mrtermer:c00072 a ubo:Topic,
         mrtermer:c01258,
         mrtermer:c01286 .
 
+mrtermer:c00073 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00073" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Belarus"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Belarus"@en .
+
+mrtermer:c00074 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00074" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Belgium"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Belgium"@en .
+
+mrtermer:c00075 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00075" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Belize"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Belize"@en .
+
 mrtermer:c00076 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -2765,6 +1080,15 @@ mrtermer:c00076 a ubo:Topic,
         mrtermer:c00125,
         mrtermer:c00133,
         mrtermer:c00135 .
+
+mrtermer:c00077 a ubo:GenreForm,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00077" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Bibliographies"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Bibliographies"@en .
 
 mrtermer:c00078 a ubo:Topic,
         skos:Concept ;
@@ -2817,6 +1141,15 @@ mrtermer:c00081 a ubo:Topic,
         mrtermer:c00951,
         mrtermer:c01025 .
 
+mrtermer:c00082 a ubo:GenreForm,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00082" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Biographies"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Biographies"@en .
+
 mrtermer:c00083 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -2859,6 +1192,15 @@ mrtermer:c00086 a ubo:Topic,
     skos:prefLabel "Birth rate"@en ;
     skos:related mrtermer:c00922 .
 
+mrtermer:c00087 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00087" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Bolivia"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Bolivia"@en .
+
 mrtermer:c00088 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -2871,6 +1213,24 @@ mrtermer:c00088 a ubo:Topic,
         mrtermer:c01059,
         mrtermer:c01113,
         mrtermer:c01127 .
+
+mrtermer:c00089 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00089" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Bosnia And Herzegovina"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Bosnia And Herzegovina"@en .
+
+mrtermer:c00090 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00090" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Botswana"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Botswana"@en .
 
 mrtermer:c00091 a ubo:Topic,
         skos:Concept ;
@@ -2898,6 +1258,15 @@ mrtermer:c00092 a ubo:Topic,
         mrtermer:c00453,
         mrtermer:c00622 .
 
+mrtermer:c00093 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00093" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Brazil"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Brazil"@en .
+
 mrtermer:c00094 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -2919,6 +1288,15 @@ mrtermer:c00095 a ubo:Topic,
     skos:inScheme mrtermer: ;
     skos:prefLabel "Buddhism"@en .
 
+mrtermer:c00096 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00096" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Bulgaria"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Bulgaria"@en .
+
 mrtermer:c00097 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -2928,6 +1306,34 @@ mrtermer:c00097 a ubo:Topic,
         "Onus of proof"@en ;
     skos:inScheme mrtermer: ;
     skos:prefLabel "Burden of proof"@en .
+
+mrtermer:c00098 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00098" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Burkina Faso"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Burkina Faso"@en .
+
+mrtermer:c00099 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00099" ;
+    dcterms:modified "2016-04-18T15:05:16+00:00"^^xsd:dateTime ;
+    skos:altLabel "Burma"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Burma"@en ;
+    skos:related mrtermer:c001327 .
+
+mrtermer:c00100 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00100" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Burundi"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Burundi"@en .
 
 mrtermer:c00101 a ubo:Topic,
         skos:Concept ;
@@ -2941,6 +1347,33 @@ mrtermer:c00101 a ubo:Topic,
         mrtermer:c00386,
         mrtermer:c00450,
         mrtermer:c00948 .
+
+mrtermer:c00102 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00102" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Cambodia"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Cambodia"@en .
+
+mrtermer:c00103 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00103" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Cameroon"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Cameroon"@en .
+
+mrtermer:c00104 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00104" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Canada"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Canada"@en .
 
 mrtermer:c00105 a ubo:Topic,
         skos:Concept ;
@@ -2962,6 +1395,15 @@ mrtermer:c00106 a ubo:Topic,
     skos:inScheme mrtermer: ;
     skos:prefLabel "Career development"@en .
 
+mrtermer:c00107 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00107" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Caribbean"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Caribbean"@en .
+
 mrtermer:c00108 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -2971,6 +1413,15 @@ mrtermer:c00108 a ubo:Topic,
         "Jurisprudence"@en ;
     skos:inScheme mrtermer: ;
     skos:prefLabel "Case law"@en .
+
+mrtermer:c00109 a ubo:GenreForm,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00109" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Case studies"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Case studies"@en .
 
 mrtermer:c00110 a ubo:Topic,
         skos:Concept ;
@@ -3004,6 +1455,15 @@ mrtermer:c00112 a ubo:Topic,
     skos:altLabel "Catholicism"@en ;
     skos:inScheme mrtermer: ;
     skos:prefLabel "Catholicism"@en .
+
+mrtermer:c00113 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00113" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Caucasus"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Caucasus"@en .
 
 mrtermer:c00114 a ubo:Topic,
         skos:Concept ;
@@ -3047,6 +1507,24 @@ mrtermer:c00116 a ubo:Topic,
         mrtermer:c00467,
         mrtermer:c00924,
         mrtermer:c00959 .
+
+mrtermer:c00117 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00117" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Central African Republic"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Central African Republic"@en .
+
+mrtermer:c00118 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00118" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Central America"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Central America"@en .
 
 mrtermer:c00119 a ubo:Topic,
         skos:Concept ;
@@ -3253,24 +1731,6 @@ mrtermer:c00132 a ubo:Topic,
         mrtermer:c00561,
         mrtermer:c00857 .
 
-mrtermer:c001325 a ubo:Topic,
-        skos:Concept ;
-    dcterms:created "2016-04-15T10:17:02+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR001325" ;
-    dcterms:modified "2016-04-15T10:17:32+00:00"^^xsd:dateTime ;
-    skos:altLabel "Knuts exercise"@en ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "Knuts testterm"@en .
-
-mrtermer:c001328 a ubo:Topic,
-        skos:Concept ;
-    dcterms:created "2016-04-19T08:36:07+00:00"^^xsd:dateTime ;
-    dcterms:identifier "SMR001328" ;
-    dcterms:modified "2016-04-19T14:39:48+00:00"^^xsd:dateTime ;
-    skos:inScheme mrtermer: ;
-    skos:prefLabel "R2P"@en ;
-    skos:related mrtermer:c01032 .
-
 mrtermer:c00133 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -3352,6 +1812,24 @@ mrtermer:c00137 a ubo:Topic,
     skos:altLabel "Children's rights"@en ;
     skos:inScheme mrtermer: ;
     skos:prefLabel "Children's rights"@en .
+
+mrtermer:c00138 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00138" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Chile"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Chile"@en .
+
+mrtermer:c00139 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00139" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "China"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "China"@en .
 
 mrtermer:c00140 a ubo:Topic,
         skos:Concept ;
@@ -3626,6 +2104,15 @@ mrtermer:c00160 a ubo:Topic,
         mrtermer:c00770,
         mrtermer:c01106 .
 
+mrtermer:c00161 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00161" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Colombia"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Colombia"@en .
+
 mrtermer:c00162 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -3678,6 +2165,15 @@ mrtermer:c00165 a ubo:Topic,
     skos:altLabel "Comfort women"@en ;
     skos:inScheme mrtermer: ;
     skos:prefLabel "Comfort women"@en .
+
+mrtermer:c00166 a ubo:GenreForm,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00166" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Commentaries"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Commentaries"@en .
 
 mrtermer:c00167 a ubo:Topic,
         skos:Concept ;
@@ -3786,6 +2282,15 @@ mrtermer:c00175 a ubo:Topic,
     skos:prefLabel "Community services"@en ;
     skos:related mrtermer:c00174,
         mrtermer:c00506 .
+
+mrtermer:c00176 a ubo:GenreForm,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00176" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Comparative analysis"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Comparative analysis"@en .
 
 mrtermer:c00177 a ubo:Topic,
         skos:Concept ;
@@ -3916,6 +2421,24 @@ mrtermer:c00187 a ubo:Topic,
     skos:altLabel "Confucianism"@en ;
     skos:inScheme mrtermer: ;
     skos:prefLabel "Confucianism"@en .
+
+mrtermer:c00188 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00188" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Congo"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Congo"@en .
+
+mrtermer:c00189 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00189" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Congo, The Democratic Republic Of"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Congo, The Democratic Republic Of"@en .
 
 mrtermer:c00190 a ubo:Topic,
         skos:Concept ;
@@ -4155,6 +2678,24 @@ mrtermer:c00209 a ubo:Topic,
     skos:inScheme mrtermer: ;
     skos:prefLabel "Cosmopolitanism"@en .
 
+mrtermer:c00210 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00210" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Costa Rica"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Costa Rica"@en .
+
+mrtermer:c00211 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00211" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Cote D'Ivoire"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Cote D'Ivoire"@en .
+
 mrtermer:c00212 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -4256,6 +2797,15 @@ mrtermer:c00219 a ubo:Topic,
     skos:related mrtermer:c00538,
         mrtermer:c00762,
         mrtermer:c00767 .
+
+mrtermer:c00220 a ubo:GenreForm,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00220" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Covenants"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Covenants"@en .
 
 mrtermer:c00221 a ubo:Topic,
         skos:Concept ;
@@ -4413,6 +2963,15 @@ mrtermer:c00230 a ubo:Topic,
         mrtermer:c00653,
         mrtermer:c00654 .
 
+mrtermer:c00231 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00231" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Croatia"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Croatia"@en .
+
 mrtermer:c00232 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -4495,6 +3054,15 @@ mrtermer:c00237 a ubo:Topic,
         mrtermer:c00964,
         mrtermer:c01034,
         mrtermer:c01074 .
+
+mrtermer:c00238 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00238" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Cuba"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Cuba"@en .
 
 mrtermer:c00239 a ubo:Topic,
         skos:Concept ;
@@ -4661,6 +3229,24 @@ mrtermer:c00249 a ubo:Topic,
     skos:altLabel "Customs and traditions"@en ;
     skos:inScheme mrtermer: ;
     skos:prefLabel "Customs and traditions"@en .
+
+mrtermer:c00250 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00250" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Cyprus"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Cyprus"@en .
+
+mrtermer:c00251 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00251" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Czech Republic"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Czech Republic"@en .
 
 mrtermer:c00252 a ubo:Topic,
         skos:Concept ;
@@ -4870,6 +3456,15 @@ mrtermer:c00266 a ubo:Topic,
         mrtermer:c00968,
         mrtermer:c00969,
         mrtermer:c01146 .
+
+mrtermer:c00267 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00267" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Denmark"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Denmark"@en .
 
 mrtermer:c00268 a ubo:Topic,
         skos:Concept ;
@@ -5131,6 +3726,15 @@ mrtermer:c00284 a ubo:Topic,
     skos:related mrtermer:c00763,
         mrtermer:c01218 .
 
+mrtermer:c00285 a ubo:GenreForm,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00285" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Dictionaries"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Dictionaries"@en .
+
 mrtermer:c00286 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -5139,6 +3743,15 @@ mrtermer:c00286 a ubo:Topic,
     skos:altLabel "Diplomats"@en ;
     skos:inScheme mrtermer: ;
     skos:prefLabel "Diplomats"@en .
+
+mrtermer:c00287 a ubo:GenreForm,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00287" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Directories"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Directories"@en .
 
 mrtermer:c00288 a ubo:Topic,
         skos:Concept ;
@@ -5583,6 +4196,15 @@ mrtermer:c00320 a ubo:Topic,
     skos:inScheme mrtermer: ;
     skos:prefLabel "Domestic workers"@en .
 
+mrtermer:c00321 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00321" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Dominican Republic"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Dominican Republic"@en .
+
 mrtermer:c00322 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -5686,6 +4308,15 @@ mrtermer:c00330 a ubo:Topic,
     skos:related mrtermer:c00114,
         mrtermer:c00615 .
 
+mrtermer:c00331 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00331" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "East Timor"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "East Timor"@en .
+
 mrtermer:c00332 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -5697,6 +4328,33 @@ mrtermer:c00332 a ubo:Topic,
     skos:related mrtermer:c00051,
         mrtermer:c00602,
         mrtermer:c00621 .
+
+mrtermer:c00333 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00333" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Eastern Africa"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Eastern Africa"@en .
+
+mrtermer:c00334 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00334" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Eastern Asia"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Eastern Asia"@en .
+
+mrtermer:c00335 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00335" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Eastern Europe"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Eastern Europe"@en .
 
 mrtermer:c00336 a ubo:Topic,
         skos:Concept ;
@@ -5857,6 +4515,15 @@ mrtermer:c00348 a ubo:Topic,
     skos:inScheme mrtermer: ;
     skos:prefLabel "Economy"@en .
 
+mrtermer:c00349 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00349" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Ecuador"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Ecuador"@en .
+
 mrtermer:c00350 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -5935,6 +4602,24 @@ mrtermer:c00353 a ubo:Topic,
     skos:related mrtermer:c00352,
         mrtermer:c01093,
         mrtermer:c01200 .
+
+mrtermer:c00354 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00354" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Egypt"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Egypt"@en .
+
+mrtermer:c00355 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00355" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "El Salvador"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "El Salvador"@en .
 
 mrtermer:c00356 a ubo:Topic,
         skos:Concept ;
@@ -6176,6 +4861,15 @@ mrtermer:c00371 a ubo:Topic,
         mrtermer:c01296,
         mrtermer:c01297 .
 
+mrtermer:c00372 a ubo:GenreForm,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00372" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Encyclopedias"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Encyclopedias"@en .
+
 mrtermer:c00373 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -6325,6 +5019,24 @@ mrtermer:c00383 a ubo:Topic,
         mrtermer:c00528,
         mrtermer:c01134 .
 
+mrtermer:c00384 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00384" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Eritrea"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Eritrea"@en .
+
+mrtermer:c00385 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00385" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Estonia"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Estonia"@en .
+
 mrtermer:c00386 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -6350,6 +5062,15 @@ mrtermer:c00387 a ubo:Topic,
         mrtermer:c00742,
         mrtermer:c00951,
         mrtermer:c01265 .
+
+mrtermer:c00388 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00388" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Ethiopia"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Ethiopia"@en .
 
 mrtermer:c00389 a ubo:Topic,
         skos:Concept ;
@@ -6479,6 +5200,15 @@ mrtermer:c00397 a ubo:Topic,
     skos:altLabel "EU"@en ;
     skos:inScheme mrtermer: ;
     skos:prefLabel "EU"@en .
+
+mrtermer:c00398 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00398" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Europe"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Europe"@en .
 
 mrtermer:c00399 a ubo:Topic,
         skos:Concept ;
@@ -6938,6 +5668,15 @@ mrtermer:c00433 a ubo:Topic,
         mrtermer:c01025,
         mrtermer:c01060 .
 
+mrtermer:c00434 a ubo:GenreForm,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00434" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Fiction"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Fiction"@en .
+
 mrtermer:c00435 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -6948,6 +5687,15 @@ mrtermer:c00435 a ubo:Topic,
     skos:prefLabel "Financial crisis"@en ;
     skos:related mrtermer:c00336,
         mrtermer:c00339 .
+
+mrtermer:c00436 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00436" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Finland"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Finland"@en .
 
 mrtermer:c00437 a ubo:Topic,
         skos:Concept ;
@@ -7223,6 +5971,15 @@ mrtermer:c00455 a ubo:Topic,
         mrtermer:c00133,
         mrtermer:c01038 .
 
+mrtermer:c00456 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00456" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "France"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "France"@en .
+
 mrtermer:c00457 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -7460,6 +6217,15 @@ mrtermer:c00471 a ubo:Topic,
     skos:prefLabel "Fundraising"@en ;
     skos:related mrtermer:c00812 .
 
+mrtermer:c00472 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00472" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Gambia"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Gambia"@en .
+
 mrtermer:c00473 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -7519,6 +6285,42 @@ mrtermer:c00476 a ubo:Topic,
         mrtermer:c00923,
         mrtermer:c00983,
         mrtermer:c01280 .
+
+mrtermer:c00477 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00477" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Georgia"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Georgia"@en .
+
+mrtermer:c00478 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00478" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "German Democratic Republic"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "German Democratic Republic"@en .
+
+mrtermer:c00479 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00479" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Germany"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Germany"@en .
+
+mrtermer:c00480 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00480" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Ghana"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Ghana"@en .
 
 mrtermer:c00481 a ubo:Topic,
         skos:Concept ;
@@ -7642,6 +6444,24 @@ mrtermer:c00489 a ubo:Topic,
         mrtermer:c00920,
         mrtermer:c01301 .
 
+mrtermer:c00490 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00490" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Greece"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Greece"@en .
+
+mrtermer:c00491 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00491" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Greenland [Denmark]"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Greenland [Denmark]"@en .
+
 mrtermer:c00492 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -7669,6 +6489,15 @@ mrtermer:c00493 a ubo:Topic,
     skos:inScheme mrtermer: ;
     skos:prefLabel "Group rights"@en .
 
+mrtermer:c00494 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00494" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Guatemala"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Guatemala"@en .
+
 mrtermer:c00495 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -7683,6 +6512,24 @@ mrtermer:c00495 a ubo:Topic,
         mrtermer:c01035,
         mrtermer:c01256 .
 
+mrtermer:c00496 a ubo:GenreForm,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00496" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Guidelines"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Guidelines"@en .
+
+mrtermer:c00497 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00497" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Guyana"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Guyana"@en .
+
 mrtermer:c00498 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -7696,6 +6543,15 @@ mrtermer:c00498 a ubo:Topic,
         mrtermer:c00053,
         mrtermer:c00274,
         mrtermer:c00648 .
+
+mrtermer:c00499 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00499" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Haiti"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Haiti"@en .
 
 mrtermer:c00500 a ubo:Topic,
         skos:Concept ;
@@ -7985,6 +6841,24 @@ mrtermer:c00521 a ubo:Topic,
     skos:related mrtermer:c00303,
         mrtermer:c00473 .
 
+mrtermer:c00522 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00522" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Honduras"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Honduras"@en .
+
+mrtermer:c00523 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00523" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Hong Kong"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Hong Kong"@en .
+
 mrtermer:c00524 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -8243,6 +7117,15 @@ mrtermer:c00541 a ubo:Topic,
         mrtermer:c00610,
         mrtermer:c00618 .
 
+mrtermer:c00542 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00542" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Hungary"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Hungary"@en .
+
 mrtermer:c00543 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -8260,6 +7143,15 @@ mrtermer:c00543 a ubo:Topic,
         mrtermer:c00723,
         mrtermer:c00928,
         mrtermer:c01053 .
+
+mrtermer:c00544 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00544" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Iceland"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Iceland"@en .
 
 mrtermer:c00545 a ubo:Topic,
         skos:Concept ;
@@ -8514,6 +7406,15 @@ mrtermer:c00564 a ubo:Topic,
         mrtermer:c00646,
         mrtermer:c00649 .
 
+mrtermer:c00565 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00565" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "India"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "India"@en .
+
 mrtermer:c00566 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -8647,6 +7548,15 @@ mrtermer:c00574 a ubo:Topic,
         mrtermer:c00464,
         mrtermer:c00990,
         mrtermer:c01013 .
+
+mrtermer:c00575 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00575" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Indonesia"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Indonesia"@en .
 
 mrtermer:c00576 a ubo:Topic,
         skos:Concept ;
@@ -9409,6 +8319,33 @@ mrtermer:c00630 a ubo:Topic,
         mrtermer:c01205,
         mrtermer:c01294 .
 
+mrtermer:c00631 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00631" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Iran, Islamic Republic Of"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Iran, Islamic Republic Of"@en .
+
+mrtermer:c00632 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00632" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Iraq"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Iraq"@en .
+
+mrtermer:c00633 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00633" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Ireland"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Ireland"@en .
+
 mrtermer:c00634 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -9428,6 +8365,51 @@ mrtermer:c00635 a ubo:Topic,
     skos:inScheme mrtermer: ;
     skos:prefLabel "Islamic law"@en .
 
+mrtermer:c00636 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00636" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Israel"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Israel"@en .
+
+mrtermer:c00637 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00637" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Italy"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Italy"@en .
+
+mrtermer:c00638 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00638" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Jamaica"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Jamaica"@en .
+
+mrtermer:c00639 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00639" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Japan"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Japan"@en .
+
+mrtermer:c00640 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00640" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Jerusalem"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Jerusalem"@en .
+
 mrtermer:c00641 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -9436,6 +8418,15 @@ mrtermer:c00641 a ubo:Topic,
     skos:altLabel "Jews"@en ;
     skos:inScheme mrtermer: ;
     skos:prefLabel "Jews"@en .
+
+mrtermer:c00642 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00642" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Jordan"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Jordan"@en .
 
 mrtermer:c00643 a ubo:Topic,
         skos:Concept ;
@@ -9449,6 +8440,15 @@ mrtermer:c00643 a ubo:Topic,
         mrtermer:c00579,
         mrtermer:c00732,
         mrtermer:c00810 .
+
+mrtermer:c00644 a ubo:GenreForm,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00644" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Journals"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Journals"@en .
 
 mrtermer:c00645 a ubo:Topic,
         skos:Concept ;
@@ -9576,6 +8576,33 @@ mrtermer:c00654 a ubo:Topic,
         mrtermer:c00273,
         mrtermer:c00653 .
 
+mrtermer:c00655 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00655" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Kashmir"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Kashmir"@en .
+
+mrtermer:c00656 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00656" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Kazakhstan"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Kazakhstan"@en .
+
+mrtermer:c00657 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00657" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Kenya"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Kenya"@en .
+
 mrtermer:c00658 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -9594,6 +8621,42 @@ mrtermer:c00658 a ubo:Topic,
         mrtermer:c01204,
         mrtermer:c01280 .
 
+mrtermer:c00659 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00659" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Korea, Democratic People's Republic Of"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Korea, Democratic People's Republic Of"@en .
+
+mrtermer:c00660 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00660" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Korea, Republic Of"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Korea, Republic Of"@en .
+
+mrtermer:c00661 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00661" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Kosovo"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Kosovo"@en .
+
+mrtermer:c00662 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00662" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Kurdistan"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Kurdistan"@en .
+
 mrtermer:c00663 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -9602,6 +8665,24 @@ mrtermer:c00663 a ubo:Topic,
     skos:altLabel "Kurds"@en ;
     skos:inScheme mrtermer: ;
     skos:prefLabel "Kurds"@en .
+
+mrtermer:c00664 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00664" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Kuwait"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Kuwait"@en .
+
+mrtermer:c00665 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00665" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Kyrgyzstan"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Kyrgyzstan"@en .
 
 mrtermer:c00666 a ubo:Topic,
         skos:Concept ;
@@ -9788,6 +8869,35 @@ mrtermer:c00679 a ubo:Topic,
     skos:related mrtermer:c00079,
         mrtermer:c00242 .
 
+mrtermer:c00680 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00680" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Lao People's Democratic Republic"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Lao People's Democratic Republic"@en .
+
+mrtermer:c00681 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00681" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Latin America"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Latin America"@en ;
+    skos:related mrtermer:c00118,
+        mrtermer:c01158 .
+
+mrtermer:c00682 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00682" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Latvia"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Latvia"@en .
+
 mrtermer:c00683 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -9874,6 +8984,15 @@ mrtermer:c00688 a ubo:Topic,
         mrtermer:c00807,
         mrtermer:c00823,
         mrtermer:c01050 .
+
+mrtermer:c00689 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00689" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Lebanon"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Lebanon"@en .
 
 mrtermer:c00690 a ubo:Topic,
         skos:Concept ;
@@ -10006,6 +9125,15 @@ mrtermer:c00700 a ubo:Topic,
     skos:related mrtermer:c00303,
         mrtermer:c00473 .
 
+mrtermer:c00701 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00701" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Lesotho"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Lesotho"@en .
+
 mrtermer:c00702 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -10027,6 +9155,15 @@ mrtermer:c00703 a ubo:Topic,
     skos:prefLabel "Liberation theology"@en ;
     skos:related mrtermer:c00143,
         mrtermer:c01136 .
+
+mrtermer:c00704 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00704" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Liberia"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Liberia"@en .
 
 mrtermer:c00705 a ubo:Topic,
         skos:Concept ;
@@ -10084,6 +9221,15 @@ mrtermer:c00709 a ubo:Topic,
     skos:related mrtermer:c00461,
         mrtermer:c01307 .
 
+mrtermer:c00710 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00710" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Lithuania"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Lithuania"@en .
+
 mrtermer:c00711 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -10133,6 +9279,24 @@ mrtermer:c00715 a ubo:Topic,
     skos:inScheme mrtermer: ;
     skos:prefLabel "Maastricht Guidelines"@en .
 
+mrtermer:c00716 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00716" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Macedonia, Former Yugoslav Republic Of"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Macedonia, Former Yugoslav Republic Of"@en .
+
+mrtermer:c00717 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00717" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Madagascar"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Madagascar"@en .
+
 mrtermer:c00718 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -10150,6 +9314,33 @@ mrtermer:c00719 a ubo:Topic,
     skos:altLabel "Mainstreaming human rights"@en ;
     skos:inScheme mrtermer: ;
     skos:prefLabel "Mainstreaming human rights"@en .
+
+mrtermer:c00720 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00720" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Malawi"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Malawi"@en .
+
+mrtermer:c00721 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00721" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Malaysia"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Malaysia"@en .
+
+mrtermer:c00722 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00722" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Mali"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Mali"@en .
 
 mrtermer:c00723 a ubo:Topic,
         skos:Concept ;
@@ -10185,6 +9376,15 @@ mrtermer:c00724 a ubo:Topic,
         mrtermer:c00916,
         mrtermer:c01039,
         mrtermer:c01285 .
+
+mrtermer:c00725 a ubo:GenreForm,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00725" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Manuals"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Manuals"@en .
 
 mrtermer:c00726 a ubo:Topic,
         skos:Concept ;
@@ -10297,6 +9497,15 @@ mrtermer:c00733 a ubo:Topic,
         mrtermer:c00983,
         mrtermer:c01280 .
 
+mrtermer:c00734 a ubo:GenreForm,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00734" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Master thesis NCHR"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Master thesis NCHR"@en .
+
 mrtermer:c00735 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -10342,6 +9551,24 @@ mrtermer:c00738 a ubo:Topic,
         mrtermer:c00728,
         mrtermer:c01066,
         mrtermer:c01169 .
+
+mrtermer:c00739 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00739" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Mauritania"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Mauritania"@en .
+
+mrtermer:c00740 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00740" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Mauritius"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Mauritius"@en .
 
 mrtermer:c00741 a ubo:Topic,
         skos:Concept ;
@@ -10499,6 +9726,33 @@ mrtermer:c00751 a ubo:Topic,
     skos:related mrtermer:c00047,
         mrtermer:c00048,
         mrtermer:c00854 .
+
+mrtermer:c00752 a ubo:GenreForm,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00752" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Methods"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Methods"@en .
+
+mrtermer:c00753 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00753" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Mexico"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Mexico"@en .
+
+mrtermer:c00754 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00754" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Middle East"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Middle East"@en .
 
 mrtermer:c00755 a ubo:Topic,
         skos:Concept ;
@@ -10803,6 +10057,24 @@ mrtermer:c00774 a ubo:Topic,
     skos:inScheme mrtermer: ;
     skos:prefLabel "Modernization"@en .
 
+mrtermer:c00775 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00775" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Moldova, Republic Of"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Moldova, Republic Of"@en .
+
+mrtermer:c00776 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00776" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Mongolia"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Mongolia"@en .
+
 mrtermer:c00777 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -10811,6 +10083,33 @@ mrtermer:c00777 a ubo:Topic,
     skos:altLabel "Monitoring"@en ;
     skos:inScheme mrtermer: ;
     skos:prefLabel "Monitoring"@en .
+
+mrtermer:c00778 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00778" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Montenegro"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Montenegro"@en .
+
+mrtermer:c00779 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00779" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Morocco"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Morocco"@en .
+
+mrtermer:c00780 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00780" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Mozambique"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Mozambique"@en .
 
 mrtermer:c00781 a ubo:Topic,
         skos:Concept ;
@@ -10862,6 +10161,15 @@ mrtermer:c00784 a ubo:Topic,
     skos:altLabel "Muslims"@en ;
     skos:inScheme mrtermer: ;
     skos:prefLabel "Muslims"@en .
+
+mrtermer:c00785 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00785" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Namibia"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Namibia"@en .
 
 mrtermer:c00786 a ubo:Topic,
         skos:Concept ;
@@ -11122,6 +10430,24 @@ mrtermer:c00803 a ubo:Topic,
     skos:related mrtermer:c00949,
         mrtermer:c01183 .
 
+mrtermer:c00804 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00804" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Nepal"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Nepal"@en .
+
+mrtermer:c00805 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00805" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Netherlands"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Netherlands"@en .
+
 mrtermer:c00806 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -11148,6 +10474,15 @@ mrtermer:c00807 a ubo:Topic,
         mrtermer:c00688,
         mrtermer:c00823,
         mrtermer:c01050 .
+
+mrtermer:c00808 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00808" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "New Zealand"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "New Zealand"@en .
 
 mrtermer:c00809 a ubo:Topic,
         skos:Concept ;
@@ -11205,6 +10540,33 @@ mrtermer:c00812 a ubo:Topic,
         mrtermer:c00713,
         mrtermer:c00806,
         mrtermer:c01139 .
+
+mrtermer:c00813 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00813" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Nicaragua"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Nicaragua"@en .
+
+mrtermer:c00814 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00814" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Niger"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Niger"@en .
+
+mrtermer:c00815 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00815" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Nigeria"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Nigeria"@en .
 
 mrtermer:c00816 a ubo:Topic,
         skos:Concept ;
@@ -11283,6 +10645,15 @@ mrtermer:c00821 a ubo:Topic,
     skos:inScheme mrtermer: ;
     skos:prefLabel "Non-wage benefits"@en .
 
+mrtermer:c00822 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00822" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Nordic Countries"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Nordic Countries"@en .
+
 mrtermer:c00823 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -11298,6 +10669,51 @@ mrtermer:c00823 a ubo:Topic,
         mrtermer:c00622,
         mrtermer:c00688,
         mrtermer:c00807 .
+
+mrtermer:c00824 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00824" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Northern Africa"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Northern Africa"@en .
+
+mrtermer:c00825 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00825" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Northern America"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Northern America"@en .
+
+mrtermer:c00826 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00826" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Northern Europe"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Northern Europe"@en .
+
+mrtermer:c00827 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00827" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Northern Ireland [United Kingdom]"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Northern Ireland [United Kingdom]"@en .
+
+mrtermer:c00828 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00828" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Norway"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Norway"@en .
 
 mrtermer:c00829 a ubo:Topic,
         skos:Concept ;
@@ -11379,6 +10795,24 @@ mrtermer:c00835 a ubo:Topic,
         mrtermer:c01039,
         mrtermer:c01055,
         mrtermer:c01089 .
+
+mrtermer:c00836 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00836" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Occupied Palestinian Territory"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Occupied Palestinian Territory"@en .
+
+mrtermer:c00837 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00837" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Oceania"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Oceania"@en .
 
 mrtermer:c00838 a ubo:Topic,
         skos:Concept ;
@@ -11487,6 +10921,15 @@ mrtermer:c00846 a ubo:Topic,
     skos:inScheme mrtermer: ;
     skos:prefLabel "Orthodox Church"@en .
 
+mrtermer:c00847 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00847" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Pacific Region"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Pacific Region"@en .
+
 mrtermer:c00848 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -11503,6 +10946,15 @@ mrtermer:c00848 a ubo:Topic,
         mrtermer:c00865,
         mrtermer:c01063 .
 
+mrtermer:c00849 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00849" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Pakistan"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Pakistan"@en .
+
 mrtermer:c00850 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -11511,6 +10963,33 @@ mrtermer:c00850 a ubo:Topic,
     skos:altLabel "Palestinians"@en ;
     skos:inScheme mrtermer: ;
     skos:prefLabel "Palestinians"@en .
+
+mrtermer:c00851 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00851" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Panama"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Panama"@en .
+
+mrtermer:c00852 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00852" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Papua New Guinea"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Papua New Guinea"@en .
+
+mrtermer:c00853 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00853" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Paraguay"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Paraguay"@en .
 
 mrtermer:c00854 a ubo:Topic,
         skos:Concept ;
@@ -11858,6 +11337,15 @@ mrtermer:c00878 a ubo:Topic,
     skos:inScheme mrtermer: ;
     skos:prefLabel "Persecution"@en .
 
+mrtermer:c00879 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00879" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Peru"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Peru"@en .
+
 mrtermer:c00880 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -11870,6 +11358,15 @@ mrtermer:c00880 a ubo:Topic,
         mrtermer:c00593,
         mrtermer:c00609,
         mrtermer:c00620 .
+
+mrtermer:c00881 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00881" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Philippines"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Philippines"@en .
 
 mrtermer:c00882 a ubo:Topic,
         skos:Concept ;
@@ -11960,6 +11457,15 @@ mrtermer:c00888 a ubo:Topic,
         mrtermer:c00691,
         mrtermer:c00782,
         mrtermer:c00905 .
+
+mrtermer:c00889 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00889" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Poland"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Poland"@en .
 
 mrtermer:c00890 a ubo:Topic,
         skos:Concept ;
@@ -12374,6 +11880,15 @@ mrtermer:c00917 a ubo:Topic,
         mrtermer:c00862,
         mrtermer:c01222 .
 
+mrtermer:c00918 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00918" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Polynesia"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Polynesia"@en .
+
 mrtermer:c00919 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -12460,6 +11975,15 @@ mrtermer:c00924 a ubo:Topic,
         mrtermer:c00501,
         mrtermer:c00956,
         mrtermer:c00959 .
+
+mrtermer:c00925 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00925" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Portugal"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Portugal"@en .
 
 mrtermer:c00926 a ubo:Topic,
         skos:Concept ;
@@ -13150,6 +12674,15 @@ mrtermer:c00977 a ubo:Topic,
     skos:altLabel "Punishment"@en ;
     skos:inScheme mrtermer: ;
     skos:prefLabel "Punishment"@en .
+
+mrtermer:c00978 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR00978" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Qatar"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Qatar"@en .
 
 mrtermer:c00979 a ubo:Topic,
         skos:Concept ;
@@ -14647,6 +14180,15 @@ mrtermer:c01077 a ubo:Topic,
     skos:inScheme mrtermer: ;
     skos:prefLabel "Roma"@en .
 
+mrtermer:c01078 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01078" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Romania"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Romania"@en .
+
 mrtermer:c01079 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -14718,6 +14260,24 @@ mrtermer:c01083 a ubo:Topic,
         mrtermer:c01080,
         mrtermer:c01296 .
 
+mrtermer:c01084 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01084" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Russian Federation"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Russian Federation"@en .
+
+mrtermer:c01085 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01085" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Rwanda"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Rwanda"@en .
+
 mrtermer:c01086 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -14766,6 +14326,24 @@ mrtermer:c01089 a ubo:Topic,
         mrtermer:c00507,
         mrtermer:c00835,
         mrtermer:c01055 .
+
+mrtermer:c01090 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01090" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Sao Tome And Principe"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Sao Tome And Principe"@en .
+
+mrtermer:c01091 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01091" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Saudi Arabia"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Saudi Arabia"@en .
 
 mrtermer:c01092 a ubo:Topic,
         skos:Concept ;
@@ -14980,6 +14558,15 @@ mrtermer:c01107 a ubo:Topic,
         mrtermer:c01068,
         mrtermer:c01294 .
 
+mrtermer:c01108 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01108" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Senegal"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Senegal"@en .
+
 mrtermer:c01109 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -15019,6 +14606,15 @@ mrtermer:c01111 a ubo:Topic,
         mrtermer:c00876,
         mrtermer:c01097,
         mrtermer:c01105 .
+
+mrtermer:c01112 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01112" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Serbia"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Serbia"@en .
 
 mrtermer:c01113 a ubo:Topic,
         skos:Concept ;
@@ -15144,6 +14740,15 @@ mrtermer:c01122 a ubo:Topic,
     skos:inScheme mrtermer: ;
     skos:prefLabel "Sharia"@en .
 
+mrtermer:c01123 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01123" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Sierra Leone"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Sierra Leone"@en .
+
 mrtermer:c01124 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -15152,6 +14757,15 @@ mrtermer:c01124 a ubo:Topic,
     skos:altLabel "Sikhism"@en ;
     skos:inScheme mrtermer: ;
     skos:prefLabel "Sikhism"@en .
+
+mrtermer:c01125 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01125" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Singapore"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Singapore"@en .
 
 mrtermer:c01126 a ubo:Topic,
         skos:Concept ;
@@ -15179,6 +14793,24 @@ mrtermer:c01127 a ubo:Topic,
         mrtermer:c01059,
         mrtermer:c01113,
         mrtermer:c01223 .
+
+mrtermer:c01128 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01128" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Slovakia"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Slovakia"@en .
+
+mrtermer:c01129 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01129" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Slovenia"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Slovenia"@en .
 
 mrtermer:c01130 a ubo:Topic,
         skos:Concept ;
@@ -15496,6 +15128,87 @@ mrtermer:c01154 a ubo:Topic,
     skos:inScheme mrtermer: ;
     skos:prefLabel "Solitary confinement"@en .
 
+mrtermer:c01155 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01155" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Solomon Islands"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Solomon Islands"@en .
+
+mrtermer:c01156 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01156" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Somalia"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Somalia"@en .
+
+mrtermer:c01157 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01157" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "South Africa"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "South Africa"@en .
+
+mrtermer:c01158 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01158" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "South America"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "South America"@en .
+
+mrtermer:c01159 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01159" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "South Asia"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "South Asia"@en .
+
+mrtermer:c01160 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01160" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "South Sudan"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "South Sudan"@en .
+
+mrtermer:c01161 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01161" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "South-East Asia"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "South-East Asia"@en .
+
+mrtermer:c01162 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01162" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Southern Africa"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Southern Africa"@en .
+
+mrtermer:c01163 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01163" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Southern Europe"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Southern Europe"@en .
+
 mrtermer:c01164 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -15506,6 +15219,15 @@ mrtermer:c01164 a ubo:Topic,
     skos:prefLabel "Sovereignty"@en ;
     skos:related mrtermer:c00563,
         mrtermer:c01176 .
+
+mrtermer:c01165 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01165" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Spain"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Spain"@en .
 
 mrtermer:c01166 a ubo:Topic,
         skos:Concept ;
@@ -15552,6 +15274,15 @@ mrtermer:c01169 a ubo:Topic,
         mrtermer:c00443,
         mrtermer:c00727,
         mrtermer:c00738 .
+
+mrtermer:c01170 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01170" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Sri Lanka"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Sri Lanka"@en .
 
 mrtermer:c01171 a ubo:Topic,
         skos:Concept ;
@@ -15678,6 +15409,15 @@ mrtermer:c01179 a ubo:Topic,
         mrtermer:c01041,
         mrtermer:c01231 .
 
+mrtermer:c01180 a ubo:GenreForm,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01180" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Statistics"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Statistics"@en .
+
 mrtermer:c01181 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -15744,6 +15484,15 @@ mrtermer:c01185 a ubo:Topic,
         mrtermer:c01254,
         mrtermer:c01312 .
 
+mrtermer:c01186 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01186" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Sudan"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Sudan"@en .
+
 mrtermer:c01187 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -15754,6 +15503,15 @@ mrtermer:c01187 a ubo:Topic,
     skos:prefLabel "Suicide"@en ;
     skos:related mrtermer:c00399,
         mrtermer:c01051 .
+
+mrtermer:c01188 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01188" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Suriname"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Suriname"@en .
 
 mrtermer:c01189 a ubo:Topic,
         skos:Concept ;
@@ -15770,6 +15528,42 @@ mrtermer:c01189 a ubo:Topic,
         mrtermer:c01050,
         mrtermer:c01293 .
 
+mrtermer:c01190 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01190" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Swaziland"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Swaziland"@en .
+
+mrtermer:c01191 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01191" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Sweden"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Sweden"@en .
+
+mrtermer:c01192 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01192" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Switzerland"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Switzerland"@en .
+
+mrtermer:c01193 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01193" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Syrian Arab Republic"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Syrian Arab Republic"@en .
+
 mrtermer:c01194 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -15784,6 +15578,24 @@ mrtermer:c01194 a ubo:Topic,
         mrtermer:c00379,
         mrtermer:c01300 .
 
+mrtermer:c01195 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01195" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Taiwan, Province Of China"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Taiwan, Province Of China"@en .
+
+mrtermer:c01196 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01196" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Tajikistan"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Tajikistan"@en .
+
 mrtermer:c01197 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -15792,6 +15604,15 @@ mrtermer:c01197 a ubo:Topic,
     skos:altLabel "Taliban"@en ;
     skos:inScheme mrtermer: ;
     skos:prefLabel "Taliban"@en .
+
+mrtermer:c01198 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01198" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Tanzania, United Republic Of"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Tanzania, United Republic Of"@en .
 
 mrtermer:c01199 a ubo:Topic,
         skos:Concept ;
@@ -15882,6 +15703,15 @@ mrtermer:c01205 a ubo:Topic,
         mrtermer:c00893,
         mrtermer:c01294 .
 
+mrtermer:c01206 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01206" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Thailand"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Thailand"@en .
+
 mrtermer:c01207 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -15916,6 +15746,15 @@ mrtermer:c01209 a ubo:Topic,
     skos:inScheme mrtermer: ;
     skos:prefLabel "Third World"@en .
 
+mrtermer:c01210 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01210" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Tibet [China]"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Tibet [China]"@en .
+
 mrtermer:c01211 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -15924,6 +15763,15 @@ mrtermer:c01211 a ubo:Topic,
     skos:altLabel "Tigrinya"@en ;
     skos:inScheme mrtermer: ;
     skos:prefLabel "Tigrinya"@en .
+
+mrtermer:c01212 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01212" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Togo"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Togo"@en .
 
 mrtermer:c01213 a ubo:Topic,
         skos:Concept ;
@@ -16179,6 +16027,15 @@ mrtermer:c01231 a ubo:Topic,
         mrtermer:c01042,
         mrtermer:c01179 .
 
+mrtermer:c01232 a ubo:GenreForm,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01232" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Travel guides"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Travel guides"@en .
+
 mrtermer:c01233 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -16239,6 +16096,15 @@ mrtermer:c01237 a ubo:Topic,
         mrtermer:c01220,
         mrtermer:c01221 .
 
+mrtermer:c01238 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01238" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Trinidad And Tobago"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Trinidad And Tobago"@en .
+
 mrtermer:c01239 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -16265,6 +16131,42 @@ mrtermer:c01240 a ubo:Topic,
         mrtermer:c00989,
         mrtermer:c01226 .
 
+mrtermer:c01241 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01241" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Tunisia"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Tunisia"@en .
+
+mrtermer:c01242 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01242" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Turkey"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Turkey"@en .
+
+mrtermer:c01243 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01243" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Uganda"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Uganda"@en .
+
+mrtermer:c01244 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01244" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Ukraine"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Ukraine"@en .
+
 mrtermer:c01245 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -16275,6 +16177,24 @@ mrtermer:c01245 a ubo:Topic,
     skos:prefLabel "Unemployment"@en ;
     skos:related mrtermer:c00669,
         mrtermer:c01076 .
+
+mrtermer:c01246 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01246" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "United Arab Emirates"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "United Arab Emirates"@en .
+
+mrtermer:c01247 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01247" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "United Kingdom"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "United Kingdom"@en .
 
 mrtermer:c01248 a ubo:Topic,
         skos:Concept ;
@@ -16293,6 +16213,15 @@ mrtermer:c01249 a ubo:Topic,
     skos:altLabel "United Nations treaty-based bodies"@en ;
     skos:inScheme mrtermer: ;
     skos:prefLabel "United Nations treaty-based bodies"@en .
+
+mrtermer:c01250 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01250" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "United States"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "United States"@en .
 
 mrtermer:c01251 a ubo:Topic,
         skos:Concept ;
@@ -16427,6 +16356,15 @@ mrtermer:c01260 a ubo:Topic,
     skos:related mrtermer:c00598,
         mrtermer:c01257 .
 
+mrtermer:c01261 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01261" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Uruguay"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Uruguay"@en .
+
 mrtermer:c01262 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -16441,6 +16379,15 @@ mrtermer:c01262 a ubo:Topic,
         mrtermer:c00891,
         mrtermer:c00892,
         mrtermer:c01101 .
+
+mrtermer:c01263 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01263" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Uzbekistan"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Uzbekistan"@en .
 
 mrtermer:c01264 a ubo:Topic,
         skos:Concept ;
@@ -16464,6 +16411,15 @@ mrtermer:c01265 a ubo:Topic,
         mrtermer:c00951,
         mrtermer:c00959,
         mrtermer:c01010 .
+
+mrtermer:c01266 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01266" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Venezuela"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Venezuela"@en .
 
 mrtermer:c01267 a ubo:Topic,
         skos:Concept ;
@@ -16505,6 +16461,15 @@ mrtermer:c01269 a ubo:Topic,
     skos:related mrtermer:c00364,
         mrtermer:c00534,
         mrtermer:c01022 .
+
+mrtermer:c01270 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01270" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Viet Nam"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Viet Nam"@en .
 
 mrtermer:c01271 a ubo:Topic,
         skos:Concept ;
@@ -16610,6 +16575,15 @@ mrtermer:c01278 a ubo:Topic,
     skos:prefLabel "Wages"@en ;
     skos:related mrtermer:c00821,
         mrtermer:c00863 .
+
+mrtermer:c01279 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01279" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Wales"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Wales"@en .
 
 mrtermer:c01280 a ubo:Topic,
         skos:Concept ;
@@ -16717,6 +16691,33 @@ mrtermer:c01287 a ubo:Topic,
     skos:inScheme mrtermer: ;
     skos:prefLabel "Welfare state"@en ;
     skos:related mrtermer:c01140 .
+
+mrtermer:c01288 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01288" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "West Bank"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "West Bank"@en .
+
+mrtermer:c01289 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01289" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Western Africa"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Western Africa"@en .
+
+mrtermer:c01290 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01290" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Western Europe"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Western Europe"@en .
 
 mrtermer:c01291 a ubo:Topic,
         skos:Concept ;
@@ -16973,6 +16974,24 @@ mrtermer:c01308 a ubo:Topic,
         mrtermer:c00985,
         mrtermer:c00986 .
 
+mrtermer:c01309 a ubo:GenreForm,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01309" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Yearbooks"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Yearbooks"@en .
+
+mrtermer:c01310 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01310" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Yemen"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Yemen"@en .
+
 mrtermer:c01311 a ubo:Topic,
         skos:Concept ;
     dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
@@ -17000,6 +17019,51 @@ mrtermer:c01312 a ubo:Topic,
         mrtermer:c00135,
         mrtermer:c00653,
         mrtermer:c01185 .
+
+mrtermer:c01313 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01313" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Yugoslavia"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Yugoslavia"@en .
+
+mrtermer:c01314 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01314" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Zaire"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Zaire"@en .
+
+mrtermer:c01315 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01315" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Zambia"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Zambia"@en .
+
+mrtermer:c01316 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01316" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Zanzibar"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Zanzibar"@en .
+
+mrtermer:c01317 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR01317" ;
+    dcterms:modified "2016-01-26T13:37:12+00:00"^^xsd:dateTime ;
+    skos:altLabel "Zimbabwe"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Zimbabwe"@en .
 
 mrtermer:c01318 a ubo:Topic,
         skos:Concept ;
@@ -17041,103 +17105,39 @@ mrtermer:c01321 a ubo:Topic,
     skos:inScheme mrtermer: ;
     skos:prefLabel "East Asia"@en .
 
-mrtermer: a void:Dataset,
-        skos:ConceptScheme,
-        sd:Graph ;
-    rdfs:label "Human Rights Terms"@en,
-        "Menneskerettighetstermer"@nb ;
-    cc:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
-    dcterms:creator library:k ;
-    dcterms:description "Human Rights Terms is a controlled subject headings vocabulary covering mainly human rights literature, and is maintained by the Human Rights Library, part of the UiO Law Library."@en,
-        "Menneskerettighetstermer er et kontrollert, pre-koordinert emneordsvokabular som forvaltes og videreutvikles av Norsk senter for menneskerettigheters (SMR) bibliotek."@nb ;
-    dcterms:language lexvo:eng ;
-    dcterms:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
-    dcterms:modified "2018-03-15T23:16:18+00:00"^^xsd:dateTime ;
-    dcterms:publisher library:k ;
-    dcterms:title "Human Rights Terms"@en,
-        "Menneskerettighetstermer"@nb ;
-    dcterms:type <http://purl.org/dc/dcmitype/Dataset>,
-        <http://purl.org/nkos/nkostype/subject_heading_scheme> ;
-    void:dataDump <http://data.ub.uio.no/dumps/mrtermer.ttl> ;
-    void:exampleResource mrtermer:c00007 ;
-    void:sparqlEndpoint <http://data.ub.uio.no/sparql> ;
-    void:uriSpace mrtermer: ;
-    void:vocabulary mads:,
-        skos: .
+mrtermer:c001325 a ubo:Topic,
+        skos:Concept ;
+    dcterms:created "2016-04-15T10:17:02+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR001325" ;
+    dcterms:modified "2016-04-15T10:17:32+00:00"^^xsd:dateTime ;
+    skos:altLabel "Knuts exercise"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Knuts testterm"@en .
 
-ubo:CompoundConcept a owl:Class ;
-    rdfs:label "Compound concept"@en,
-        "Emnestreng"@nb ;
-    rdfs:description "A concept composed of two or more concepts from the same vocabulary."@en ;
-    rdfs:subClassOf mads:ComplexSubject,
-        skos:Concept .
+mrtermer:c001326 a ubo:GenreForm,
+        skos:Concept ;
+    dcterms:created "2016-04-15T10:18:32+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR001326" ;
+    dcterms:modified "2016-04-18T14:45:55+00:00"^^xsd:dateTime ;
+    skos:altLabel "Doctoral thesis NCHR"@en ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Doctoral thesis NCHR"@en .
 
-ubo:GenreForm a owl:Class ;
-    rdfs:label "Form/genre"@en,
-        "Form/sjanger"@nb ;
-    rdfs:description "A genre or form."@en ;
-    rdfs:subClassOf mads:GenreForm,
-        skos:Concept .
+mrtermer:c001327 a ubo:Place,
+        skos:Concept ;
+    dcterms:created "2016-04-18T15:05:16+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR001327" ;
+    dcterms:modified "2016-04-18T15:05:30+00:00"^^xsd:dateTime ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "Myanmar"@en ;
+    skos:related mrtermer:c00099 .
 
-ubo:Place a owl:Class ;
-    rdfs:label "Place"@en,
-        "Sted"@nb ;
-    rdfs:description "A geographic place or feature."@en ;
-    rdfs:subClassOf mads:Geographic,
-        skos:Concept .
-
-ubo:Time a owl:Class ;
-    rdfs:label "Time period"@en,
-        "Tidsperiode"@nb ;
-    rdfs:description "A temporal entity."@en ;
-    rdfs:subClassOf mads:Temporal,
-        skos:Concept .
-
-ubo:Topic a owl:Class ;
-    rdfs:label "Topic"@en,
-        "Innholdsbeskrivende emne"@nb ;
-    rdfs:description "A topical subject senso stricto."@en ;
-    rdfs:subClassOf mads:Topic,
-        skos:Concept .
-
-ubo:VirtualCompoundConcept a owl:Class ;
-    rdfs:label "Virtual compound concept"@en,
-        "Virtuell emnestreng"@nb ;
-    rdfs:description "A compound concept used as a search guide, but indexed as separate concepts."@en ;
-    rdfs:subClassOf mads:ComplexSubject,
-        skos:Concept .
-
-ubo:elementSymbol a owl:DatatypeProperty ;
-    rdfs:label "Chemical element symbol"@en,
-        "Kjemisk symbol"@nb ;
-    rdfs:domain skos:Concept ;
-    rdfs:range rdfs:Literal .
-
-ubo: a owl:Ontology ;
-    owl:versionInfo "0.1.0" .
-
-<http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
-    dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
-    dcterms:title "data.ub.uio.no" ;
-    sd:defaultGraph <http://data.ub.uio.no/sparql/graphs/default> ;
-    sd:namedGraph <http://data.ub.uio.no/sparql/graphs/mrtermer> .
-
-<http://data.ub.uio.no/sparql/graphs/default> a sd:Graph .
-
-<http://data.ub.uio.no/sparql/graphs/mrtermer> a sd:NamedGraph ;
-    sd:graph mrtermer: ;
-    sd:name mrtermer: .
-
-<http://data.ub.uio.no/sparql> a sd:Service ;
-    sd:defaultDataset <http://data.ub.uio.no/sparql/dataset> ;
-    sd:feature sd:UnionDefaultGraph ;
-    sd:supportedLanguage sd:SPARQL11Query ;
-    sd:url <http://data.ub.uio.no/sparql> .
-
-library:k a foaf:Organization ;
-    rdfs:label "University of Oslo Library"@en,
-        "Universitetsbiblioteket i Oslo"@nb ;
-    owl:sameAs <http://dbpedia.org/resource/University_Library_of_Oslo>,
-        <http://viaf.org/viaf/155670338/>,
-        <http://www.wikidata.org/entity/Q3354774> .
+mrtermer:c001328 a ubo:Topic,
+        skos:Concept ;
+    dcterms:created "2016-04-19T08:36:07+00:00"^^xsd:dateTime ;
+    dcterms:identifier "SMR001328" ;
+    dcterms:modified "2016-04-19T14:39:48+00:00"^^xsd:dateTime ;
+    skos:inScheme mrtermer: ;
+    skos:prefLabel "R2P"@en ;
+    skos:related mrtermer:c01032 .
 
