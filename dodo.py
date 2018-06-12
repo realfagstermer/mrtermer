@@ -68,9 +68,14 @@ def task_build():
                      config['basename'], format='marc21', **marc21options)
         logger.info('Wrote dist/%s.marc21.xml', config['basename'])
 
-        roald.export('dist/%s.ttl' % config['basename'], format='rdfskos',
-                     include=['%s.scheme.ttl' % config['basename'], 'src/ub-onto.ttl'])
+        prepared = roald.prepare_export(format='rdfskos', include=[
+            '%s.scheme.ttl' % config['basename'],
+            'src/ub-onto.ttl',
+        ])
+        prepared.write('dist/%s.ttl' % config['basename'], format='turtle')
         logger.info('Wrote dist/%s.ttl', config['basename'])
+        prepared.write('dist/%s.nt' % config['basename'], format='nt')
+        logger.info('Wrote dist/%s.nt', config['basename'])
 
     return {
         'doc': 'Build distribution files (RDF/SKOS + MARC21XML) from source files',
@@ -86,6 +91,7 @@ def task_build():
             '%s.json' % config['basename'],
             'dist/%s.marc21.xml' % config['basename'],
             'dist/%s.ttl' % config['basename'],
+            'dist/%s.nt' % config['basename'],
         ]
     }
 
@@ -97,7 +103,8 @@ def task_git_push():
 def task_publish_dumps():
     return data_ub_tasks.publish_dumps_task_gen(config['dumps_dir'], [
         '%s.marc21.xml' % config['basename'],
-        '%s.ttl' % config['basename']
+        '%s.ttl' % config['basename'],
+        '%s.nt' % config['basename'],
     ])
 
 def task_fuseki():
