@@ -13,7 +13,7 @@ config = {
     'dumps_dir': get_var('dumps_dir', '/opt/data.ub/www/default/dumps'),
     'dumps_dir_url': get_var('dumps_dir_url', 'http://data.ub.uio.no/dumps'),
     'graph': 'http://data.ub.uio.no/mrtermer',
-    'fuseki': 'http://localhost:3031/ds',
+    'fuseki': 'http://127.0.0.1:3031/ds',
     'basename': 'mrtermer',
     'git_user': 'ubo-bot',
     'git_email': 'danmichaelo+ubobot@gmail.com',
