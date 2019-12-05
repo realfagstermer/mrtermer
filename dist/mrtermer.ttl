@@ -26,7 +26,7 @@ mrtermer: a void:Dataset,
         "Menneskerettighetstermer er et kontrollert, pre-koordinert emneordsvokabular som forvaltes og videreutvikles av Norsk senter for menneskerettigheters (SMR) bibliotek."@nb ;
     dcterms:language lexvo:eng ;
     dcterms:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
-    dcterms:modified "2019-09-24T19:30:08+00:00"^^xsd:dateTime ;
+    dcterms:modified "2019-12-05T20:30:09+00:00"^^xsd:dateTime ;
     dcterms:publisher library:k ;
     dcterms:title "Human Rights Terms"@en,
         "Menneskerettighetstermer"@nb ;
@@ -65,73 +65,93 @@ library:k a foaf:Organization ;
     sd:name mrtermer: .
 
 ubo: a owl:Ontology ;
-    owl:versionInfo "0.1.0" .
+    owl:versionInfo "0.2.0" .
 
-ubo:CompoundConcept a owl:Class ;
-    rdfs:label "Compound concept"@en,
+ubo:ComplexConcept a rdfs:Class,
+        owl:Class ;
+    rdfs:label "Complex concept"@en,
         "Emnestreng"@nb ;
     rdfs:description "Concept composed of two or more concepts from the same vocabulary."@en ;
+    rdfs:isDefinedBy ubo: ;
     rdfs:subClassOf mads:ComplexSubject,
         skos:Concept .
 
-ubo:GenreForm a owl:Class ;
+ubo:GenreForm a rdfs:Class,
+        owl:Class ;
     rdfs:label "Form/genre"@en,
         "Form/sjanger"@nb ;
     rdfs:description "Genre or form."@en ;
+    rdfs:isDefinedBy ubo: ;
     rdfs:subClassOf mads:GenreForm,
         skos:Concept .
 
-ubo:Geographic a owl:Class ;
+ubo:Geographic a rdfs:Class,
+        owl:Class ;
     rdfs:label "Geographic"@en,
         "Geografisk"@nb ;
     rdfs:description "Geographic place or feature."@en ;
+    rdfs:isDefinedBy ubo: ;
     rdfs:subClassOf mads:Geographic,
         skos:Concept .
 
-ubo:LinkingTerm a owl:Class ;
+ubo:LinkingTerm a rdfs:Class,
+        owl:Class ;
     rdfs:label "Linking term"@en,
         "Knuteterm"@nb ;
     rdfs:description "Concept that form part of the hierarchy, but are not used for indexing."@en ;
+    rdfs:isDefinedBy ubo: ;
     rdfs:subClassOf skos:Concept .
 
-ubo:SplitNonPreferredTerm a owl:Class ;
+ubo:SplitNonPreferredTerm a rdfs:Class,
+        owl:Class ;
     rdfs:label "Split non-preferred term"@en,
         "Generell se-henvisning"@nb ;
     rdfs:description "Complex concept that refers to two or more other concepts that should be used in place of this concept when indexing."@en ;
+    rdfs:isDefinedBy ubo: ;
     rdfs:subClassOf skos:Concept .
 
-ubo:Temporal a owl:Class ;
+ubo:Temporal a rdfs:Class,
+        owl:Class ;
     rdfs:label "Chronological"@en,
         "Kronologisk"@nb ;
     rdfs:description "Epoch, time period or other chronological entity."@en ;
+    rdfs:isDefinedBy ubo: ;
     rdfs:subClassOf mads:Temporal,
         skos:Concept .
 
-ubo:Topic a owl:Class ;
+ubo:Topic a rdfs:Class,
+        owl:Class ;
     rdfs:label "Topic"@en,
         "Innholdsbeskrivende emne"@nb ;
     rdfs:description "Topical subject senso stricto."@en ;
+    rdfs:isDefinedBy ubo: ;
     rdfs:subClassOf mads:Topic,
         skos:Concept .
 
-ubo:VirtualCompoundConcept a owl:Class ;
-    rdfs:label "Virtual compound concept"@en,
+ubo:VirtualComplexConcept a rdfs:Class,
+        owl:Class ;
+    rdfs:label "Virtual complex concept"@en,
         "Virtuell emnestreng"@nb ;
-    rdfs:description "Compound concept used as a search guide, but indexed as separate concepts."@en ;
+    rdfs:description "Complex concept used as a search guide, but indexed as separate concepts."@en ;
+    rdfs:isDefinedBy ubo: ;
     rdfs:subClassOf mads:ComplexSubject,
         skos:Concept .
 
-ubo:elementSymbol a owl:DatatypeProperty ;
+ubo:elementSymbol a rdf:Property,
+        owl:DatatypeProperty ;
     rdfs:label "Chemical element symbol"@en,
         "Kjemisk symbol"@nb ;
     rdfs:domain skos:Concept ;
+    rdfs:isDefinedBy ubo: ;
     rdfs:range rdfs:Literal .
 
-ubo:plusUseTerm a owl:DatatypeProperty ;
+ubo:plusUseTerm a rdf:Property,
+        owl:DatatypeProperty ;
     rdfs:label "Use+"@en,
         "Bruk+"@nb ;
     rdfs:description "Compound equivalence relation"@en ;
     rdfs:domain ubo:SplitNonPreferredTerm ;
+    rdfs:isDefinedBy ubo: ;
     rdfs:range skos:Concept .
 
 mrtermer:c00001 a ubo:Topic,
